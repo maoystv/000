@@ -141,34 +141,34 @@
       "ext": "تعيين البث المباشر كصفحة رئيسية"
     },
     {
-      "key": "csp_biubiu_LIBVIO",
-      "name": "LIBVIO(XB)",
+      "key": "csp__xpath_libv",
+      "name": "LIBVIO(XP)",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XB/LIBVIO.json"
+      "ext": "https://notabug.org/wzs888/CatVodTVSpider/raw/master/XPath/libvio.json"
     },
     {
-      "key": "csp_biubiu_骚火电影",
-      "name": "骚火(XB)",
+      "key": "csp_xpath_saohuo",
+      "name": "骚火(XP)",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1.json"
+      "ext": "https://notabug.org/wzs888/CatVodTVSpider/raw/master/XPath/saohuo.json"
     },
     {
-      "key": "csp_biubiu_黑洞影视",
-      "name": "黑洞(XB)",
+      "key": "csp_xpath_netf",
+      "name": "网飞(XP)",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XPathFilter",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e9%bb%91%e6%b4%9e%e5%bd%b1%e8%a7%86.json"
+      "ext": "https://notabug.org/wzs888/CatVodTVSpider/raw/master/XPath/netflix.json"
     },
     {
       "key": "push_agent",
