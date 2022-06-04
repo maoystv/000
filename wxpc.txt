@@ -540,6 +540,14 @@
       "filterable": 1,
       "ext": "https://cdn.staticaly.com/gh/tvba/x/main/519-age.js"
     },
+    {
+      "key":"江北官采",
+      "name":"江北",
+      "type":0,
+      "searchable":1,
+      "quickSearch":1,
+      "api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml","playUrl":""
+     },
     {"key": "大香蕉","name": "大香蕉🔞","type": 0,"api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml","playUrl": ""},
 {"key": "酷豆影视","name": "🔞酷豆影视(Exo)","type": 0,"api": "http://api.kdapi.info/api.php/provide/vod/at/xml","playUrl": ""},      
 {"key": "爱播",
