@@ -95,42 +95,6 @@
       "filterable": 0
     },
     {
-      "key": "libvio",
-      "name": "libvio🐞",
-      "type": 1,
-      "api": "http://pandown.pro/maoys/libvio.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_Fantuan",
-      "name": "饭团🐞",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lezhu",
-      "name": "乐猪🐞",
-      "type": 1,
-      "api": "http://pandown.pro/maoys/lezhu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "副厂长资源",
-      "name": "副厂长",
-      "type": 1,
-      "api": "http://a.xixi008.tk/pap/czzy.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "csp_GitCafe",
       "name": "纸条😻",
       "type": 3,
@@ -207,16 +171,6 @@
       "ext": "https://hk1.monika.love/tvba/x/main/505-heidong.js"
     },
     {
-      "key": "csp_xpath_01-猫群自维护源789",
-      "name": "九看",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/tvba/x/main/519-789kan.json"
-    },
-    {
       "key": "人人迷",
       "name": "人人迷",
       "type": 1,
@@ -246,16 +200,6 @@
       "ext": "https://hk1.monika.love/tvba/x/main/libvio.json"
     },
     {
-      "key": "csp_xpath_猫群自维护源nanfu",
-      "name": "南府",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://serverless-100020851183.coding.net/p/t/d/OneClickRun/git/raw/master/cat/Aixixi.json?download=false"
-    },
-    {
       "key": "csp_xpath_猫群自维护源A13",
       "name": "六度",
       "type": 3,
@@ -274,26 +218,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://hk1.monika.love/tvba/x/main/519-xiaoxiong.json"
-    },
-    {
-      "key": "csp_xpath_猫群自维护源renren",
-      "name": "人人",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hk1.monika.love/tvba/x/main/519-renren.json"
-    },
-    {
-      "key": "csp_xpath_猫群自维护库naikan",
-      "name": "耐看",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hk1.monika.love/tvba/x/main/516-naikan.js"
     },
     {
       "key": "csp_xpath_猫群自维护库kankan",
@@ -316,16 +240,6 @@
       "ext": "http://ttzmz.net/api.php/v1.vod"
     },
     {
-      "key": "csp_AppYs_美剧虫",
-      "name": "美虫",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://meijuchong.com/api.php/v1.vod"
-    },
-    {
       "key": "csp_xpath_猫群自维护源04",
       "name": "久久",
       "type": 3,
@@ -334,15 +248,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://hk1.monika.love/tvba/x/main/jiujiu.js"
-    },
-    {
-      "key": "天空影视",
-      "name": "天空",
-      "type": 1,
-      "api": "http://a.xixi008.tk/pap/tkys.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "csp_xpath_猫群自维护库62",
@@ -395,16 +300,6 @@
       "ext": "https://hk1.monika.love/tvba/x/main/519-yingba.json"
     },
     {
-      "key": "csp_XPathMacFilter_猫群自维护源01-js",
-      "name": "VOD",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hk1.monika.love/tvba/x/main/519-vod.json"
-    },
-    {
       "key": "csp_XPathMacFilter_猫群自维护源02",
       "name": "极品",
       "type": 3,
@@ -423,15 +318,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://hk1.monika.love/tvba/x/main/519-huamao.json"
-    },
-    {
-      "key": "ikan",
-      "name": "爱看",
-      "type": 1,
-      "api": "http://aa.xixi008.cf/pap/ikan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "csp_xpath_猫群自维护库yb",
@@ -463,15 +349,6 @@
       "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
     },
     {
-      "key": "dyxs1",
-      "name": "先生",
-      "type": 1,
-      "api": "http://a.xixi008.tk/pap/dyxs.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "dyniu",
       "name": "电牛",
       "type": 1,
@@ -479,26 +356,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "csp_xpath_猫群自维护库72",
-      "name": "钉钉",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hk1.monika.love/tvba/x/main/519-dingzidy.json"
-    },
-    {
-      "key": "csp_xpath_猫群自维护源21",
-      "name": "樱花",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/tvba/OneClickRun/master/xpath/yinghua2.json"
     },
     {
       "key": "csp_xpath_A32",
@@ -509,16 +366,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://cdn.staticaly.com/gh/tvba/x/main/601-danman.js"
-    },
-    {
-      "key": "csp_xpath_猫群自维护源manhua",
-      "name": "漫画",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://cdn.staticaly.com/gh/tvba/OneClickRun/master/xpath/dmw.json"
     },
     {
       "key": "csp_xpath_猫群自维护源22",
@@ -546,62 +393,24 @@
       "type":0,
       "searchable":1,
       "quickSearch":1,
-      "api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml","playUrl":""
+      "api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml",
+      "playUrl":""
      },
-    {"key": "大香蕉","name": "大香蕉🔞","type": 0,"api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml","playUrl": ""},
-{"key": "酷豆影视","name": "🔞酷豆影视(Exo)","type": 0,"api": "http://api.kdapi.info/api.php/provide/vod/at/xml","playUrl": ""},      
-{"key": "爱播",
-       "name": "爱播🔞",
-       "type": 1,
-       "api": "https://api.aibozyapi.com/vod/",
-       "playUrl": "",
-       "searchable": 0,
-       "categories": []
-    },
-    { "key": "*麻豆视频",
-      "name": "麻豆视频🔞",
-      "type": 0,
-      "api": "http://caiji04.com/home/cjapi/03afdbd66e7929b125f8597834fa83a4/vod/xml"
-    },
+     {"key": "酷豆影视",
+     "name": "🔞酷豆影视(Exo)",
+     "type": 0,
+     "api": "http://api.kdapi.info/api.php/provide/vod/at/xml",
+     "playUrl": ""},      
+    
     {  "key": "乐鱼",
        "name": "乐鱼🔞",
        "type": 0,
        "api": "https://www.leyuzyapi.com/inc/seacmsapi.php",
        "playUrl": "" 
     },
-    {"key": "芒果（18X）",
-     "name": "芒果🔞",
-     "type": 0,
-     "api": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
-     "playUrl": "",
-     "searchable": 0,
-     "categories": []
-    },
-    {
-       "key": "淫水机",
-       "name": "淫水机🔞",
-       "type": 1,
-       "api": "https://www.xrbsp.com/api/xml.php",
-       "playUrl": "",
-       "searchable": 0,
-       "categories": []
-    },
-    {"key": "天堂伦理",
-     "name": "天堂伦理🔞",
-     "type": 1,
-     "api": "http://www.njxinli.com/inc/apijson.php",
-     "playUrl": "",
-     "searchable": 0,
-     "categories": []
-    },
-{"key": "奶茶","name": "奶茶🔞","type": 1,"api": "https://caiji.naichaapi.com/inc/apijson_vod.php","playUrl": "","searchable": 0,"categories": []},
 {"key": "博天堂","name": "博天堂🔞","type": 0,"api": "http://bttcj.com/inc/sapi.php","playUrl": "","searchable": 0,"categories": []},
-{"key": "草莓","name": "草莓🔞","type": 0,"api": "https://caiji.caomeiapi.com/inc/api.php","playUrl": "https://jiexi.caomeiapi.com/?url="},
-{"key": "草榴视频","name": "草榴视频🔞","type": 0,"api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml"},
 {"key": "点点娱乐","name": "点点娱乐🔞","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml"},
-{"key": "水蜜桃","name": "水蜜桃🔞","type": 0,"api": "http://51smt4.xyz/api.php/provide/vod/at/xml","playUrl": ""},
 {"key": "美少女","name": "美少女🔞","type": 0,"api": "https://www.msnii.com/api/xml.php"},
-{"key": "日本AV在线","name": "日本AV在线🔞","type": 0,"api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml","playUrl": ""},
     {
       "key": "push_agent",
       "name": "推送",
