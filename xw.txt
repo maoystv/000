@@ -261,6 +261,16 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XP/503-yb.js"
     },
     {
+      "key": "csp_xpath_钉子电影网",
+      "name": "钉钉",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/519-dingzidy.json"
+    },
+    {
       "key": "csp_appysv2_9e国语",
       "name": "😻9E国语",
       "type": 3,
