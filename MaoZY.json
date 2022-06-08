@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_CZSPP",
-      "name": "🚬 厂长资源",
+      "name": "🚬 厂长",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -52,7 +52,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "🌀 低端影视",
+      "name": "🌀 低端",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -1242,5 +1242,5 @@
 "cms.qdwght.com"
 ],
   "wallpaper": "",
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/xw.jar"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/Mao.txt"
 }
