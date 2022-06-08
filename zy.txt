@@ -607,5 +607,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/fh.txt"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/m0601_sj_pg.txt"
 }
