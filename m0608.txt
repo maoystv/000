@@ -1,5 +1,5 @@
 {
-"spider" : "https://notabug.org/xkwjyu/biu/raw/master/jar/0608.jar",
+"spider" : "https://notabug.org/wzs888/test/raw/master/jar/0608.jar",
 "sites" : [
 {"name" : "究極無敵縫合源,東拼西湊,不加密,特别感謝所有源原作者,僅供自用"},
 {"name" : "爬蟲"},
