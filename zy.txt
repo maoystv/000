@@ -101,7 +101,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/乐猪影视.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/乐猪影视.json"
     },
     {
       "key": "csp_biubiu_厂长资源-蓝光",
@@ -111,7 +111,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/厂长资源-蓝光.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/厂长资源.json"
     },
     {
       "key": "csp_biubiu_蓝光影视",
@@ -121,7 +121,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/蓝光影视.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/蓝光影视.json"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -131,27 +131,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/在线之家.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/在线之家.json"
     },
     {
-      "key": "csp_biubiu_饭团影院",
-      "name": "🥒饭团影院",
+      "key": "csp_biubiu_黑洞网",
+      "name": "🥒黑洞",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/饭团影院.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/黑洞影视.json"
     },
     {
-      "key": "csp_biubiu_COKEMV",
-      "name": "🥒COKEMV",
+      "key": "csp_biubiu_手机看剧",
+      "name": "🥒手机看剧",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/COKEMV.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/手机看剧.json"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -161,7 +161,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/影视工厂.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -171,7 +171,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/骚火电影.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/骚火电影.json"
     },
     {
       "key": "csp_biubiu_LIBVIO",
@@ -181,17 +181,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/LIBVIO.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/LIBVIO.json"
     },
     {
-      "key": "csp_biubiu_剧白白",
-      "name": "🥒剧白白",
+      "key": "csp_biubiu_口袋影院",
+      "name": "🥒口袋影院",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/剧白白-蓝光.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/口袋影院.json"
     },
     {
       "key": "csp_biubiu_尘落影院",
@@ -201,7 +201,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/尘落影院.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/尘落影院.json"
     },
     {
       "key": "csp_biubiu_六度TV",
@@ -211,37 +211,37 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/六度TV.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/六度TV.json"
     },
     {
-      "key": "csp_biubiu_花猫TV",
-      "name": "🥒花猫TV",
+      "key": "csp_biubiu_凛冬又至",
+      "name": "🥒凛冬又至",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/花猫TV.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/凛冬又至.json"
     },
     {
-      "key": "csp_biubiu_348电影网",
-      "name": "🥒348电影网",
+      "key": "csp_biubiu_伊雪湾",
+      "name": "🥒伊雪湾",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/348电影网.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/伊雪湾.json"
     },
     {
-      "key": "csp_biubiu_茉莉",
-      "name": "🥒茉莉影院",
+      "key": "csp_biubiu_稀饭影视",
+      "name": "🥒稀饭影视",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/hdmoli.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/稀饭影视.json"
     },
     {
       "key": "aytvip",
@@ -597,5 +597,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://notabug.org/qaz/xiaoming/raw/master/mujin/m0601_sj_pg.txt"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/m0601_sj_pg.txt"
 }
