@@ -244,6 +244,16 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/稀饭影视.json"
     },
     {
+      "key": "csp_xpath_工人",
+      "name": "工人",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/519-gongreng.json"
+    },
+    {
       "key": "aytvip",
       "name": "爱优腾vip",
       "type": 1,
@@ -597,5 +607,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/m0601_sj_pg.txt"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/fh.txt"
 }
