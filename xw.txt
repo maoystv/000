@@ -282,7 +282,7 @@
     },
     {
       "key": "csp_appysv2_🐮极库",
-      "name": "🐮极库",
+      "name": "极库",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -299,6 +299,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
+    },
+        {
+      "key":"csp_appysv2_kkys",
+      "name":"看看",
+      "type":3, 
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":1,
+     "ext":"http://123.250idc.com/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "csp_appysv2_兄弟影视",
+      "name": "兄弟影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://103.91.211.252:88/xgapp.php/v2/"
     },
     {
       "key": "csp_appysv2_七彩影视",
@@ -331,14 +351,14 @@
       "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
     },
     {
-      "key": "csp_appysv2_初心影视",
-      "name": "初心",
+      "key": "csp_appysv2_独优影院",
+      "name": "独优",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.5znn.video/api.php/v1.vod"
+      "ext": "http://121.205.88.71:218/api.php/Chengcheng/vod/"
     },
     {
       "key": "csp_appysv2_六神秒播",
