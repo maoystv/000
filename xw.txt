@@ -341,6 +341,16 @@
       "ext": "https://jiku.vip/mogai_api.php/v1.vod"
     },
     {
+      "key": "csp_appysv2_特狗TV",
+      "name": "特狗🐶",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://tv.tegouys.com/api.php/iptv/vod/"
+    },
+    {
       "key": "csp_appysv2_麻花",
       "name": "麻花",
       "type": 3,
