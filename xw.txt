@@ -261,14 +261,54 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XP/503-yb.js"
     },
     {
-      "key": "csp_xpath_钉子电影网",
-      "name": "钉钉",
+      "key": "csp_xpath_奈落影院",
+      "name": "奈落",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/519-dingzidy.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/%e5%a5%88%e8%90%bd.json"
+    },
+    {
+      "key": "csp_xpath_小太阳影视",
+      "name": "小太阳",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/yyotv.json"
+    },
+    {
+      "key": "csp_xpath_注视影院",
+      "name": "注视",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/gaze.json"
+    },
+    {
+      "key": "csp_xpath_剧荒tv",
+      "name": "剧荒",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/05-%e5%89%a7%e8%8d%92.json"
+    },
+    {
+      "key": "csp_appysv2_初心影视",
+      "name": "初心",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.18mv.club/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_9e国语",
@@ -399,6 +439,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://jdys.weetai.cn/api.php/iptv/vod/"
+    },
+    {
+      "key": "csp_appysv2_七七影视采集",
+      "name": "酷云77",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api.kunyu77.com/api.php"
     },
     {
       "key":"淘片资源",
