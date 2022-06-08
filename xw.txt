@@ -352,7 +352,7 @@
     },
     {
       "key": "csp_appysv2_兄弟影视",
-      "name": "兄弟影视",
+      "name": "兄弟",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
