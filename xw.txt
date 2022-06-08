@@ -298,7 +298,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/05-%e5%89%a7%e8%8d%92.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/05-剧荒.json"
+    },
+    {
+      "key": "csp_xpath_影视工厂",
+      "name": "影视工厂",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/影视工厂.json"
     },
     {
       "key": "csp_appysv2_初心影视",
