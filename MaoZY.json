@@ -141,56 +141,6 @@
       "ext": "تعيين البث المباشر كصفحة رئيسية"
     },
     {
-      "key": "csp_xpath_工人",
-      "name": "工人",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/519-gongreng.json"
-    },
-    {
-      "key": "csp_xpath_在线之家",
-      "name": "在线",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/zxzj.js"
-    },
-    {
-      "key": "csp_xpath_COKEMV",
-      "name": "Coke",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/coke.js"
-    },
-    {
-      "key": "csp_xpath_heidong",
-      "name": "黑洞",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/505-heidong.js"
-    },
-    {
-      "key": "csp_xpath_骚火电影",
-      "name": "骚火",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/saohuo.json"
-    },
-    {
       "key":"淘片资源",
       "name":"淘片",
       "type":0,
@@ -1242,5 +1192,5 @@
 "cms.qdwght.com"
 ],
   "wallpaper": "",
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/fh.jar"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/Mao.txt"
 }
