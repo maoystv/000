@@ -298,17 +298,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/05-剧荒.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/05-%e5%89%a7%e8%8d%92.json"
     },
     {
       "key": "csp_xpath_影视工厂",
       "name": "影视工厂",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XPathMacFilte",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/影视工厂.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.json"
     },
     {
       "key": "csp_appysv2_初心影视",
@@ -339,16 +339,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jiku.vip/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "csp_appysv2_特狗TV",
-      "name": "特狗🐶",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://tv.tegouys.com/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_麻花",
@@ -470,7 +460,7 @@
       "filterable": 1,
       "ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
     },
-    
+    {
       "key": "csp_appysv2_群鑫影视",
       "name": "群鑫",
       "type": 3,
@@ -497,7 +487,7 @@
       "quickSearch":1,
       "api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml",
       "playUrl":""
-     },
+    },
     {
       "key": "看猫(官采)",
       "name": "看猫",
