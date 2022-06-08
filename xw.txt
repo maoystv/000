@@ -441,14 +441,44 @@
       "ext": "http://jdys.weetai.cn/api.php/iptv/vod/"
     },
     {
-      "key": "csp_appysv2_七七影视采集",
-      "name": "酷云77",
+      "key": "csp_appysv2_1080KK",
+      "name": "1080KK",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://api.kunyu77.com/api.php"
+      "ext": "http://123.250idc.com/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "csp_appysv2_MX影视",
+      "name": "MX",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://mkk.gotka.top/api.php/v1.vod"
+    },
+    {
+      "key": "csp_appysv2_影库",
+      "name": "影库",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
+    },
+    
+      "key": "csp_appysv2_群鑫影视",
+      "name": "群鑫",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.qunxinys.com/api.php/v1.vod"
     },
     {
       "key":"淘片资源",
