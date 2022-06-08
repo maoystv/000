@@ -301,14 +301,14 @@
       "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
     },
     {
-      "key": "csp_appysv2_独播社(优)",
-      "name": "独播",
+      "key": "csp_appysv2_七彩影视",
+      "name": "七彩",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://35ys.cc/api.php/v1.vod"
+      "ext": "https://www.qcsvip.com/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_飓风影院",
@@ -338,7 +338,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.18mv.club/api.php/v1.vod"
+      "ext": "https://www.5znn.video/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_六神秒播",
@@ -361,24 +361,24 @@
       "ext": "http://mkk.gotka.top/api.php/v1.vod"
     },
     {
-      "key": "csp_appysv2_影视工场",
-      "name": "影视工场",
+      "key": "csp_appysv2_奇飞专线",
+      "name": "奇飞",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.ysgc.cc/xgapp.php/v1/"
+      "ext": "http://mkk.gotka.top/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_聚多影视",
-      "name": "聚多影视",
+      "name": "聚多",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://jdyy.weetai.cn/api.php/iptv/vod/"
+      "ext": "http://jdys.weetai.cn/api.php/iptv/vod/"
     },
     {
       "key":"淘片资源",
@@ -577,7 +577,7 @@
     },
    {
      "key": "zzrhgg",
-     "name": "⚡️飘花",
+     "name": "飘花",
      "type": 0,
      "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
      "playUrl": "",
@@ -609,7 +609,7 @@
      },
      {
       "key":"三级库资源",
-      "name":"🇨🇳三级库资源",
+      "name":"CK",
       "type":0,
       "api":"https://api.ykapi.net/api.php/provide/vod/at/xml/",
       "playUrl":"http://jx.ykyunbo.com/m3u8.php?url=",
@@ -629,7 +629,7 @@
       },
      {
        "key":"酷豆资源",
-       "name":"🇨🇳酷豆资源",
+       "name":"酷豆",
        "type":0,
        "api":"https://api.kdapi.info/api.php/provide/vod/at/xml/",
        "playUrl":"https://jx.ykyunbo.com/m3u8.php?url=",
