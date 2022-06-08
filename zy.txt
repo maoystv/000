@@ -135,7 +135,7 @@
     },
     {
       "key": "csp_biubiu_黑洞网",
-      "name": "🥒黑洞",
+      "name": "🥒黑洞影视",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
