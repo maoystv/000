@@ -338,14 +338,14 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/六度TV.json"
         },
         {
-            "key": "csp_biubiu_老电影",
-            "name": "老电影(Biu)",
+            "key": "csp_biubiu_电影馆",
+            "name": "电影馆(Biu)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e8%80%81%e7%94%b5%e5%bd%b1.json"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/电影馆.json"
         },        
         {
             "key": "csp_xpath_huya",
@@ -567,7 +567,7 @@
     },
        {
          "key": "诺讯采集",
-         "name": "诺讯采集",
+         "name": "诺讯",
          "type": 0,
          "searchable": 1,
          "quickSearch": 1,
@@ -577,7 +577,7 @@
       },
       {
          "key": "腾讯官网",
-         "name": "腾讯官网",
+         "name": "腾讯",
          "type": 1,
          "api": "https://wabc.ml/mao/1.php/provide/vod/at/xml",
          "searchable": 1,
