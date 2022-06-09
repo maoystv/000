@@ -1,5 +1,5 @@
 {
-    "spider": "https://notabug.org/wsqszsq/ma/raw/main/16/bilao0608.jar",
+    "spider": "https://notabug.org/wzs888/test/raw/master/jar/0608.jar",
     "sites": [
         {
             "key": "360_spider",
@@ -138,6 +138,16 @@
             "ext": ""
         },
         {
+            "key": "csp_biubiu_骚火电影",
+            "name": "骚火(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/骚火电影.json"
+        },
+        {
             "key": "csp_biubiu_lezhu",
             "name": "乐猪(Biu)",
             "type": 3,
@@ -145,7 +155,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "网上自己找XBIUBIU"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/乐猪影视.json"
         },
         {
             "key": "csp_biubiu_lgyy",
@@ -155,8 +165,78 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "网上自己找XBIUBIU"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/蓝光影视.json"
         },
+        {
+            "key": "csp_biubiu_黑洞网",
+            "name": "黑洞(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/黑洞影视.json"
+        },
+        {
+            "key": "csp_biubiu_影视工厂",
+            "name": "工厂(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
+        },
+        {
+            "key": "csp_biubiu_口袋影院",
+            "name": "口袋(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/口袋影院.json"
+        },
+        {
+            "key": "csp_biubiu_尘落影院",
+            "name": "尘落(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/尘落影院.json"
+        },
+        {
+            "key": "csp_biubiu_凛冬又至",
+            "name": "凛冬(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/凛冬又至.json"
+        },
+        {
+            "key": "csp_biubiu_稀饭影视",
+            "name": "稀饭(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/稀饭影视.json"
+        }, 
+        {
+            "key": "csp_biubiu_手机看剧",
+            "name": "手机(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/手机看剧.json"
+        },         
         {
             "key": "csp_biubiu_555",
             "name": "555(Biu)",
@@ -165,7 +245,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "网上自己找XBIUBIU"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/555电影.json"
+        },
+        {
+            "key": "csp_biubiu_厂长资源-蓝光",
+            "name": "厂长(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/厂长资源.json"
         },
         {
             "key": "v2_团夕",
@@ -185,7 +275,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "网上自己找XPATH"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/huya2.json"
         },
         {
             "key": "csp_xpath_hdmoli",
@@ -197,6 +287,16 @@
             "filterable": 1,
             "ext": "网上自己找XPATH"
         },
+        {
+            "key": "csp_xpath_工人",
+            "name": "工人(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/519-gongreng.json"
+        },        
         {
             "key": "诺讯采集",
             "name": "诺讯采集",
