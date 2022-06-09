@@ -128,16 +128,6 @@
             "ext": ""
         },
         {
-            "key": "push_agent",
-            "name": "推送（阿里）",
-            "type": 3,
-            "api": "csp_Ali",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": ""
-        },
-        {
             "key": "csp_biubiu_骚火电影",
             "name": "骚火(Biu)",
             "type": 3,
@@ -258,6 +248,36 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/555电影.json"
         },
         {
+            "key": "csp_biubiu_荣耀Glory",
+            "name": "荣耀(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/荣耀Glory.json"
+        },
+        {
+            "key": "csp_biubiu_奇粹影院",
+            "name": "奇粹(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/奇粹影院.json"
+        },
+        {
+            "key": "csp_biubiu_乌龟影院",
+            "name": "乌龟(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/乌龟影院.json"
+        },        
+        {
             "key": "csp_biubiu_完美看看影视",
             "name": "完美(Biu)",
             "type": 3,
@@ -277,6 +297,16 @@
             "filterable": 0,
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/六度TV.json"
         },
+        {
+            "key": "csp_biubiu_老电影",
+            "name": "老电影(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/老电影.json"
+        },        
         {
             "key": "v2_9e国语",
             "name": "9e(V2)",
@@ -298,14 +328,14 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XP/huya2.json"
         },
         {
-            "key": "csp_xpath_hdmoli",
-            "name": "HD茉莉(XP)",
+            "key": "csp_xpath_耐看点播",
+            "name": "耐看(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "网上自己找XPATH"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/lkvod.json"
         },
         {
             "key": "csp_xpath_工人",
@@ -348,14 +378,14 @@
           "ext": "http://103.91.211.252:88/xgapp.php/v2/"
        },
        {
-         "key": "csp_appysv2_麻花",
-         "name": "麻花",
-         "type": 3,
-         "api": "csp_AppYsV2",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
+          "key": "csp_appysv2_麻花",
+          "name": "麻花",
+          "type": 3,
+          "api": "csp_AppYsV2",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
        },
        {
          "key":"csp_appysv2_kkys",
@@ -456,8 +486,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "http://mkk.gotka.top/api.php/v1.vod"
-    },
-    {
+     },
+     {
         "key": "csp_appysv2_影库",
         "name": "影库",
         "type": 3,
@@ -466,8 +496,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
-    },
-    {
+     },
+     {
         "key": "csp_appysv2_群鑫影视",
         "name": "群鑫",
         "type": 3,
@@ -494,18 +524,289 @@
         "quickSearch":1,
         "api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml",
         "playUrl":""
-    },     
+    },
     {
-        "key": "诺讯采集",
-        "name": "诺讯采集",
-        "type": 0,
+        "key": "看猫(官采)",
+        "name": "看猫",
+        "type": 1,
+        "api": "http://124.222.83.15:88/api.php/provide/vod/",
+        "playUrl": "parse:parwix1",
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 1,
-        "api": "https://caiji.nxflv.com/api.php/provide/vod/at/xml/",
-        "playUrl": "https://www.nxflv.com/?url="
+        "filterable": 0
+    },
+    {
+        "key": "橘猫影视",
+        "name": "橘猫",
+        "type": 1,
+        "api": "http://www.zitv.cc/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0
+    },
+    {
+        "key":"速更采集",
+        "name":"速更",
+        "type":1,
+        "searchable":1,
+        "quickSearch":1,
+        "api":"https://www.sugengzy.cn/api.php/provide/vod/?ac=list",
+        "playUrl":""
      },
      {
+        "key":"新浪采集",
+        "name":"新浪",
+        "type":0,
+        "searchable":1,
+        "quickSearch":1,
+        "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+        "playUrl":"https://www.xinlangjiexi.com/m3u8/?url="
+    },
+    {
+        "key": "红牛采集",
+        "name": "红牛",
+        "type": 1,
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+        "playUrl": "https://www.tutukiki.com/m3u8/?url=",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0
+    },
+    {
+        "key": "北斗星资源",
+        "name": "北斗",
+        "type": 0,
+        "api": "https://api.bdxapi.com/api.php/provide/vod/at/xml",
+        "playUrl": "https://player.bdxzym3u8.com/dplayer/?url="
+    },
+    {
+        "key": "光速采集",
+        "name": "光速",
+        "type": 0,
+        "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+        "playUrl": "https://www.guangsujx.com/m3u8/?url="
+    },
+    {
+        "key": "飞速采集",
+        "name": "飞速",
+        "type": 1,
+        "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+        "playUrl": "https://www.feisuplayer.com/m3u8/?url="
+    },
+    {
+        "key": "神速采集",
+        "name": "神速",
+        "type": 1,
+        "api": "https://api.sszyapi.com/api.php/provide/vod/?ac=list",
+        "playUrl": "https://player.sszyplayer.com/dplayer/?url="
+    },
+    {
+        "key": "速播云采集",
+        "name": "速播",
+        "type": 1,
+        "api": "http://gcku.suboyun.vip/api.php/provide/vod/?ac=list",
+        "playUrl": "https://www.xing1.vip/player/dp/?url="
+    },
+    {
+        "key": "想看采集",
+        "name": "想看",
+        "type": 1,
+        "api": "https://m3u8.xiangkanapi.com/api.php/provide/vod/?ac=list",
+        "playUrl": "https://lyw28.com/m3u8/?url="
+    },
+    {
+        "key": "樱花采集",
+        "name": "樱花",
+        "type": 1,
+        "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
+        "playUrl": "https://jx.yhzybf.com/player/jx.php?url="
+    },
+    {
+        "key": "量子资源",
+        "name": "量子",
+        "type": 1,
+        "api": "http://cj.lziapi.com/api.php/provide/vod/",
+        "playUrl": "",
+        "searchable":1,
+        "quickSearch":1
+    },
+    {
+        "key": "松鼠资源",
+        "name": "松鼠",
+        "type": 1,
+        "api": "https://m3u8.songshuzy.com/api.php/provide/vod/",
+        "playUrl": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+        "key": "fox资源",
+        "name": "fox",
+        "type": 1,
+        "api": "https://api.foxzyapi.com/api.php/provide/vod/?ac=list",
+        "playUrl": "https://www.foxbfq.com/dplayer/?url="
+    },
+    {
+        "key": "闪电采集",
+        "name": "闪电",
+        "type": 1,
+        "api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
+        "playUrl": "",
+        "searchable":1,
+        "quickSearch":1
+    },
+    {
+      "key": "聚合资源",
+      "name": "聚合",
+      "type": 1,
+      "api": "https://ziyuan.juhesys.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key": "U酷采集",
+      "name": "U酷",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://api.ukubf.com/m3u8/?url="
+    },
+    {
+      "key": "卧龙资源",
+      "name": "卧龙",
+      "type": 0,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
+      "playUrl": "https://jx.wolongzywcdn.com:65/m3u8.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "番茄资源",
+      "name": "番茄",
+      "type": 1,
+      "api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://dp.8b5q.cn/dplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "影派资源",
+      "name": "影派",
+      "type": 0,
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "无尽资源",
+      "name": "无尽",
+      "type": 0,
+      "api": "https://wuzy9.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "zzrhgg",
+      "name": "飘花",
+      "type": 0,
+      "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key":"酷伦理资源",
+      "name":"酷伦",
+      "type":0,
+      "api":"https://api.kudian70.com/api.php/provide/vod/at/xml/",
+      "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+     },
+     {
+       "key": "百度资源",
+       "name": "百度",
+       "type": 0,
+       "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
+       "playUrl": "https://jx.jxbdzyw.com/m3u8/?url="
+     },
+     {
+       "key": "灵狐影视",
+       "name": "灵狐",
+       "type": 0,
+       "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
+       "playUrl": ""
+     },
+     {
+       "key":"三级库资源",
+       "name":"CK",
+       "type":0,
+       "api":"https://api.ykapi.net/api.php/provide/vod/at/xml/",
+       "playUrl":"http://jx.ykyunbo.com/m3u8.php?url=",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "categories": [
+        "韩国伦理",
+        "日本伦理",
+        "香港伦理",
+        "欧美伦理",
+        "台湾伦理",
+        "美女写真",
+        "日本写真",
+        "欧美写真"
+      ]
+      },
+      {
+       "key":"酷豆资源",
+       "name":"酷豆",
+       "type":0,
+       "api":"https://api.kdapi.info/api.php/provide/vod/at/xml/",
+       "playUrl":"https://jx.ykyunbo.com/m3u8.php?url=",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "categories": [
+        "国产自拍",
+        "日本有码",
+        "国产传媒",
+        "日本无码",
+        "欧美激情",
+        "中文字幕",
+        "成人动漫",
+        "三级伦理",
+        "解说AV",
+        "美女写真"
+       ]
+      },
+      { "key": "乐鱼",
+        "name": "乐鱼",
+        "type": 0,
+        "api": "https://www.leyuzyapi.com/inc/seacmsapi.php",
+        "playUrl": "" 
+       },
+       { "key": "点点娱乐",
+         "name": "点点",
+         "type": 0,
+         "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+         "playUrl": "" 
+       },
+       { "key": "博天堂",
+         "name": "博天堂",
+         "type": 0,
+         "api": "http://bttcj.com/inc/sapi.php",
+         "playUrl": "",
+         "searchable": 0, 
+         "categories": []
+       },    
+       {
+         "key": "诺讯采集",
+         "name": "诺讯采集",
+         "type": 0,
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "api": "https://caiji.nxflv.com/api.php/provide/vod/at/xml/",
+         "playUrl": "https://www.nxflv.com/?url="
+      },
+      {
          "key": "腾讯官网",
          "name": "腾讯官网",
          "type": 1,
@@ -513,8 +814,18 @@
          "searchable": 1,
          "quickSearch": 1,
          "filterable": 0
-        }
-    ],
+      },
+      {
+         "key": "push_agent",
+         "name": "推送（阿里）",
+         "type": 3,
+         "api": "csp_Ali",
+         "searchable": 0,
+         "quickSearch": 0,
+         "filterable": 0,
+         "ext": ""
+       }      
+       ],
   "lives": [
     {
       "group": "redirect",
