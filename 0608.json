@@ -148,7 +148,7 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/骚火电影.json"
         },
         {
-            "key": "csp_biubiu_lezhu",
+            "key": "csp_biubiu_乐猪影视",
             "name": "乐猪(Biu)",
             "type": 3,
             "api": "csp_XBiubiu",
@@ -158,7 +158,7 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/乐猪影视.json"
         },
         {
-            "key": "csp_biubiu_lgyy",
+            "key": "csp_biubiu_蓝光影视",
             "name": "蓝光(Biu)",
             "type": 3,
             "api": "csp_XBiubiu",
@@ -248,14 +248,24 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/555电影.json"
         },
         {
-            "key": "csp_biubiu_厂长资源-蓝光",
-            "name": "厂长(Biu)",
+            "key": "csp_biubiu_特狗影视",
+            "name": "特狗(Biu)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/厂长资源.json"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/特狗影视.json"
+        },        
+        {
+            "key": "csp_biubiu_伊雪湾",
+            "name": "伊雪湾(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/伊雪湾.json"
         },
         {
             "key": "v2_团夕",
