@@ -305,7 +305,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/老电影.json"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e8%80%81%e7%94%b5%e5%bd%b1.json"
         },        
         {
             "key": "v2_9e国语",
@@ -319,23 +319,23 @@
         },
         {
             "key": "csp_xpath_huya",
-            "name": "虎牙直播",
+            "name": "虎牙(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XP/huya2.json"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/huya.js"
         },
         {
-            "key": "csp_xpath_耐看点播",
-            "name": "耐看(XP)",
+            "key": "csp_xpath_人人影视",
+            "name": "人人(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XP/lkvod.json"
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/rttks.json"
         },
         {
             "key": "csp_xpath_工人",
@@ -359,7 +359,7 @@
        },
        {
            "key": "csp_appysv2_特狗TV",
-           "name": "特狗🐶",
+           "name": "特狗",
            "type": 3,
            "api": "csp_AppYsV2",
            "searchable": 1,
