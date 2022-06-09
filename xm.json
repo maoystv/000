@@ -98,33 +98,6 @@
       "ext": "أويتي"
     },
     {
-      "key": "cokemv",
-      "name": "cokemv(php)",
-      "type": 1,
-      "api": "http://pandown.pro/maoys/cokemv.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "lezhu",
-      "name": "乐猪(php)",
-      "type": 1,
-      "api": "http://pandown.pro/maoys/lezhu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "libvio",
-      "name": "libvio(php)",
-      "type": 1,
-      "api": "http://pandown.pro/maoys/libvio.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "csp_AliPanSou",
       "name": "🐱 喵狸盘搜",
       "type": 3,
