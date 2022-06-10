@@ -109,6 +109,16 @@
             "ext": ""
         },
         {
+            "key":"csp_xpath_A33",
+            "name":"MTV🎸",
+            "type":3,
+            "api":"csp_XPath",
+            "searchable":1,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://notabug.org/wzs888/test/raw/master/XP/mtv.txt"
+        },        
+        {
             "key": "csp_GitCafe",
             "name": "📜小纸条",
             "type": 3,
