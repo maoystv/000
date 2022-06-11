@@ -4,23 +4,23 @@
   //"https://agit.ai/zxy/mao/raw/branch/master/jar%e6%94%b9%e5%a5%bd/xmtg.jar",
   "sites": [
     {
-      "key": "csp_公告",
-      "name": "【ZXY: 2022. 06. 05 更新】〕",
+      "key": "csp_kuaikan",
+      "name": "👀快看(SP)",
       "type": 3,
-      "api": "csp_gg",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "csp_appysv2_独播社",
-      "name": "独播社",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://35ys.cc/api.php/v1.vod"
+       "key": "buka_spider",
+       "name": "📒不卡(SP)",
+       "type": 3,
+       "api": "csp_Buka",
+       "searchable": 0,
+       "quickSearch": 0,
+       "filterable": 0,
+       "ext": ""
     },
     {
       "key": "csp_七七",
