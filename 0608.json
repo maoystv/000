@@ -3,7 +3,7 @@
     "sites": [
         {
             "key": "360_spider",
-            "name": "📺360(官源)",
+            "name": "📺360(SP)",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
@@ -22,7 +22,7 @@
         },
         {
             "key": "csp_apple",
-            "name": "🍎小苹果(SP)",
+            "name": "🍎苹果(SP)",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -52,7 +52,7 @@
             "ext": "",
             "filterable": 1,
             "quickSearch": 1,
-            "name": "📙低端影视(SP)",
+            "name": "📙低端(SP)",
             "api": "csp_DiDuan",
             "type": 3,
             "key": "diduan_spider",
@@ -139,7 +139,7 @@
         },        
         {
             "key": "csp_biubiu_骚火电影",
-            "name": "骚火(Biu)",
+            "name": "骚火(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -149,7 +149,7 @@
         },
         {
             "key": "csp_biubiu_乐猪影视",
-            "name": "乐猪(Biu)",
+            "name": "乐猪(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -159,7 +159,7 @@
         },
         {
             "key": "csp_biubiu_蓝光影视",
-            "name": "蓝光(Biu)",
+            "name": "蓝光(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -169,7 +169,7 @@
         },
         {
             "key": "csp_biubiu_黑洞网",
-            "name": "黑洞(Biu)",
+            "name": "黑洞(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -179,7 +179,7 @@
         },
         {
             "key": "csp_biubiu_影视工厂",
-            "name": "工厂(Biu)",
+            "name": "工厂(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -189,7 +189,7 @@
         },
         {
             "key": "csp_biubiu_口袋影院",
-            "name": "口袋(Biu)",
+            "name": "口袋(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -199,7 +199,7 @@
         },
         {
             "key": "csp_biubiu_尘落影院",
-            "name": "尘落(Biu)",
+            "name": "尘落(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -209,7 +209,7 @@
         },
         {
             "key": "csp_biubiu_火火影视",
-            "name": "火火(Biu)",
+            "name": "火火(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -219,7 +219,7 @@
         },        
         {
             "key": "csp_biubiu_凛冬又至",
-            "name": "凛冬(Biu)",
+            "name": "凛冬(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -229,7 +229,7 @@
         },
         {
             "key": "csp_biubiu_稀饭影视",
-            "name": "稀饭(Biu)",
+            "name": "稀饭(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -239,7 +239,7 @@
         }, 
         {
             "key": "csp_biubiu_手机看剧",
-            "name": "手机(Biu)",
+            "name": "手机(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -249,7 +249,7 @@
         },         
         {
             "key": "csp_biubiu_555",
-            "name": "555(Biu)",
+            "name": "555(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -259,7 +259,7 @@
         },
         {
             "key": "csp_biubiu_荣耀Glory",
-            "name": "荣耀(Biu)",
+            "name": "荣耀(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -269,7 +269,7 @@
         },
         {
             "key": "csp_biubiu_奇粹影院",
-            "name": "奇粹(Biu)",
+            "name": "奇粹(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -279,7 +279,7 @@
         },
         {
             "key": "csp_biubiu_乌龟影院",
-            "name": "乌龟(Biu)",
+            "name": "乌龟(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -289,7 +289,7 @@
         },        
         {
             "key": "csp_biubiu_完美看看影视",
-            "name": "完美(Biu)",
+            "name": "完美(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -299,7 +299,7 @@
         },        
         {
             "key": "csp_biubiu_六度TV",
-            "name": "六度(Biu)",
+            "name": "六度(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -309,7 +309,7 @@
         },
         {
             "key": "csp_biubiu_老电影",
-            "name": "老电影(Biu)",
+            "name": "老电影(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -535,10 +535,24 @@
         "api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml",
         "playUrl":""
     },
-    {   "key":"西瓜",
-        "name":"西瓜",
-        "type":1,
-        "api":"https://www.xigua22.com//api.php/provide/vod"},
+    {
+      "key": "csp_xml_gc",
+      "name": "官采",
+      "type": 1,
+      "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",
+      "playUrl": "parse:自动解析",
+      "categories": []
+    },
+    {
+      "key": "csp_诺讯资源",
+      "name": "诺讯",
+      "type": 1,
+      "searchable":1,
+      "quickSearch":1,
+      "api": "http://caiji.nxflv.com/api.php/provide/vod/",
+      "playUrl": "https://www.nxflv.com/?url=",
+      "categories": []
+    },
     {
         "key": "看猫(官采)",
         "name": "看猫",
@@ -703,10 +717,12 @@
       "filterable": 0
     },
     {
-      "key": "影派资源",
-      "name": "影派",
-      "type": 0,
-      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+      "key": "快车资源",
+      "name": "快车",
+      "type": 1,
+      "searchable":1,
+      "quickSearch":1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "playUrl": ""
     },
     {
@@ -810,16 +826,6 @@
          "searchable": 0, 
          "categories": []
        },    
-       {
-         "key": "诺讯采集",
-         "name": "诺讯采集",
-         "type": 0,
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "api": "https://caiji.nxflv.com/api.php/provide/vod/at/xml/",
-         "playUrl": "https://www.nxflv.com/?url="
-      },
       {
          "key": "腾讯官网",
          "name": "腾讯官网",
