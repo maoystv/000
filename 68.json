@@ -169,10 +169,10 @@
       "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/乐猪影视.json"
     },
     {
-      "key": "csp_biubiu_独播库",
-      "name": "独播(XB)",
+      "key": "csp_xpath_独播库",
+      "name": "独播(XP)",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
