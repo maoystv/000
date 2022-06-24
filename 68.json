@@ -64,15 +64,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_xpath_nbys",
-      "name": "🐼泥巴(SP)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Dy1990",
       "name": "🐉1990(SP)",
       "type": 3,
@@ -177,6 +168,16 @@
       "filterable": 0,
       "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/乐猪影视.json"
     },
+    {
+      "key": "csp_biubiu_独播库",
+      "name": "独播(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/独播库.json"
+    },    
     {
       "key": "csp_biubiu_555",
       "name": "555(XB)",
@@ -350,14 +351,6 @@
       "type": 1,
       "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",
       "playUrl": "parse:自动解析",
-      "categories": []
-    },
-    {
-      "key": "csp_1905",
-      "name": "1905",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
-      "playUrl": "http://api.u1o.net/?url=",
       "categories": []
     },
     {
@@ -588,7 +581,7 @@
     },
     {
       "key": "三级库资源",
-      "name": "影库",
+      "name": "影库CR",
       "type": 0,
       "api": "https://api.ykapi.net/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -599,7 +592,7 @@
     },
     {
       "key": "酷豆资源",
-      "name": "酷豆",
+      "name": "酷豆CR",
       "type": 0,
       "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -610,14 +603,14 @@
     },
     {
       "key": "乐鱼资源",
-      "name": "乐鱼",
+      "name": "乐鱼CR",
       "type": 0,
       "api": "https://www.leyuzyapi.com/inc/seacmsapi.php",
       "playUrl": ""
     },
     {
       "key":"csp_xpath_xxj",
-      "name":"香蕉",
+      "name":"香蕉CR",
       "type":3,
       "api":"csp_XPathMacFilter",
       "searchable":1,
@@ -627,7 +620,7 @@
     },
     {
       "key": "csp_biubiu_扛把子影院",
-      "name": "扛把子(XB)",
+      "name": "扛把子CR",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -642,6 +635,10 @@
       "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
       "playUrl": ""
     },
+{"key": "BT天堂","name": "BT天堂(CR)","type": 0,"api": "http://bttcj.com/inc/sapi.php","playUrl": "","categories": []},
+{"key":"523资源","name":"523资源(CR)","type": 0,"api": "https://caiji.523zyw.com/inc/api.php","playUrl": "","categories": []},
+{"key":"51S蜜桃","name":"51S资源(CR)","type": 0,"api": "http://51smt4.xyz/api.php/provide/vod/at/xml","playUrl": "","categories": []},
+{"key": "无尽工厂","name": "无尽工厂(CR)","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","playUrl": "","categories": []},      
     {
       "key": "博天堂",
       "name": "博天堂",
