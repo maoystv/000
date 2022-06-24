@@ -588,7 +588,7 @@
     },
     {
       "key": "三级库资源",
-      "name": "三级",
+      "name": "影库",
       "type": 0,
       "api": "https://api.ykapi.net/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -626,14 +626,14 @@
       "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/2024xxj.json"
     },
     {
-      "key":"csp_xpath_hlys",
-      "name":"狐狸",
-      "type":3,
-      "api":"csp_XPath",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/hlys.json"
+      "key": "csp_biubiu_扛把子影院",
+      "name": "扛把子(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/扛把子影院.json"
     },
     {
       "key": "点点娱乐",
