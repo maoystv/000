@@ -23,7 +23,8 @@
 {"key":"csp_Blidw","name":"动物世界","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Blixq","name":"戏曲","type":3,"api":"csp_Blixq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_网络搜集库qiumi","name":"球迷🏀","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/516-qiumi.js"},
-{"key":"csp_PHP_WMKK","name":"🛴完美看看","type":1,"api":"http://api.flypotato.xyz/wmkk.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_PHP_WMKK","name":"🛴完美","type":1,"api":"http://api.flypotato.xyz/wmkk.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_BBB","name":"bilibili","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
         {
             "key": "push_agent",
@@ -145,26 +146,7 @@
             "filterable": 1,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/2BT.json"
         },
-        {
-            "key": "csp_xpath_Gaze",
-            "name": "注视(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/gaze.json"
-        },
-        {
-            "key": "csp_xpath_juhuang",
-            "name": "剧荒(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/juhuang.json"
-        },
+
         {
             "key": "csp_xpath_dxdx",
             "name": "滴嘻(XP)",
