@@ -140,26 +140,6 @@
       "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/hdmoli.json"
     },
     {
-      "key":"csp_xpath_Gaze",
-      "name":"注视(XP)",
-      "type":3,
-      "api":"csp_XPathFilter",
-      "searchable":1,
-      "quickSearch":0,
-      "filterable":1,
-      "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/gaze.json"
-    },
-    {
-      "key":"csp_xpath_juhuang",
-      "name":"剧荒(XP)",
-      "type":3,
-      "api":"csp_XPathMacFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/juhuang.json"
-    },
-    {
       "key":"csp_xpath_dxdx",
       "name":"滴嘻(XP)",
       "type":3,
