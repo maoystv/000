@@ -185,15 +185,25 @@
       "filterable": 1
     },
     {
-      "key": "csp_Bili",
-      "name": "🅱哔哩套餐",
+      "key": "csp_Bli",
+      "name": "BiLi",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Bli",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
       "ext":"https://notabug.org/wzs888/test/raw/master/XP/bili64.json"
     },
+     {
+      "key": "csp_Bili",
+      "name": "🅱哔哩套餐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      "ext":""
+    },   
     {
       "key":"csp_xpath_A33",
       "name":"🎸酷奇MV",
