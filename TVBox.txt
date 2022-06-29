@@ -192,16 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://notabug.org/wzs888/test/raw/master/XP/bili.json"
-    },
-    {
-      "key": "csp_BBB",
-      "name": "bilibili",
-      "type": 3,
-      "api": "csp_BBB",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "ext":"https://notabug.org/wzs888/test/raw/master/yanchanghui.json"
     },
     {
       "key": "csp_BBB",
