@@ -1,5 +1,5 @@
 {
-  "spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/custom_spider.jar",
+  "spider":"https://notabug.org/wzs888/test/raw/master/jar/baddychen0625.jar",
   "sites": [
     {
       "key": "360_spider",
@@ -184,22 +184,13 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    { "key":"Bili",
-      "name":"哔哩套餐",              
-      "type":3,
-      "api":"csp_Bili",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://118.190.244.195/tvmovie/bili.json"
-    },
     {
       "key": "csp_BBB",
       "name": "🅱哔哩套餐",
       "type": 3,
       "api": "csp_BBB",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
