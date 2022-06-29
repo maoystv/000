@@ -345,17 +345,7 @@
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/扛把子影院.json"
     },
-    {
-      "key": "三级库资源",
-      "name": "影库CR",
-      "type": 0,
-      "api": "https://api.ykapi.net/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playUrl": "http://jx.ykyunbo.com/m3u8.php?url=",
-      "categories": []
-    },
+
 {"key": "*酷豆","name": "*酷豆","type": 1,"api": "https://api.kdapi.info/api.php/provide/vod/","playUrl": "https://jx.kubohk.com/jx/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"*酷二","name":"*酷二","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*猫眼","name":"*猫眼","type":1,"api":"http://maoyanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -363,7 +353,7 @@
 {"key": "*23","name": "*23","type": 0,"api": "https://caiji.523zyw.com/inc/seacmsapi.php","playUrl": "https://api.523zyw.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"*AR","name":"*AR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
 {"key": "BT天堂","name": "BT天堂(CR)","type": 0,"api": "http://bttcj.com/inc/sapi.php","playUrl": "","categories": []},
-{"key":"51S蜜桃","name":"51S资源(CR)","type": 0,"api": "http://51smt4.xyz/api.php/provide/vod/at/xml","playUrl": "","categories": []},
+
 {"key": "无尽工厂","name": "无尽工厂(CR)","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","playUrl": "","categories": []}
  ],
 "lives": [
