@@ -2,6 +2,15 @@
   "spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/custom_spider.jar",
   "sites": [
     {
+      "key": "360_spider",
+      "name": "📺360(官源)",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+    {
       "key": "csp_77",
       "name": "🎬七七(SP)",
       "type": 3,
@@ -131,15 +140,6 @@
       "filterable": 1
     },
     {
-      "key": "360_spider",
-      "name": "📺360(官源)",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_apple",
       "name": "🍎小蘋果(SP)",
       "type": 3,
@@ -184,15 +184,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Bili",
-      "name": "哔哩套餐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://notabug.org/wzs888/test/raw/master/yanchanghui.json"
+    { "key":"Bili",
+      "name":"哔哩套餐",              
+      "type":3,
+      "api":"csp_Bili",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://118.190.244.195/tvmovie/bili.json"
     },
     {
       "key": "csp_BBB",
@@ -281,6 +280,16 @@
       "filterable": 0,
       "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/黑狐影视(ns).json"
     },
+    {
+      "key": "csp_biubiu_奇优影院ns",
+      "name": "奇优(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/奇优影院(ns).json"
+    },    
     {
       "key": "csp_biubiu_麻衣高清",
       "name": "麻衣(XB)",
