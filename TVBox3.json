@@ -1,5 +1,5 @@
 {
-    "spider": "https://notabug.org/wzs888/test/raw/master/jar/tvbox.jar",
+    "spider": "https://notabug.org/wzs888/test/raw/master/jar/0627.jar",
     "sites": [
         {
             "key": "csp_SP360",
@@ -119,7 +119,7 @@
         },
         {
             "key": "csp_Alips",
-            "name": "🐱喵搜(只支持搜索)",
+            "name": "🐱喵搜",
             "type": 3,
             "api": "csp_AliPanSou",
             "searchable": 1,
@@ -147,16 +147,6 @@
             "ext": ""
         },
         {
-            "key": "csp_biubiu_saohuo",
-            "name": "骚火(Biu)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/骚火电影.json"
-        },
-        {
             "key": "csp_biubiu_LIBVIO",
             "name": "LIBVIO(Biu)",
             "type": 3,
@@ -166,6 +156,16 @@
             "filterable": 0,
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/LIBVIO.json"
         },
+        {
+            "key": "csp_biubiu_saohuo",
+            "name": "骚火(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/骚火电影.json"
+        },        
         {
             "key": "csp_biubiu_ysgc",
             "name": "工厂(Biu)",
