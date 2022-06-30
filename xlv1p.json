@@ -1,5 +1,5 @@
 {"wallpaper": "https://agit.ai/kafeiliu/TUPIAN/raw/branch/master/09.jpg",
-"spider": "https://agit.ai/kafeiliu/M_data/raw/branch/master/xlv1p_custom_spider.jar",
+"spider": "https://notabug.org/wzs888/test/raw/master/jar/xlv1p_custom_spider.jar",
 "sites": [
 {"key": "csp_Blixs","name": "相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blidw","name": "动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
