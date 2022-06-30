@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/mijk.jar;md5;F2B62F929A5A7530E79F3C510E0553D6",
+"spider":"https://notabug.org/wzs888/test/raw/master/jar/mijk.jar;md5;F2B62F929A5A7530E79F3C510E0553D6",
 "sites":[
 {
       "key": "csp_77",
@@ -48,7 +48,7 @@
     },
 {
       "key": "csp_N0ys",
-      "name": "牛哇影视(SP)",
+      "name": "🐉1090(SP)",
       "type": 3,
       "api": "csp_N0ys",
       "searchable": 1,
