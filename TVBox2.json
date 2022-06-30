@@ -208,8 +208,18 @@
             "ext": ""
         },
         {
+            "key": "csp_BBB",
+            "name": "B站(SP)",
+            "type": 3,
+            "api": "csp_BBB",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": ""
+        },        
+        {
             "key": "csp_Alips",
-            "name": "🐱喵搜(只支持搜索)",
+            "name": "🐱喵搜",
             "type": 3,
             "api": "csp_AliPanSou",
             "searchable": 1,
