@@ -166,6 +166,16 @@
             "ext": ""
         },
         {
+            "key": "csp_biubiu_斗鱼",
+            "name": "斗鱼(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/斗鱼.json"
+        },
+        {
             "key": "csp_biubiu_BILIBILI",
             "name": "B站(Biu)",
             "type": 3,
@@ -174,6 +184,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/BILIBILI.txt"
+        },        
+        {
+            "key": "csp_biubiu_欧乐影院",
+            "name": "欧乐(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/欧乐影院.json"
         },        
         {
             "key": "csp_biubiu_LIBVIO",
