@@ -135,7 +135,7 @@
         },        
         {
             "key": "csp_xpath_kuqimv",
-            "name": "🎸MTV(XP)",
+            "name": "🎸MTV",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
