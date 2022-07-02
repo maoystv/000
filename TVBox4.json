@@ -137,14 +137,14 @@
         },
         {
             "key": "csp_Alips",
-            "name": "🐱搜盘",
+            "name": "🌥 搜盘",
             "type": 3,
             "api": "csp_AliPanSou",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": ""
-        },
+        },        
         {
             "key": "csp_GitCafe",
             "name": "📃小纸条",
@@ -153,16 +153,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "push_agent",
-            "name": "🍭推送（阿里）",
-            "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": ""
         },
         {
             "key": "csp_biubiu_斗鱼",
@@ -489,7 +479,17 @@
             "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
             "playUrl": "",
             "categories": []
-        }
+        },
+        {
+            "key": "push_agent",
+            "name": "🍭推送（阿里）",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": ""
+        }        
     ],
 "lives": [
     {
