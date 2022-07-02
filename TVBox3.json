@@ -166,6 +166,16 @@
             "ext": ""
         },
         {
+            "key": "csp_biubiu_BILIBILI",
+            "name": "B站(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/BILIBILI.txt"
+        },        
+        {
             "key": "csp_biubiu_LIBVIO",
             "name": "LIBVIO(Biu)",
             "type": 3,
