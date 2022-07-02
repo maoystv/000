@@ -6,8 +6,8 @@
             "name": "🅱️哔哩套餐",
             "type": 3,
             "api": "csp_BBB",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": ""
         },
