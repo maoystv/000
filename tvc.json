@@ -21,7 +21,7 @@
     },
 {
       "key": "csp_Blixq",
-      "name": "戏曲(SP)",
+      "name": "🏮戏曲(SP)",
       "type": 3,
       "api": "csp_Blixq",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
 {
       "key": "csp_Blixs",
-      "name": "相声(SP)",
+      "name": "🎾相声(SP)",
       "type": 3,
       "api": "csp_Blixs",
       "searchable": 1,
@@ -39,7 +39,7 @@
     },
 {
       "key": "csp_Bliyc",
-      "name": "音乐(SP)",
+      "name": "🎸音乐(SP)",
       "type": 3,
       "api": "csp_Bliyc",
       "searchable": 1,
@@ -57,7 +57,7 @@
     },
 {
       "key": "csp_Kmys",
-      "name": "酷猫(SP)",
+      "name": "🐱酷猫(SP)",
       "type": 3,
       "api": "csp_Kmys",
       "searchable": 1,
@@ -66,7 +66,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "焦炭(SP)",
+      "name": "📕焦炭(SP)",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -75,7 +75,7 @@
     },
 {
       "key": "csp_DiDuan",
-      "name": "低端(SP)",
+      "name": "📙低端(SP)",
       "type": 3,
       "api": "csp_DiDuan",
       "searchable": 1,
@@ -111,7 +111,7 @@
     },
     {
       "key": "csp_zxzj",
-      "name": "在线(SP)",
+      "name": "📗在线(SP)",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -120,7 +120,7 @@
     },
 {
       "key": "csp_CZSPP",
-      "name": "厂长(SP)",
+      "name": "📔厂长(SP)",
       "type": 3,
       "api": "csp_CZSPP",
       "searchable": 1,
@@ -129,7 +129,7 @@
     },
 {
       "key": "csp_Buka",
-      "name": "不卡(SP)",
+      "name": "📒不卡(SP)",
       "type": 3,
       "api": "csp_Buka",
       "searchable": 1,
@@ -138,7 +138,7 @@
     },
     {
       "key": "csp_SP360",
-      "name": "🎾360(SP)",
+      "name": "📺360(SP)",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -147,7 +147,7 @@
     },
 {
       "key": "csp_Bttoo",
-      "name": "两个BT(SP)",
+      "name": "🐼两个BT(SP)",
       "type": 3,
       "api": "csp_Bttoo",
       "searchable": 1,
@@ -156,7 +156,7 @@
     },
 {
       "key": "csp_GitCafe",
-      "name": "📜纸条(SP)",
+      "name": "📃纸条(SP)",
       "type": 3,
       "api": "csp_GitCafe",
       "searchable": 1,
