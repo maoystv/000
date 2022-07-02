@@ -1,5 +1,5 @@
 {
-    "spider": "https://notabug.org/wzs888/test/raw/master/jar/tvbox.jar",
+    "spider": "https://notabug.org/wzs888/test/raw/master/jar/qji.jar",
     "sites": [
         {
             "key": "csp_BBB",
@@ -12,17 +12,53 @@
             "ext": ""
         },
         {
-            "key": "csp_SP360",
+            "key": "csp_Blixs",
+            "name": "🎧相声评书(SP)",
+            "type": 3,
+            "api": "csp_Blixs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Blixq",
+            "name": "🎭️戏曲(SP)",
+            "type": 3,
+            "api": "csp_Blixq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },        
+        {
+            "key": "csp_Bliyc",
+            "name": "🎤演唱会(SP)",
+            "type": 3,
+            "api": "csp_Bliyc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
+            "key": "csp_Blidw",
+            "name": "👾动物世界(SP)",
+            "type": 3,
+            "api": "csp_Blidw",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },         
+        {
+            "key": "csp_SP3601",
             "name": "📺360(SP)",
             "type": 3,
-            "api": "csp_SP360",
+            "api": "csp_SP3601",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": ""
         },
         {
-            "key": "csp_kuaikan",
+            "key": "csp_kuaik1",
             "name": "👀快看(SP)",
             "type": 3,
             "api": "csp_Kuaikan",
@@ -31,7 +67,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_LiteApple",
+            "key": "csp_LiteApple1",
             "name": "🍎苹果(SP)",
             "type": 3,
             "api": "csp_LiteApple",
@@ -40,7 +76,7 @@
             "filterable": 1
         },        
         {
-            "key": "csp_Auete",
+            "key": "csp_Auete1",
             "name": "🧿Auete(SP)",
             "type": 3,
             "api": "csp_Auete",
@@ -49,19 +85,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_77",
-            "name": "🎬77(SP)",
+            "key": "csp_771",
+            "name": "🎬七七(SP)",
             "type": 3,
             "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Mjxq",
-            "name": "🌏美剧星球(SP)",
-            "type": 3,
-            "api": "csp_Mjxq",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -73,7 +100,7 @@
             "name": "📙低端(SP)",
             "api": "csp_DiDuan",
             "type": 3,
-            "key": "csp_DiDuan",
+            "key": "csp_DiDuan1",
             "searchable": 1
         },
         {
@@ -85,19 +112,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": ""
-        },
+        },       
         {
-            "key": "csp_Zxzj",
-            "name": "📗在线(SP)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },        
-        {
-            "key": "csp_Cokemv",
+            "key": "csp_Cokemv1",
             "name": "📕Cokemv(SP)",
             "type": 3,
             "api": "csp_Cokemv",
@@ -107,18 +124,8 @@
             "ext": ""
         },
         {
-            "key": "csp_Buka",
-            "name": "📒不卡(SP)",
-            "type": 3,
-            "api": "csp_Buka",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
             "key": "csp_xpath_kuqimv",
-            "name": "🎤酷奇MV(XP)",
+            "name": "🎸MTV(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -127,18 +134,8 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XP/mtv.txt"
         },
         {
-            "key": "csp_Dy1990",
-            "name": "📀1990(SP)",
-            "type": 3,
-            "api": "csp_DY1990",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
             "key": "csp_Alips",
-            "name": "🐱喵搜",
+            "name": "🌥 搜盘",
             "type": 3,
             "api": "csp_AliPanSou",
             "searchable": 1,
@@ -148,7 +145,7 @@
         },
         {
             "key": "csp_GitCafe",
-            "name": "📜小纸条",
+            "name": "📃小纸条",
             "type": 3,
             "api": "csp_GitCafe",
             "searchable": 1,
@@ -156,18 +153,8 @@
             "filterable": 0
         },
         {
-            "key": "push_agent",
-            "name": "🍭推送（阿里）",
-            "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": ""
-        },
-        {
             "key": "csp_biubiu_斗鱼",
-            "name": "斗鱼(Biu)",
+            "name": "斗鱼(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -176,38 +163,48 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/斗鱼.json"
         },
         {
-            "key": "csp_biubiu_BILIBILI",
-            "name": "B站(Biu)",
+            "key": "csp_biubiu_真不卡影院",
+            "name": "不卡(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/BILIBILI.txt"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e7%9c%9f%e4%b8%8d%e5%8d%a1%e5%bd%b1%e9%99%a2%28%e4%b8%8d%e6%94%af%e6%8c%81%e6%90%9c%e7%b4%a2%29.json"
         },        
         {
-            "key": "csp_biubiu_欧乐影院",
-            "name": "欧乐(Biu)",
+            "key": "csp_biubiu_在线之家",
+            "name": "在线(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/欧乐影院.json"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/在线之家.json"
         },        
         {
-            "key": "csp_biubiu_LIBVIO",
-            "name": "LIBVIO(Biu)",
+            "key": "csp_biubiu_奇优影院",
+            "name": "奇优(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/LIBVIO.json"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e5%a5%87%e4%bc%98%e5%bd%b1%e9%99%a2%28ns%29.json"
         },
         {
+            "key": "csp_biubiu_奇粹影院",
+            "name": "奇粹(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/奇粹影院.json"
+        },        
+        {
             "key": "csp_biubiu_saohuo",
-            "name": "骚火(Biu)",
+            "name": "骚火(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -217,7 +214,7 @@
         },        
         {
             "key": "csp_biubiu_ysgc",
-            "name": "工厂(Biu)",
+            "name": "工厂(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -227,7 +224,7 @@
         },
         {
             "key": "csp_biubiu_lezhu",
-            "name": "乐猪(Biu)",
+            "name": "乐猪(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -237,7 +234,7 @@
         },
         {
             "key": "csp_biubiu_lgyy",
-            "name": "蓝光(Biu)",
+            "name": "蓝光(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -247,7 +244,7 @@
         },
         {
             "key": "csp_biubiu_555",
-            "name": "555(Biu)",
+            "name": "555(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -257,7 +254,7 @@
         },
         {
             "key": "csp_biubiu_奈菲影院",
-            "name": "奈菲(Biu)",
+            "name": "奈菲(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -386,6 +383,31 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/huohuo.json"
         },
         {
+            "key":"酷猫影视",
+            "name":"酷猫(CJ)",
+            "type":1,
+            "api":"https://www.pgcms10.com/api.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"多多*资源",
+            "name":"多多(CJ)",
+            "type":1,
+            "api":"https://www.ddzyz1.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"新浪*资源",
+            "name":"新浪(CJ)",
+            "type":1,
+            "api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
             "key": "诺讯采集",
             "name": "诺讯(CJ)",
             "type": 0,
@@ -394,6 +416,80 @@
             "filterable": 1,
             "api": "https://caiji.nxflv.com/api.php/provide/vod/at/xml/",
             "playUrl": "https://www.nxflv.com/?url="
+        },
+        {
+            "key":"樱花*资源",
+            "name":"樱花(CJ)",
+            "type":1,
+            "api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"想看*资源",
+            "name":"想看(CJ)",
+            "type":1,
+            "api":"https://m3u8.xiangkanapi.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"松鼠*资源",
+            "name":"松鼠(CJ)",
+            "type":1,
+            "api":"https://m3u8.songshuzy.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"FOX*资源",
+            "name":"FOX(CJ)",
+            "type":1,
+            "api":"https://api.foxzyapi.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"阿远采集",
+            "name":"阿远(CJ)",
+            "type":1,
+            "api":"https://www.cjzy.xyz:8888/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"红牛*资源",
+            "name":"红牛(CJ)",
+            "type":1,
+            "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":北斗星",
+            "name":"北斗(CJ)",
+            "type":1,
+            "api":"https://api.bdxapi.com/api.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"忆梦*资源",
+            "name":"忆梦(CJ)",
+            "type":1,
+            "api":"http://anltv.cn/api.php/provide/vod/",
+            "playUrl":"parse:parwix1",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"量子*资源",
+            "name":"量子(CJ)",
+            "type":1,
+            "api":"http://cj.lziapi.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
         },
         {
             "key": "番茄资源",
@@ -415,8 +511,8 @@
             "filterable": 0
         },
         {
-            "key": "腾讯官(CJ)网",
-            "name": "腾讯",
+            "key": "腾讯官网",
+            "name": "腾讯(CJ)",
             "type": 1,
             "api": "https://wabc.ml/mao/1.php/provide/vod/at/xml",
             "searchable": 1,
@@ -455,7 +551,17 @@
             "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
             "playUrl": "",
             "categories": []
-        }
+        },
+        {
+            "key": "push_agent",
+            "name": "🍭推送（阿里）",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": ""
+        }        
     ],
 "lives": [
     {
