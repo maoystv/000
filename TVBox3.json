@@ -124,6 +124,16 @@
             "ext": ""
         },
         {
+            "key": "csp_Bttoo",
+            "name": "🤹‍♂️BT(SP)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ""
+        },        
+        {
             "key": "csp_xpath_kuqimv",
             "name": "🎸MTV(XP)",
             "type": 3,
