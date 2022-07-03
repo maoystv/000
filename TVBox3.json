@@ -303,14 +303,14 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/九亿国语.json"
         },
         {
-           "key": "csp_biubiu_dunkfun",
-           "name": "dunkfun(XB)",
+           "key": "csp_biubiu_看片狂人",
+           "name": "狂人(XB)",
            "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/dunkfun.json"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/看片狂人.json"
         },
         {
            "key": "csp_biubiu_天空资源",
@@ -332,6 +332,16 @@
             "filterable": 1,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/heidong.js"
         },
+        {
+           "key": "csp_biubiu_黑狐影视",
+           "name": "黑狐(XB)",
+           "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e9%bb%91%e7%8b%90%e5%bd%b1%e8%a7%86%28ns%29.json"
+        },        
         {
             "key": "csp_xpath_naifeiorg",
             "name": "奈飞(XP)",
@@ -481,6 +491,22 @@
             "type":1,
             "api":"https://api.bdxapi.com/api.php/provide/vod/",
             "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"百度资源",
+            "name":"百度(CJ)",
+            "type":1,
+            "api":"https://api.apibdzy.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"人人资源",
+            "name":"人人(CJ)",
+            "type":1,
+            "api":"http://www.rrzyw.cc/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
         },
