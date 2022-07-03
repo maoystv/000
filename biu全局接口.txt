@@ -181,7 +181,7 @@
 ],
 
 //填写电视直播的接口链接
-"dianshizhibo": "https://xxx.txt",
+"dianshizhibo": "https://agit.ai/wzs1973/test/raw/branch/master/1656313536.txt",
 
 //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
 "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com",
