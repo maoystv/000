@@ -54,7 +54,6 @@
 {"name":"📹️冷视TV","url":"https://len.tv/api.php/v1.vod"},
 {"name":"📹️多啦咪PRO","url":"http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"},
 {"name":"📹️大猫影视","url":"http://app.ishen520.com/api.php/v1.vod"},
-{"name":"📹️橘子","url":"http://jz.juzidy.vip/mogai_api.php/v1.vod"},
 {"name":"📹️天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
 {"name":"📹️UU美剧","url":"https://www.uumjw.com/api.php/v1.vod"},
 {"name":"📹️海胆","url":"http://xf123.cc/api.php/app/"},
@@ -72,6 +71,8 @@
 {"name":"📽︎酷云七七","url":"http://api.kunyu77.com/api.php"},
 {"name":"📽︎百度yun云","url":"https://api.apibdzy.com/api.php"},
 {"name":"📽︎番茄影院","url":"http://api.fqzy.cc/api.php"},
+{"name":"📽︎2345","url":"http://2345.tgzy.cc/api.php"},
+{"name":"📽︎360","url":"http://360.tgzy.cc/api.php"},
 {"name":"📽︎8090资源","url":"http://zy.yilans.net:8090/api.php"},
 {"name":"📽︎特狗影视","url":"http://tv2.tegouys.com/api.php/iptv/vod/"},
 {"name":"📽︎云海采集","url":"http://101.34.7.151:600/api.php"},
@@ -84,9 +85,9 @@
 {"name":"📽︎量子资源","url":"http://cj.lziapi.com/api.php"},
 {"name":"📽︎芒讯影视","url":"http://www.hdyangtv.com/api.php/iptv/vod/"},
 {"name":"📽︎CV影视","url":"http://www.cccvvv.top/api.php/iptv/vod/"},
+{"name":"📽︎冠军资源","url":"https://www.cmpzy.com/api.php"},
 {"name":"📽︎快车资源","url":"https://caiji.kczyapi.com/api.php"},
 {"name":"📽︎阿远采集","url":"https://www.cjzy.xyz:8888/api.php"},
-{"name":"📽︎金鹰资源","url":"http://jinyingzy.com/provide/vod"},
 {"name":"📽︎多多资源","url":"https://www.ddzyz1.com/api.php"},
 {"name":"📽︎速更资源","url":"https://www.sugengzy.cn/api.php"},
 {"name":"📽︎新浪资源","url":"http://api.xinlangapi.com/xinlangapi.php"},
@@ -95,8 +96,12 @@
 {"name":"📽︎樱花(切片)","url":"https://m3u8.apiyhzy.com/api.php"},
 {"name":"📽︎酷猫影视","url":"https://www.pgcms10.com/api.php"},
 {"name":"📽︎想看资源2","url":"https://m3u8.xiangkanapi.com/api.php"},
+{"name":"📽︎易看资源","url":"https://api.yikanapi.com/api.php"},
 {"name":"📽︎快播资源","url":"http://www.kuaibozy.com/api.php"},
 {"name":"📽︎39看影视","url":"https://www.39kan.com/api.php"},
+{"name":"📽︎闪电资源","url":"http://sdzyapi.com/api.php"},
+{"name":"📽︎飞速资源","url":"https://www.feisuzy.com/api.php"},
+{"name":"📽︎光速资源","url":"https://api.guangsuapi.com/api.php"},
 {"name":"📽︎蓝光影视","url":"http://www.zzrhgg.com/api.php"},
 {"name":"📽︎1905资源","url":"http://zy.yilans.net:8090/api.php"},
 {"name":"📽︎飘花资源","url":"http://www.zzrhgg.com/api.php"}
@@ -152,8 +157,6 @@
 "横图显示": "1",
 "fenlei": "
 戏曲$/x/web-interface/search/type?search_type=video&keyword=戏曲&duration=3&page=#
-相声小品$/x/web-interface/search/type?search_type=video&keyword=相声小品&duration=3&page=#
-评书$/x/web-interface/search/type?search_type=video&keyword=评书&duration=3&page=#
 演唱会$/x/web-interface/search/type?search_type=video&keyword=演唱会&duration=4&page=#
 动物世界$/x/web-interface/search/type?search_type=video&keyword=动物世界&duration=3&page=#
 搞笑$/x/web-interface/search/type?search_type=video&keyword=娱乐&duration=3&page=#
@@ -410,6 +413,183 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
+{"name": "看片狂人",
+  "url": "https://www.kpkuang.xyz", //填网站链接
+  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
+  "shouye": "1",
+  "fenlei": "豆瓣电影$/vodshow/1--douban_score%2Cscore------#豆瓣连续剧$/vodshow/2--douban_score%2Cscore------#豆瓣综艺$/vodshow/3--douban_score%2Cscore------#豆瓣动漫$/vodshow/4--douban_score%2Cscore------#动画片$/vodshow/31--douban_score%2Cscore------#亲子动漫$/vodshow/4---亲子-----#益智动漫$/vodshow/4---益智-----#记录片$/vodshow/29--------#国产剧$/vodshow/13--------#港剧$/vodshow/14--------#日剧$/vodshow/15--------#欧美剧$/vodshow/16--------#韩剧$/vodshow/23--------#越南剧$/vodshow/22--------#泰剧$/vodshow/21--------#台剧$/vodshow/20--------#海外剧$/vodshow/30--------#国产动漫$/vodshow/4-中国大陆-------#日本动漫$/vodshow/4-日本-------#美国动漫$/vodshow/4-美国-------#韩国动漫$/vodshow/4-韩国-------#台湾动漫$/vodshow/4-台湾-------#动作片$/vodshow/6--------#喜剧片$/vodshow/7--------#爱情片$/vodshow/8--------#科幻片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------", //网站列表的分类
+  "houzhui": "-----.html", //网站翻页链接的后缀
+  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //不需要二次截取就填空
+  "jiequhou": "空", //不需要二次截取就填空
+  "jiequshuzuqian": "class=\"fed-list-pics", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "<span", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  "sousuoqian": "/vodsearch/-------------.html?wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/", //搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "1",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "空",
+  "jsname": "空",
+  "jsid": "空",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "class=\"fed-list-pics",
+  "ssjiequshuzuhou": "<span",
+  "sstupianqian": "data-original=\"",
+  "sstupianhou": "\"",
+  "ssbiaotiqian": "title=\"",
+  "ssbiaotihou": "\"",
+  "sslianjieqian": "href=\"",
+  "sslianjiehou": "\"",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "</ul><ul class=\"fed-part-rows\"", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
+  "zhuangtaiqian": "<p>最近更新:", //状态前关键词
+  "zhuangtaihou": "</p>", //状态后关键词
+  "daoyanqian": "导演：</span>", //导演前关键词
+  "daoyanhou": "</li>", //导演态后关键词
+  "zhuyanqian": "主演：</span>", //主演前关键词
+  "zhuyanhou": "</li>", //主演后关键词
+  "juqingqian": "简介：</span>看片狂人(www.kpkuang.com)为您奉上", //剧情前关键词
+  "juqinghou": "<span", //剧情后关键词
+  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截取就填空
+  "bfyjiequhou": "空", //不需要二次截取就填空
+  "bfyjiequshuzuqian": "class=\"fed-btns-info", //播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
+  "bfbiaotiqian": ">", //播放剧集标题前关键词
+  "bfbiaotihou": "<", //状播放剧集标题后关键词
+  "bflianjieqian": "href=\"", //播放剧集链接前关键词
+  "bflianjiehou": "\""},
+ {"name": "87影院",
+  "url": "https://87dyba.com", //填网站链接
+  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
+  "shouye": "1",
+  "fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#记录片$/vodshow/5--------#国产剧$/vodshow/201--------#港台剧$/vodshow/202--------#日韩剧$/vodshow/203--------#欧美剧$/vodshow/204--------#海外剧$/vodshow/205--------#国产动漫$/vodshow/4-中国大陆-------#日本动漫$/vodshow/4-日本-------#美国动漫$/vodshow/4-美国-------#韩国动漫$/vodshow/4-韩国-------#台湾动漫$/vodshow/4-中国台湾-------#动作片$/vodshow/101--------#喜剧片$/vodshow/102--------#爱情片$/vodshow/103--------#科幻片$/vodshow/104--------#剧情片$/vodshow/105--------#悬疑片$/vodshow/106--------#惊悚片$/vodshow/107--------#恐怖片$/vodshow/108--------#犯罪片$/vodshow/109--------", //网站列表的分类
+  "houzhui": "---.html", //网站翻页链接的后缀
+  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //不需要二次截取就填空
+  "jiequhou": "空", //不需要二次截取就填空
+  "jiequshuzuqian": "class=\"hl-item-thumb", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "<div", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/", //搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"hl-plays-list", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "<div", //播放截取的列表数组的后关键词
+  "zhuangtaiqian": "状态：</em><span class=\"hl-text-conch\">", //状态前关键词
+  "zhuangtaihou": "</span>", //状态后关键词
+  "daoyanqian": "导演：</em>", //导演前关键词
+  "daoyanhou": "</li>", //导演态后关键词
+  "zhuyanqian": "主演：</em>", //主演前关键词
+  "zhuyanhou": "</li>", //主演后关键词
+  "juqingqian": "简介：</em>", //剧情前关键词
+  "juqinghou": "</li>", //剧情后关键词
+  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截取就填空
+  "bfyjiequhou": "空", //不需要二次截取就填空
+  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
+  "bfbiaotiqian": ">", //播放剧集标题前关键词
+  "bfbiaotihou": "<", //状播放剧集标题后关键词
+  "bflianjieqian": "href=\"", //播放剧集链接前关键词
+  "bflianjiehou": "\""}, 
+{"name": "虚拟影院",
+  "url": "https://vxlan.top",
+  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  "User": "User-Agent:Dart/2.14 (dart:io)",
+  "shouye": "1",
+  "fenlei": "电影$/index.php/vod/type/id/1/page/#连续剧$/index.php/vod/type/id/2/page/#综艺$/index.php/vod/type/id/3/page/#动漫$/index.php/vod/type/id/4/page/#国产剧$/index.php/vod/show/id/13/page/#港台剧$/index.php/vod/show/id/14/page/#日韩剧$/index.php/vod/show/id/15/page/#欧美剧$/index.php/vod/show/id/16/page/#国产动漫$/index.php/vod/show/area/国产/id/4/page/#日本动漫$/index.php/vod/show/area/日本/id/4/page/#欧美动漫$/index.php/vod/show/area/欧美/id/4/page/#其他动漫$/index.php/vod/show/area/其他/id/4/page/#动作片$/index.php/vod/show/id/6/page/#喜剧片$/index.php/vod/show/id/7/page/#爱情片$/index.php/vod/show/id/8/page/#科幻片$/index.php/vod/show/id/9/page/#恐怖片$/index.php/vod/show/id/10/page/#剧情片$index.php/vod/show/id/11/page/#战争片$/index.php/vod/show/id/12/page/", //网站列表的分类
+  "houzhui": ".html", //网站翻页链接的后缀
+  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //不需要二次截取就填空
+  "jiequhou": "空", //不需要二次截取就填空
+  "jiequshuzuqian": "class=\"pic\"", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "</li", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "lay-src=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "class=\"name\">", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotihou": "</div", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/index.php/vod/detail/id/", //搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"zu-", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
+  "zhuangtaiqian": "更新：</span>", //状态前关键词
+  "zhuangtaihou": "<em>", //状态后关键词
+  "daoyanqian": "导演：</span>", //导演前关键词
+  "daoyanhou": "</p>", //导演态后关键词
+  "zhuyanqian": "主演：</span>", //主演前关键词
+  "zhuyanhou": "</p>", //主演后关键词
+  "juqingqian": "简介：</span>", //剧情前关键词
+  "juqinghou": "</div>", //剧情后关键词
+  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截取就填空
+  "bfyjiequhou": "空", //不需要二次截取就填空
+  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
+  "bfbiaotiqian": ">", //播放剧集标题前关键词
+  "bfbiaotihou": "<", //状播放剧集标题后关键词
+  "bflianjieqian": "href=\"", //播放剧集链接前关键词
+  "bflianjiehou": "\""},
 {"name": "☀骚火电影",
 "url": "https://shdy3.com",
 "tihuan": "cnzz.com",
@@ -984,7 +1164,7 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
   "bfbiaotihou": "<",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""},
-  {"name": "city电影-翻墙",
+  {"name": "city电影",
   "url": "https://www.citydy.com/",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
@@ -1042,7 +1222,7 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""},
   
-{"name": "老电影-翻墙",
+{"name": "老电影",
   "url": "https://www.laodyw.com/",
   "tihuan": "cnzz.com",
   "User": "空",
@@ -1667,63 +1847,63 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
-{"name": "☀鸭奈飞",
-"url": "https://netflix.mom",
-"tihuan": "cnzz.com",
-"User": "空",
-"fenlei": "电影$/index.php/vod/show/id/1/page/#连续剧$/index.php/vod/show/id/2/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "<div class=\"module-item-pic\">",
-"jiequshuzuhou": "</div>",
-"tupianqian": "data-src=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou":"\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/index.php/vod/detail/id/",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"sort-item",
-"bfjiequshuzuhou": "</div>",
-"zhuangtaiqian": "集数：</span>",
-"zhuangtaihou": "</div>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</div>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</div>",
-"juqingqian": "剧情：</span>",
-"juqinghou": "</span>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian":"空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": "<span>",
-"bfbiaotihou": "</span>",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
+{"name": "悟空影视",
+  "url": "https://www.01vo.com",
+  "tihuan": "cnzz.com",
+  "User": "空",
+  "fenlei": "体育$/vodshow/36--------#电影$/vodshow/1--------#连续剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#纪录片$/vodshow/25--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#国产动漫$/vodshow/31--------#日本动漫$/vodshow/32--------#欧美动漫$/vodshow/33--------#动漫片$/vodshow/26--------#动作片$/vodshow/6--------#喜剧片$/vodshow/7--------#爱情片$/vodshow/8--------#科幻片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------#犯罪片$/vodshow/24--------",
+  "houzhui": "---.html",
+  "shifouercijiequ": "0",
+  "jiequqian": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"module-item-pic",
+  "jiequshuzuhou": "alt=\"",
+  "tupianqian": "data-src=\"",
+  "tupianhou": "\"",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"sort-item",
+  "bfjiequshuzuhou": "</div>",
+  "zhuangtaiqian": "集数：</span><div class=\"video-info-item\">",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "导演：</span>",
+  "daoyanhou": "</div>",
+  "zhuyanqian": "主演：</span>",
+  "zhuyanhou": "</div>",
+  "juqingqian": "vod_content\"><span>",
+  "juqinghou": "</span>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": "span>",
+  "bfbiaotihou": "</span",
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""},
 {"name": "☀影视之光",
 "url": "http://vip.8kvod.com:888",
 "tihuan": "cnzz.com",
