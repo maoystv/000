@@ -73,6 +73,7 @@
 {"name":"📽︎百度yun云","url":"https://api.apibdzy.com/api.php"},
 {"name":"📽︎番茄影院","url":"http://api.fqzy.cc/api.php"},
 {"name":"📽︎8090资源","url":"http://zy.yilans.net:8090/api.php"},
+{"name":"📽︎特狗影视","url":"http://tv2.tegouys.com/api.php/iptv/vod/"},
 {"name":"📽︎云海采集","url":"http://101.34.7.151:600/api.php"},
 {"name":"📽︎米莱影视","url":"http://42.51.37.161:2346/api.php/iptv/vod/"},
 {"name":"📽︎非凡影院","url":"http://cms.feifan12.xyz/api.php/iptv/vod/"},
@@ -144,7 +145,7 @@
 "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com",
 //填写网页接口内容，格式是 {网页接口1},{网页接口2},{网页接口3} 一个花括号里面就是一个自定义接口内容  用，号分割  最后一个不加，号
 "zidingyi": [
-{"name": "BiLiBiLi",
+{"name": "🅱️哔哩资源",
 "url": "https://api.bilibili.com",  
 "User": "空",     
 "直接播放": "0",
@@ -234,7 +235,7 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "bflianjieqian": "page\":",
 "bflianjiehou": ",",
 "bfqianzhui": "?p="},
-{"name": "斗鱼",
+{"name": "🐬斗鱼",
   "url": "https://www.douyu.com/", //填网站链接
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
