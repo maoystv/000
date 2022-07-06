@@ -345,7 +345,7 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "User": "空",     
 "直接播放": "0",
 "横图显示": "1",
-"fenlei": "相声$/x/web-interface/search/type?search_type=video&keyword=相声&duration=3&page=#小品$/x/web-interface/search/type?search_type=video&keyword=小品&duration=3&page=#评书$/x/web-interface/search/type?search_type=video&keyword=评书&duration=4&page=", 
+"fenlei": "相声$/x/web-interface/search/type?search_type=video&keyword=相声&duration=3&page=#小品$/x/web-interface/search/type?search_type=video&keyword=小品&duration=3&page=#评书$/x/web-interface/search/type?search_type=video&keyword=评书&duration=3&page=", 
 "houzhui": "",
 "shifouercijiequ": "0",
 "jiequqian": "空",
