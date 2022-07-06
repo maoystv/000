@@ -146,10 +146,15 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+{"name":"leduo","url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
+{"name":"线路NX","url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
+{"name":"293","url":"http://81.71.48.249:4456/jsonc/longxia.php?url="},
+{"name":"hfyrw","url":"https://json.hfyrw.com/mao.go?url="},
+{"name":"江湖解析","url":"http://103.40.240.46/jh/?url="},
 {"name":"解析1","url":"https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url="},
 {"name":"解析2","url":"http://115.231.218.97:1314/api/?key=RwOSJUQyDGtD5K2qJY&url="},
 {"name":"解析3","url":"https://json.5lp.net/json.php?url="},
-{"name":"解析4","url":"http://api.vip123kan.vip/?url="},
+{"name":"Pro","url":"http://api.vip123kan.vip/?url="},
 {"name":"解析5","url":"https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="},
 {"name":"解析6","url":"http://svip.nicefamily.club/home/api?type=ys&uid=769560&key=chijkrtBEGNPRWXZ35&url="},
 {"name":"解析7","url":"http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url="},
