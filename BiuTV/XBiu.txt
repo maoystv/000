@@ -276,7 +276,7 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "bflianjiehou": ",",
 "bfqianzhui": "?p="},
 {"name": "西瓜视频",
-"url": "https://api.ixigua.com/",  
+"url": "https://www.ixigua.com/",  
 "User": "空",     
 "直接播放": "0",
 "横图显示": "1",
