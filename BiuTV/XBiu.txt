@@ -275,12 +275,37 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "bflianjieqian": "page\":",
 "bflianjiehou": ",",
 "bfqianzhui": "?p="},
-{"name": "动物世界演唱会",
-"url": "https://api.bilibili.com",  
+{"name": "西瓜视频",
+"url": "https://api.ixigua.com/",  
 "User": "空",     
 "直接播放": "0",
 "横图显示": "1",
-"fenlei": "动物世界$/x/web-interface/search/type?search_type=video&keyword=%E5%8A%A8%E7%89%A9%E4%B8%96%E7%95%8C&duration=3&page=#mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#戏曲$/x/web-interface/search/type?search_type=video&keyword=戏曲&duration=3&page=#演唱会$/x/web-interface/search/type?search_type=video&keyword=演唱会&duration=4&page=", 
+"fenlei": "
+电影$/x/web-interface/search/type?search_type=video&keyword=电影&duration=3&page=#
+电视剧$/x/web-interface/search/type?search_type=video&keyword=电视剧&duration=4&page=#
+游戏$/x/web-interface/search/type?search_type=video&keyword=游戏&duration=3&page=#
+影视$/x/web-interface/search/type?search_type=video&keyword=影视&duration=3&page=#
+音乐$/x/web-interface/search/type?search_type=video&keyword=音乐&duration=3&page=#
+纪录片$/x/web-interface/search/type?search_type=video&keyword=纪录片&duration=3&page=#
+VLOG$/x/web-interface/search/type?search_type=video&keyword=VLOG&duration=3&page=#
+直播$/x/web-interface/search/type?search_type=video&keyword=直播&duration=3&page=#
+美食$/x/web-interface/search/type?search_type=video&keyword=美食&duration=3&page=#
+农人$/x/web-interface/search/type?search_type=video&keyword=农人&duration=3&page=#
+综艺$/x/web-interface/search/type?search_type=video&keyword=综艺&duration=3&page=#
+少儿$/x/web-interface/search/type?search_type=video&keyword=少儿&duration=3&page=#
+动漫$/x/web-interface/search/type?search_type=video&keyword=动漫&duration=3&page=#
+搞笑$/x/web-interface/search/type?search_type=video&keyword=搞笑&duration=3&page=#
+宠物$/x/web-interface/search/type?search_type=video&keyword=宠物&duration=3&page=#
+旅游$/x/web-interface/search/type?search_type=video&keyword=旅游&duration=3&page=#
+娱乐$/x/web-interface/search/type?search_type=video&keyword=娱乐&duration=3&page=#
+科技$/x/web-interface/search/type?search_type=video&keyword=科技&duration=3&page=#
+军事$/x/web-interface/search/type?search_type=video&keyword=军事&duration=3&page=#
+懂车帝$/x/web-interface/search/type?search_type=video&keyword=懂车帝&duration=3&page=#
+体育$/x/web-interface/search/type?search_type=video&keyword=体育&duration=3&page=#
+NBA$/x/web-interface/search/type?search_type=video&keyword=NBA&duration=3&page=#
+文化$/x/web-interface/search/type?search_type=video&keyword=文化&duration=3&page=#
+手作$/x/web-interface/search/type?search_type=video&keyword=手作&duration=3&page=#
+无障碍影院$/x/web-interface/search/type?search_type=video&keyword=无障碍影院&duration=3&page=", 
 "houzhui": "",
 "shifouercijiequ": "0",
 "jiequqian": "空",
@@ -294,7 +319,7 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "biaotihou": "\"",
 "lianjieqian": "\"bvid\":\"",
 "lianjiehou": "\"",
-"ljqianzhui": "https://www.bilibili.com/video/",
+"ljqianzhui": "https://www.ixigua.com/video/",
 "fubiaotiqian": "title\":\"",
 "fubiaotihou": "\"",
 "sousuohouzhui": "/voddetail/",
