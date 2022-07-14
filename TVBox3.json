@@ -1,5 +1,5 @@
 {
-    "spider": "https://notabug.org/wzs888/test/raw/master/jar/qji.jar",
+    "spider": "https://notabug.org/wzs888/test/raw/master/jar/0705.jar",
     "sites": [
         {
             "key": "csp_BBB",
@@ -9,7 +9,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ""
+            "ext": "https://notabug.org/wzs888/test/raw/master/bili.json"
         },
         {
             "key": "csp_Blixs",
@@ -37,6 +37,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+            "ext": "https://notabug.org/wzs888/test/raw/master/singers.json"
         }, 
         {
             "key": "csp_Blidw",
@@ -55,7 +56,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ""
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/360.json"
         },
         {
             "key": "csp_kuaik1",
@@ -476,7 +477,7 @@
             "api":"https://www.cjzy.xyz:8888/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
-        },
+        },https://notabug.org/wzs888/test/raw/master/XP/360.json
         {
             "key":"红牛*资源",
             "name":"红牛(CJ)",
