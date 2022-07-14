@@ -462,6 +462,15 @@
             "playUrl": ""
         },
         {
+            "key": "wabc(爱奇艺直采)",
+            "name": "爱奇艺(CJ)",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://wabc.ml/mao/2.php/provide/vod/",
+            "playUrl": ""
+        },
+        {
             "key": "8090资源(官)",
             "name": "8090(CJ)",
             "type": 1,
@@ -469,7 +478,7 @@
             "quickSearch": 1,
             "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
             "playUrl": ""
-        },        
+        },         
         {
             "key": "诺讯采集",
             "name": "诺讯(CJ)",
