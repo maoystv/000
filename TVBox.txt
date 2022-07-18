@@ -1,7 +1,7 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://agit.ai/wzs1973/test/raw/branch/master/jar/0608.jar",
-    "spider": "https://agit.ai/wzs1973/test/raw/branch/master/jar/0717.jar",
+    //"spider": "https://agit.ai/wzs1973/test/raw/branch/master/jar/0608.jar",
+    "spider": "https://notabug.org/wzs888/test/raw/master/jar/0717.jar",
     "sites": [
         {
             "key": "csp_LiteApple",
