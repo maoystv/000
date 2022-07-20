@@ -1,5 +1,5 @@
 {
-    "spider": "https://notabug.org/wzs888/test/raw/master/jar/top92921.jar",
+    "spider": "https://notabug.org/wzs888/test/raw/master/jar/TVBox.jar",
     "sites": [
         {
             "key": "csp_BBB",
