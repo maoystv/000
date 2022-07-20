@@ -590,7 +590,7 @@
             "key":"无尽资源",
             "name":"无尽(CJ)",
             "type":1,
-            "api":"https://wuzy9.com/api.php/provide/vod/",
+            "api":"https://wujinzy.com/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
         },
