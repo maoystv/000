@@ -491,6 +491,16 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/huohuo.json"
         },
         {
+            "key":"csp_apptt_图图影视",
+            "name":"图图(萝卜)",
+            "type":3,
+            "api":"csp_AppTT",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://110.42.1.95:7788/"
+        },
+        {
             "key":"csp_appysv2_影库",
             "name":"影库(萝卜)",
             "type":3,
