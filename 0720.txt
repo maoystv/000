@@ -1,5 +1,5 @@
 {
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/20220720.jar",
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/top92921.jar",
   "lives": [
     {
       "group": "redirect",
@@ -207,7 +207,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/jsons_qiaoji/Bili.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/bili.json"
     },
     {
       "key": "csp_Blixs",
