@@ -41,17 +41,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": ""
-        },
-        {
-            "key": "2345_spider",
-            "name": "2345影院(SP)",
-            "type": 3,
-            "api": "csp_YS2345",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XP/2345.json",
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/0608.jar"
         },       
         {
             "key": "csp_Kmys",
@@ -473,21 +462,24 @@
         {
             "key":"多多*资源",
             "name":"多多(CJ)",
-            "type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/",
+            "type":1,
+            "api":"https://www.ddzyz1.com/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
         },
         {
             "key":"阿远*资源",
             "name":"阿远(CJ)",
-            "type":1,"api":"https://www.cjzy.xyz:8888/api.php/provide/vod/",
+            "type":1,
+            "api":"https://www.cjzy.xyz:8888/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
         },        
         {
             "key":"新浪*资源",
             "name":"新浪(CJ)",
-            "type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "type":1,
+            "api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
         },
@@ -530,21 +522,24 @@
         {
             "key":"樱花*资源",
             "name":"樱花(CJ)",
-            "type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "type":1,
+            "api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
         },
         {
              "key":"红牛*资源",
              "name":"红牛(CJ)",
-             "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+             "type":1,
+             "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
              "searchable":1,
              "quickSearch":1
         },       
         {
              "key":"闪电*资源",
              "name":"闪电(CJ)",
-             "type":1,"api":"http://sdzyapi.com/api.php/provide/vod/",
+             "type":1,
+             "api":"http://sdzyapi.com/api.php/provide/vod/",
              "searchable":1,
              "quickSearch":1
         },
@@ -567,7 +562,8 @@
         {
              "key":"XYUI*资源",
              "name":"XYUI(CJ)",
-             "type":1,"api":"http://jx4.xyui.top:7001/api.php/provide/vod/",
+             "type":1,
+             "api":"http://jx4.xyui.top:7001/api.php/provide/vod/",
              "searchable":1,
              "quickSearch":1
         },        
