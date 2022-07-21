@@ -19,7 +19,7 @@
             "filterable":1,
             "quickSearch":1,
             "searchable":1,
-            "ext":"https://notabug.org/wzs888/test/raw/master/简影.txt",
+            "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY",
             "spider":"https://notabug.org/wzs888/test/raw/master/jar/qj0720_spider.jar"
         },
         {
@@ -42,6 +42,17 @@
             "filterable": 1,
             "ext": ""
         },
+        {
+            "key": "2345_spider",
+            "name": "2345影院(SP)",
+            "type": 3,
+            "api": "csp_YS2345",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/2345.json",
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/0608.jar"
+        },       
         {
             "key": "csp_Kmys",
             "name": "🐞酷猫(SP)",
@@ -265,14 +276,14 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/在线之家.json"
         },        
         {
-            "key": "csp_biubiu_天空资源",
-            "name": "天空(XB)",
+            "key": "csp_biubiu_chok8电影",
+            "name": "chok8(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/天空资源.json"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XB/chok8电影.json"
         },
         {
             "key": "csp_biubiu_saohuo",
@@ -295,16 +306,6 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
         },
         {
-            "key": "csp_biubiu_lezhu",
-            "name": "乐猪(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/乐猪影视.json"
-        },
-        {
             "key": "csp_biubiu_lgyy",
             "name": "蓝光(XB)",
             "type": 3,
@@ -325,16 +326,6 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XB/555电影.json"
         },
         {
-            "key": "csp_biubiu_奈菲影院",
-            "name": "奈菲(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/nfyy.json"
-        },
-        {
            "key": "csp_biubiu_麻衣高清",
            "name": "麻衣(XB)",
            "type": 3,
@@ -345,7 +336,7 @@
            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/麻衣高清.json"
         },
         {
-           "key": "csp_biubiu_哔嘀影视",
+           "key": "csp_biubiu_小小影视",
            "name": "哔嘀(XB)",
            "type": 3,
            "api": "csp_XBiubiu",
@@ -353,36 +344,6 @@
            "quickSearch": 1,
            "filterable": 0,
            "ext": "https://notabug.org/wzs888/test/raw/master/XB/bdys.json"
-        },
-        {
-           "key": "csp_biubiu_九亿国语",
-           "name": "九亿(XB)",
-           "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/九亿国语.json"
-        },
-        {
-           "key": "csp_biubiu_dunkfun",
-           "name": "dunkfun(XB)",
-           "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/dunkfun.json"
-        },
-        {
-           "key": "csp_biubiu_天空资源",
-           "name": "天空(XB)",
-           "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XB/tkzy.json"
         },        
         {
             "key": "csp_xpath_heidong",
@@ -415,14 +376,14 @@
             "ext": "https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"
         },
         {
-            "key": "csp_xpath_dandanzan10",
-            "name": "蛋蛋(XP)",
+            "key": "csp_xpath_小小影视",
+            "name": "小小(XP)",
             "type": 3,
-            "api": "csp_XPathFilter",
+            "api": "csp_XPath",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XP/dandanzan10.json"
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/xfeiji.json"
         },
         {
             "key": "csp_xpath_duboku",
@@ -433,16 +394,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/duboku2.json"
-        },
-        {
-            "key": "csp_xpath_hdmoli",
-            "name": "茉莉(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/hdmoli.json"
         },        
         {
             "key": "csp_xpath_gongren",
@@ -464,6 +415,16 @@
             "filterable": 1,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/huohuo.json"
         },
+        {
+            "key":"csp_appysv2_狐影TV",
+            "name":"狐影(萝卜)",
+            "type":3,
+            "api":"csp_AppYsV2",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://www.foxhtv.com/api.php/v1.vod"
+        }       
         {
             "key": "土狗2345",
             "name": "2345(CJ)",
@@ -492,14 +453,13 @@
             "playUrl": ""
         },
         {
-            "key": "8090资源(官)",
-            "name": "8090(CJ)",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
-            "playUrl": ""
-        },         
+            "key":"龙腾资源",
+            "name":"龙腾(CJ)",
+            "type":1,
+            "api":"http://175.178.7.35:2020/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },          
         {
             "key": "诺讯采集",
             "name": "诺讯(CJ)",
@@ -560,6 +520,14 @@
             "filterable": 0
         },
         {
+             "key":"百度资源",
+             "name":"百度(CJ)",
+             "type":1,
+             "api":"https://api.apibdzy.com/api.php/provide/vod/",
+             "searchable":1,
+             "quickSearch":1
+        },         
+        {
             "key":"樱花*资源",
             "name":"樱花(CJ)",
             "type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
@@ -572,13 +540,6 @@
              "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
              "searchable":1,
              "quickSearch":1
-        },
-        {
-             "key":"北斗星*资源",
-             "name":"北斗(CJ)",
-             "type":1,"api":"https://api.bdxzyapi.com/api.php/provide/vod/",
-             "searchable":1,
-             "quickSearch":1
         },       
         {
              "key":"闪电*资源",
@@ -588,12 +549,21 @@
              "quickSearch":1
         },
         {
-             "key":"淘片*资源",
-             "name":"淘片(CJ)",
-             "type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/",
+             "key":"神速资源",
+             "name":"神速(CJ)",
+             "type":1,
+             "api":"https://api.sszyapi.com/api.php/provide/vod/?ac=list",
              "searchable":1,
              "quickSearch":1
-        },        
+        },
+        {
+             "key":"飞速资源",
+             "name":"飞速(CJ)",
+             "type":1,
+             "api":"https://www.feisuzy.com/api.php/provide/vod/",
+             "searchable":1,
+             "quickSearch":1
+        },       
         {
              "key":"XYUI*资源",
              "name":"XYUI(CJ)",
@@ -682,7 +652,6 @@
 {"name":"16","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
 {"name":"18","type":1,"url":"http://jx.hlele.vip/api/?url="},
 {"name":"21","type":0,"url":"https://okjx.cc/?url="},
-//{"name":"龙虾","type":1,"url":"http://106.55.234.91:4433/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dalvik/2.1.0"}}},
 {"name":"Web解析","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}},
 {"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"parwix2","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
