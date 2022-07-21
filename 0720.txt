@@ -1,5 +1,5 @@
 {
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/top92921.jar",
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/20220720.jar",
   "lives": [
     {
       "group": "redirect",
@@ -138,7 +138,7 @@
     },
     {
       "key": "csp_Tkys",
-      "name": "🐞Tkys",
+      "name": "🐞天空影视",
       "type": 3,
       "api": "csp_Tkys",
       "searchable": 1,
