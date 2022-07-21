@@ -1,6 +1,6 @@
 {
 
-"spider":"https://pan.css.lc/api/v3/file/get/50173/qj0720_spider.jar?sign=ti508ErlRHuzy9vd29ohnkHjYAL53mBQhrbCQl37xNk%3D%3A0",
+"spider":"https://notabug.org/wzs888/test/raw/master/jar/qj0720_spider.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
