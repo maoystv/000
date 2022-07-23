@@ -9,7 +9,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ""
+            "ext": "https://notabug.org/wzs888/test/raw/master/bili.json",
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_SP360",
@@ -199,6 +200,26 @@
             "ext": ""
         },
         {
+            "key":"csp_Nbys",
+            "name":"👑泥巴(墙外)",
+            "type":3,
+            "api":"csp_Nbys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+        },
+        {
+            "key":"If101",
+            "name":"💿If101(墙外)",
+            "type":3,
+            "api":"csp_If101",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+        },
+        {
             "key": "csp_xpath_kuqimv",
             "name": "🎾酷奇(XP)",
             "type": 3,
@@ -226,7 +247,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ""
+            "ext": "",
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_Blixq",
@@ -236,7 +258,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ""
+            "ext": "",
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_Bliyc",
@@ -246,7 +269,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ""
+            "ext": "",
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },        
         {
             "key": "csp_Blidw",
@@ -257,6 +281,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": ""
+        },
+        {
+            "key": "csp_GitCafe",
+            "name": "📃小纸条",
+            "type": 3,
+            "api": "csp_GitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },        
         {
             "key": "csp_Alips",
@@ -266,16 +299,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": ""
+            "ext": ""            
         },        
         {
-            "key": "csp_GitCafe",
-            "name": "📃小纸条",
+            "key": "csp_FindZY",
+            "name": "找资源",
             "type": 3,
-            "api": "csp_GitCafe",
+            "api": "csp_FindZY",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1,
+            "ext": "1f373a68733e4dafa5fa28dca9826b35",
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_biubiu_斗鱼",
