@@ -215,7 +215,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_xpath_kuqimv",
@@ -246,7 +246,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_Blixq",
@@ -257,7 +257,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_Bliyc",
@@ -268,7 +268,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },        
         {
             "key": "csp_Blidw",
@@ -308,7 +308,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "1f373a68733e4dafa5fa28dca9826b35",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_biubiu_斗鱼",
