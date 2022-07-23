@@ -215,7 +215,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_xpath_kuqimv",
@@ -245,8 +245,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "ext": ""
         },
         {
             "key": "csp_Blixq",
@@ -256,8 +255,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "ext": ""
         },
         {
             "key": "csp_Bliyc",
@@ -267,8 +265,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "ext": ""
         },        
         {
             "key": "csp_Blidw",
