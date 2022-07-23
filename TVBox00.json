@@ -8,7 +8,8 @@
             "api": "csp_BBB",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": ""
         },
         {
             "key": "csp_SP360",
@@ -276,16 +277,6 @@
             "filterable": 0,
             "ext": ""            
         },        
-        {
-            "key": "csp_FindZY",
-            "name": "找资源",
-            "type": 3,
-            "api": "csp_FindZY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "1f373a68733e4dafa5fa28dca9826b35"
-        },
         {
             "key": "csp_biubiu_斗鱼",
             "name": "斗鱼(XB)",
