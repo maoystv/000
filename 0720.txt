@@ -1,208 +1,176 @@
 {
-    "spider": "https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar",
+    "spider": "https://notabug.org/wzs888/test/raw/master/jar/zy.jar",
     "sites": [
-        {
-            "key": "csp_BBB",
-            "name": "🅱️哔哩套餐",
-            "type": 3,
-            "api": "csp_BBB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_SP360",
-            "name": "📺360(SP)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_Kmys",
-            "name": "🐞酷猫(SP)",
-            "type": 3,
-            "api": "csp_Kmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },        
-        {
-            "key": "csp_kuaikan",
-            "name": "👀快看(SP)",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_IKan",
-            "name": "✨爱看(SP)",
-            "type": 3,
-            "api": "csp_IKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
-        {
-            "key": "csp_LiteApple",
-            "name": "🍎苹果(SP)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },        
-        {
-            "key": "csp_Auete",
-            "name": "🐼Auete(SP)",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_77",
-            "name": "🎬77(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Mjxq",
-            "name": "🌏美剧(SP)",
-            "type": 3,
-            "api": "csp_Mjxq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "ext": "",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "📙低端(SP)",
-            "api": "csp_DiDuan",
-            "type": 3,
-            "key": "csp_DiDuan",
-            "searchable": 1
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "🍷两个BT(SP)",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_Cokemv",
-            "name": "📕焦炭(SP)",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_Buka",
-            "name": "📒不卡(SP)",
-            "type": 3,
-            "api": "csp_Buka",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_xpath_kuqimv",
-            "name": "🎾酷奇(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://notabug.org/wzs888/test/raw/master/XP/mtv.txt"
-        },
-        {
-            "key": "csp_DY1990",
-            "name": "💙90(SP)",
-            "type": 3,
-            "api": "csp_DY1990",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_Blixs",
-            "name": "🎧相声小品",
-            "type": 3,
-            "api": "csp_Blixs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_Blixq",
-            "name": "🎭️戏曲",
-            "type": 3,
-            "api": "csp_Blixq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_Bliyc",
-            "name": "🎤演唱会",
-            "type": 3,
-            "api": "csp_Bliyc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },        
-        {
-            "key": "csp_Blidw",
-            "name": "👾动物世界",
-            "type": 3,
-            "api": "csp_Blidw",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },        
-        {
-            "key": "csp_Alips",
-            "name": "🌥 搜盘",
-            "type": 3,
-            "api": "csp_AliPanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": ""
-        },        
-        {
-            "key": "csp_GitCafe",
-            "name": "📃小纸条",
-            "type": 3,
-            "api": "csp_GitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+    {
+      "key":"293视频",
+      "name":"🐞293视频",
+      "type":3,
+      "api":"csp_SP293",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
+    {
+      "key":"csp_小苹果",
+      "name":"🐞小苹果",
+      "type":3,
+      "api":"csp_LiteApple",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
+    {
+      "key":"csp_追剧喵",
+      "name":"🐞追剧喵",
+      "type":3,
+      "api":"csp_ZJMiao",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
+    {
+      "key":"csp_JianYing",
+      "name":"🐞简影",
+      "type":3,
+      "api":"csp_JianYing",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4OTMzOTg1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.XS8N8Q01_7TaoMGS_Y2phW8a-lZIVA8b7Bbsoq90EMY"
+    },
+    {
+      "key":"csp_Wmkk",
+      "name":"🐞完美看看",
+      "type":3,
+      "api":"csp_Wmkk",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
+    {
+      "key":"csp_xpath_kuqimv",
+      "name": "🎾酷奇(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/mtv.txt"
+    },
+    {
+      "key":"csp_kuyun77",
+      "name":"🐞酷云七七",
+      "type":3,
+      "api":"csp_Kunyu77",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
+    {
+      "key":"360_spider",
+      "name":"🐞360影视",
+      "type":3,
+      "api":"csp_SP360",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
+    {
+      "key":"csp_CZSPP",
+      "name":"🐞厂长资源",
+      "type":3,
+      "api":"csp_Czsapp",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":""
+    },
+    {
+      "key":"csp_LibVio",
+      "name":"🐞LibVio",
+      "type":3,
+      "api":"csp_Lib",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":""
+    },
+    {
+      "key":"csp_Auete",
+      "name":"🐞Auete",
+      "type":3,
+      "api":"csp_Auete",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },        
+    {
+      "key":"csp_Cokemv",
+      "name":"🐞Cokemv",
+      "type":3,
+      "api":"csp_Cokemv",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },        
+    {
+      "key":"Zxzj",
+      "name":"🐞在线之家",
+      "type":3,
+      "api":"csp_Zxzj",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },      
+    {
+      "key":"BBB",
+      "name":"🐞哔哩哔哩",
+      "type":3,
+      "api":"csp_BBB",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://notabug.org/wzs888/test/raw/master/bili.json"
+    },
+    {
+      "key":"Gitcafe",
+      "name":"小纸条",
+      "type":3,
+      "api":"csp_GitCafe",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
+    {
+      "key":"AliPS",
+      "name":"盘搜",
+      "type":3,
+      "api":"csp_AliPS",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
+    {
+      "key":"FindZY",
+      "name":"找资源",
+      "type":3,
+      "api":"csp_FindZY",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
     {
       "key": "csp_xpath_huya",
       "name": "🐯虎牙(XP)",
