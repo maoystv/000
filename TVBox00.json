@@ -8,9 +8,7 @@
             "api": "csp_BBB",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://notabug.org/wzs888/test/raw/master/bili.json",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "filterable": 1
         },
         {
             "key": "csp_SP360",
