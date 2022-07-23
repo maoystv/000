@@ -10,7 +10,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://notabug.org/wzs888/test/raw/master/bili.json",
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_SP360",
@@ -207,7 +207,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key":"If101",
@@ -217,7 +217,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_xpath_kuqimv",
@@ -248,7 +248,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "",
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_Blixq",
@@ -259,7 +259,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "",
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_Bliyc",
@@ -270,7 +270,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "",
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },        
         {
             "key": "csp_Blidw",
@@ -310,7 +310,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "1f373a68733e4dafa5fa28dca9826b35",
-            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_biubiu_斗鱼",
