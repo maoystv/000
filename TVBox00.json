@@ -9,8 +9,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar" 
+            "ext": ""
         },
         {
             "key": "csp_SP360",
@@ -20,8 +19,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "ext": ""
         },
         {
             "key": "csp_QQ",
@@ -94,8 +92,7 @@
             "api": "csp_Kmys",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "filterable": 1           
         },
         {
             "key":"csp_Wmkk",
@@ -125,7 +122,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
         },
         {
             "key": "csp_IKan",
@@ -135,7 +131,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
         }, 
         {
             "key": "csp_LiteApple",
@@ -145,7 +140,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
         },        
         {
             "key": "csp_Auete",
@@ -155,7 +149,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
         },
         {
             "key": "csp_77",
@@ -165,7 +158,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
         },
         {
             "key": "csp_Mjxq",
@@ -175,7 +167,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
         },
         {
             "ext": "",
@@ -186,7 +177,6 @@
             "type": 3,
             "key": "csp_DiDuan",
             "searchable": 1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
         },
         {
             "key": "csp_Bttoo",
@@ -196,8 +186,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "ext": ""
         },
         {
             "key": "csp_Cokemv",
@@ -207,8 +196,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "ext": ""
         },
         {
             "key": "csp_xpath_kuqimv",
@@ -228,8 +216,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "ext": ""
         },
         {
             "key": "csp_Blixs",
@@ -239,8 +226,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "ext": ""
         },
         {
             "key": "csp_Blixq",
@@ -250,8 +236,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "ext": ""
         },
         {
             "key": "csp_Bliyc",
@@ -261,8 +246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "ext": ""
         },        
         {
             "key": "csp_Blidw",
@@ -272,8 +256,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "ext": ""
         },        
         {
             "key": "csp_Alips",
@@ -283,8 +266,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "",
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "ext": ""
         },        
         {
             "key": "csp_GitCafe",
@@ -293,8 +275,7 @@
             "api": "csp_GitCafe",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/RBTV.jar"
+            "filterable": 0
         },
         {
             "key": "csp_biubiu_斗鱼",
