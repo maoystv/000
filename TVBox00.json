@@ -204,8 +204,7 @@
             "api":"csp_Nbys",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "filterable":1
         },
         {
             "key":"If101",
@@ -215,7 +214,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-            "plugin":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
+            "spider":"https://notabug.org/wzs888/test/raw/master/jar/20220718.txt"
         },
         {
             "key": "csp_xpath_kuqimv",
