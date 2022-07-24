@@ -344,6 +344,24 @@
 
 
 //------------------------------------------------------------AV-APP---------------------------------------------------------------
+    {
+      "key": "影库资源",
+      "name": "影库资源",
+      "type": 1,
+      "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
+      "tag": "qb,tj",
+      "categories": []
+    },
+        {
+      "key": "酷豆",
+      "name": "酷豆",
+      "type": 1,
+      "api": "https://api.kdapi.info/api.php/provide/vod/",
+      "playUrl": "https://jx.kubohk.com/jx/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 {"key": "香奶儿","name": "香奶儿av","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://www.gdlsp.com/api/xml.php"},
 {"key": "饮水机","name": "饮水机av","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://www.xrbsp.com/api/xml.php"},
 {"key": "美少女","name": "美少女av","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://www.msnii.com/api/xml.php"},
