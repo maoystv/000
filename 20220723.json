@@ -2,8 +2,6 @@
 //"spider":"https://gitea.com/cfsxy/Box/raw/branch/main/BoxJar/top92.jar",
 "spider":"https://notabug.org/wzs888/test/raw/master/jar/%e7%bc%9d%e5%90%88.jar",
 //"spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/6.jar",
-
-
 "sites":[
 //-------------------------------------------------------------爬虫线路-------------------------------------------------------------
 {"key":"七七","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -41,6 +39,7 @@
 {"key":"csp_appysv2_9e国语","name":"9️⃣ 9E国语","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_xpath_naifeiorg","name":"🀄️奈飞中文(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"},
 //-------------------------------------------------------------资源采集-------------------------------------------------------------
+{"key":"293影视","name":"293影视(优)","type":1,"api":"http://293x.yhzy.xyz/mv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "腾讯视频〔官源〕","name": "🐝腾讯〔官源〕","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "爱奇艺会员〔官源〕","name": "🐝爱奇艺〔官源〕","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "优酷视频会员〔官源〕","name": "🐝优酷〔官源〕","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
