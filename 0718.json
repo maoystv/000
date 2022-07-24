@@ -2,14 +2,6 @@
   
   "sites": [
     {
-      "key": "csp_SP360",
-      "name": "🧲360(SP)",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1},
-    {
       "key": "csp_LiteApple",
       "name": "🧃苹果(SP)",
       "type": 3,
@@ -84,14 +76,7 @@
       "quickSearch": 1,
       "filterable": 1},
    
-    {
-      "key": "zxzj",
-      "name": "🏡在线之家(SP)",
-      "type": 0,
-      "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1},
+
     {
       "key": "csp_Bttoo",
       "name": "🪢两个BT(SP)",
@@ -724,24 +709,6 @@
           "sohu",
           "xigua",
           "1905"
-        ]
-      }
-    },
-    {
-      "name": "江湖解析",
-      "type": 1,
-      "url": "https://jhjx.kuanjv.com/newky/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果"
         ]
       }
     },
