@@ -38,7 +38,8 @@
 {"key":"AliPS","name":"🐱盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
 {"key":"csp_AliPanSou","name":"🐱喵搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"FindZY","name":"🐱找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
-
+{"key":"csp_appysv2_9e国语","name":"9️⃣ 9E国语","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"key":"csp_xpath_naifeiorg","name":"🀄️奈飞中文(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"},
 //-------------------------------------------------------------资源采集-------------------------------------------------------------
 {"key": "腾讯视频〔官源〕","name": "🐝腾讯〔官源〕","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "爱奇艺会员〔官源〕","name": "🐝爱奇艺〔官源〕","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
@@ -144,7 +145,6 @@
 {"key":"csp_xpath_qcys","name":"🦋奇粹影视(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://sxy099.top/cat/xp/ikuwoo.json"},
 {"key": "csp_xpath_网络搜集库112","name": "🦋工人(XPMac)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://sxy099.top/cat/xp/gongreng.json"},
 {"key":"csp_xpath_pianba","name":"🦋片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/OneClickRun/MaooXP/pianba.json"},
-{"key":"csp_xpath_naifeiorg","name":"🀄️奈飞中文(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/OneClickRun/MaooXP/naifeiorg.json"},
 {"key":"csp_xpath_libv","name":"Libvio(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/OneClickRun/MaooXP/libv.json"},
 {"key": "csp_xpath_网络搜集库heidong","name": "黑洞(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://sxy099.top/cat/xp/heidong.json"},
 {"key":"csp_xpath_hmtv","name":"花猫TV(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "http://sxy099.top/cat/xp/huamao.json"},
@@ -228,7 +228,7 @@
 {"key":"csp_appysv2_黄河影视","name":"黄河影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://i.ledu8.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_比邻影视","name":"比邻影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_OK影视","name":"OK影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"},
-{"key":"csp_appysv2_9e国语","name":"9️⃣ 9E国语","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
+
 #神马
 {"key":"csp_appysv2_小南TV","name":"小南TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://n293.ngys.xyz/mv/api.php/Chengcheng/vod/"},
 {"key":"csp_appysv2_天空TV","name":"天空TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
