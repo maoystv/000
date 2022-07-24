@@ -6,7 +6,7 @@
 {"key":"收藏","title":"我的收藏","pic":"https://api.r10086.com/img-api.php?type=风景系列2"},
 {"key":"采集","title":"采集影视","pic":"https://api.r10086.com/img-api.php?type=风景系列3"},
 {"key":"网页","title":"网页影视","pic":"https://api.r10086.com/img-api.php?type=风景系列4"},
-{"key":"APP","title":"APP影视","pic":"https://api.r10086.com/img-api.php?type=风景系列5"},
+{"key":"APP","title":"影视APP","pic":"https://api.r10086.com/img-api.php?type=风景系列5"},
 {"key":"直播","title":"电视直播","pic":"https://api.r10086.com/img-api.php?type=风景系列6"},
 {"key":"推送","title":"远程推送","pic":"https://api.r10086.com/img-api.php?type=风景系列7"},
 {"key":"待添加","title":"待添加","pic":"https://api.r10086.com/img-api.php?type=风景系列8"}
@@ -20,6 +20,8 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"}
 "zhuyejiekou": [
 {"name":"默认主页","url":"https://www.tegouys.com/xgapp.php/v2/"},
+{"name":"筑梦云影视(萝卜)","url":"http://wzys.scp00.cn/api.php/v1.vod"},
+{"name":"一站VIP影视(萝卜)","url":"https://www.dpp8.xyz/api.php/v1.vod"},
 {"name":"渔渔影视(萝卜)","url":"http://luobo.yugenye.site/api.php/v1.vod"},
 {"name":"毅世纪影视(萝卜)","url":"http://www.ysjblog.top/api.php/v1.vod"},
 {"name":"影视大全(萝卜)","url":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},
