@@ -1,5 +1,5 @@
 ﻿{
-//"spider":"https://gitea.com/cfsxy/Box/raw/branch/main/BoxJar/top92.jar",
+"drives": [{"server":"http://192.168.3.4:9080/dav","userName":"hewei","password":"2730006208","type":"webdav"}],
 "spider":"https://notabug.org/wzs888/test/raw/master/jar/%e7%bc%9d%e5%90%88.jar",
 //"spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/6.jar",
 "sites":[
