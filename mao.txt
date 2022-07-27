@@ -1,6 +1,6 @@
 {
 "spider":"https://notabug.org/wzs888/test/raw/master/jar/custom_spider.jar",
-
+"wallpaper":"https://api.r10086.com/img-api.php?type=风景系列1",
 "lives":[
 {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vY3lkMDExNi92b2QvcmF3L2JyYW5jaC9tYXN0ZXIvdHYvdHYudHh0"]}]}],
 
