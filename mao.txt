@@ -24,6 +24,7 @@
 {"key":"csp_AppYsV2_美剧范","name":"🐌美剧范","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"DYU","name":"🍀DYU","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_naifeiorg","name":"🀄️奈飞(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"},
+ {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/Bdys.json"},
 {"key":"csp_xpath_saohuotv","name":"🔥骚火(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XP/saohuotv2.json"},
 {"key":"qiumi","name":"🏀球迷","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/516-qiumi.js"},
 {"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"9c2bfd68ee764d7482ac2feb288e59ad"},
