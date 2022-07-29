@@ -1,5 +1,5 @@
 {// I'M N3RD
-"wallpaper":"https://api.r10086.com/img-api.php?type=风景系列2",
+"wallpaper":"https://api.r10086.com/img-api.php?type=风景系列8",
 "spider":"https://notabug.org/wzs888/test/raw/master/jar/n3rd0728.jar",
 "sites":[
 {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/wzs888/test/raw/master/哔哩0723.json"},
@@ -39,7 +39,7 @@
 {"key":"csp_appysv2_9e国语","name":"💪9E国语(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appys_美剧虫","name":"🐛美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key":"csp_xpath_naifeiorg","name":"🀄️奈飞(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"},
- {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/Bdys.json"},
+{"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/Bdys.json"},
 {"key":"csp_xpath_saohuotv","name":"🔥骚火(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XP/saohuotv2.json"},
 #切片资源
 {"key": "番茄资源","name": "番茄资源(切)","type": 1,"api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list","playUrl":"https://jiexi.fqplayer.com/player/jx.php?url="},//流畅
@@ -86,6 +86,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"解析GGTV","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name":"星辰解析","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
 {"name":"龙虾解析","type": 1,"url": "http://106.55.234.91:4433/?url=","ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header": {"User-Agent": "Dalvik/2.1.0"}}},
