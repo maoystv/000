@@ -1,13 +1,13 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
-{"key":"APP","title":"主页","pic":"https://www.notabug.org/yy5202/BM/raw/master/%e5%9b%be%e6%a0%87/%e4%b8%bb%e9%a1%b5.png"},
-{"key":"网页","title":"自定义","pic":"https://www.notabug.org/yy5202/BM/raw/master/%e5%9b%be%e6%a0%87/%e8%87%aa%e5%ae%9a.png"},
-{"key":"采集","title":"采集站","pic":"https://www.notabug.org/yy5202/BM/raw/master//%e5%9b%be%e6%a0%87/%e9%87%87%e9%9b%86.png"},
-{"key":"直播","title":"直播","pic":"https://www.notabug.org/yy5202/BM/raw/master/%e5%9b%be%e6%a0%87/%e7%9b%b4%e6%92%ad.png"},
-{"key":"历史","title":"历史","pic":"https://www.notabug.org/yy5202/BM/raw/master/%e5%9b%be%e6%a0%87/%e5%8e%86%e5%8f%b2.png"},
-{"key":"收藏","title":"收藏","pic":"https://www.notabug.org/yy5202/BM/raw/master/%e5%9b%be%e6%a0%87/%e6%94%b6%e8%97%8f.png"},
-{"key":"推送","title":"推送","pic":"https://www.notabug.org/yy5202/BM/raw/master/%e5%9b%be%e6%a0%87/%e6%8e%a8%e9%80%81.png"},
-{"key":"待添加","title":"待添加","pic":"https://www.notabug.org/yy5202/BM/raw/master/%e5%9b%be%e6%a0%87/%e8%bd%ae%e6%92%ad.png"}
+{"key":"APP","title":"主页","pic":"https://api.r10086.com/img-api.php?type=风景系列1"},
+{"key":"网页","title":"自定义","pic":"https://api.r10086.com/img-api.php?type=风景系列2"},
+{"key":"采集","title":"采集站","pic":"https://api.r10086.com/img-api.php?type=风景系列3"},
+{"key":"直播","title":"直播","pic":"https://api.r10086.com/img-api.php?type=风景系列4"},
+{"key":"历史","title":"历史","pic":"https://api.r10086.com/img-api.php?type=风景系列5"},
+{"key":"收藏","title":"收藏","pic":"https://api.r10086.com/img-api.php?type=风景系列6"},
+{"key":"推送","title":"推送","pic":"https://api.r10086.com/img-api.php?type=风景系列7"},
+{"key":"待添加","title":"待添加","pic":"https://api.r10086.com/img-api.php?type=风景系列8"}
 ],
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
@@ -200,6 +200,15 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+{"name":"星辰解析","url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
+{"name":"秒播解析","url":"https://www.hfyrw.com/json.php?url="},
+{"name":"龙虾解析","url":"http://106.55.234.91:4433/?url="},
+{"name":"fuqi解析","url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
+{"name":"293解析(1)","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
+{"name":"293解析(2)","url":"http://47.98.234.2:7768/api.php?url="},
+{"name":"Web解析","url": "https://chaxun.truechat365.com/?url="},
+{"name":"爱豆解析","url": "https://jx.aidouer.net/?url="},
+{"name":"冰豆解析","url": "https://bd.jx.cn/?url="}
 {"name":"解析01","url":"https://json.5lp.net/json.php?url="},
 {"name":"解析02","url":"http://api.vip123kan.vip/?url="},
 {"name":"解析03","url":"https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="},
@@ -209,11 +218,7 @@
 {"name":"解析07","url":"https://jhpc.manduhu.com/j1217.php?url="},
 {"name":"解析08","url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&urI="},
 {"name":"解析09","url":"https://json.hfyrw.com/mao.go?url="},
-{"name":"解析10","url":"https://jsap.attakids.com/?url="},
-{"name":"解析11","url":"https://app.iminna.com/jx/?url="},
-{"name":"解析12","url":"https://humaosp.com/json.php?url="},
-{"name":"解析13","url":"https://jx.mczdyw.com/xg.php?url="},
-{"name":"解析14","url":"https://aa.xkys.tv/json.php?url="},
+{"name":"解析10","url":"https://jsap.attakids.com/?url="}
 ],
 
 //备用解析是常规格式的解析
