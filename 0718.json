@@ -533,6 +533,11 @@
       "url": "Sequence"
     },
     {
+      "name":"解析GGTV",
+      "type":1,
+      "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
+    },
+    {
       "name": "Pro",
       "type": 1,
       "url": "http://124.222.68.182/jiexi/4kJX.php/?url=",
@@ -1250,5 +1255,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper":"https://picsum.photos/1280/720/?blur=10",
+  "wallpaper":"https://api.r10086.com/img-api.php?type=风景系列8",
   "spider": "https://notabug.org/wzs888/test/raw/master/jar/0718.jar"}
