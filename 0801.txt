@@ -1,6 +1,7 @@
 {
 "spider":"https://notabug.org/wzs888/test/raw/master/jar/qiaoji0730.jar;md5;e470fb16926ae5c2961358b167b155f5",
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+//"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"wallpaper":"https://api.r10086.com/img-api.php?type=风景系列8",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
 "sites":[
 {"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
