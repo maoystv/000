@@ -1,0 +1,78 @@
+{
+    "classes": 
+    [
+        {
+            "type_name": "福利",
+            "type_id": "旺仔牛奶qq糖"
+        },    
+     {
+            "type_name": "搞笑",
+            "type_id": "搞笑"
+        },
+        {
+            "type_name": "鬼畜",
+            "type_id": "鬼畜"
+        },
+        {
+            "type_name": "满级人类",
+            "type_id": "满级人类"
+        },            
+        {
+            "type_name": "安利软件",
+            "type_id": "安利软件"
+        },                 
+
+      {
+            "type_name": "tvbox",
+            "type_id": "tvbox"
+        },        
+        {
+            "type_name": "爬虫",
+            "type_id": "爬虫"
+        },            
+         {
+            "type_name": "json",
+            "type_id": "json"
+        },                     
+        {
+            "type_name": "Python",
+            "type_id": "python"
+        },     
+        {
+            "type_name": "html5",
+            "type_id": "html5"
+        }                                                 
+        ],
+
+    "filter": {
+
+             "鬼畜": [{
+            "key": "duration",
+            "name": "时长",
+            "value": [{
+                    "n": "全部",
+                    "v": "0"
+                },
+                {
+                    "n": "60分钟以上",
+                    "v": "4"
+                },
+                {
+                    "n": "30~60分钟",
+                    "v": "3"
+                },
+                {
+                    "n": "10~30分钟",
+                    "v": "2"
+                },
+                {
+                    "n": "10分钟以下",
+                    "v": "1"
+                }
+            ]
+        }
+        
+        ]
+ 
+    }
+}
