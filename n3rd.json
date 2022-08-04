@@ -1,12 +1,10 @@
 {// I'M N3RD
 
-"spider":"https://gitea.com/n3rd/BOX/raw/branch/master/n3rd0803.jar",
+"spider":"https://notabug.org/wzs888/test/raw/master/jar/n3rd0803.jar",
 
 "sites":[
 
-
-
-{"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/Bili.json"},
+{"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/wzs888/test/raw/master/Bili.json"},
 {"key":"360_spider","name":"📺360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
