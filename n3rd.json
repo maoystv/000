@@ -6,7 +6,7 @@
 
 {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/wzs888/test/raw/master/Bili.json"},
 {"key":"360_spider","name":"📺360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_QQ"    ,"name":"🐧腾讯(SP)","api":"csp_QQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://notabug.org/wzs888/test/raw/master/jar/tvb0727.jar"},
+{"key":"csp_QQ"    ,"name":"🐧腾讯(SP)","api":"csp_QQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://notabug.org/wzs888/test/raw/master/6.jar"},
 {"key":"csp_MGTV"  ,"name":"🍋芒果(SP)","api":"csp_MGTV","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://notabug.org/wzs888/test/raw/master/jar-1/%e8%85%be%e7%88%b1%e8%8a%92.jar"},
 {"key":"csp_IQIYI" ,"name":"🥝爱奇艺(SP)","api":"csp_IQIYI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://notabug.org/wzs888/test/raw/master/jar-1/%e8%85%be%e7%88%b1%e8%8a%92.jar"},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
