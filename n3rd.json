@@ -1,7 +1,7 @@
 {// I'M N3RD
 
 "spider":"https://notabug.org/wzs888/test/raw/master/jar/n3rd0804.jar",
-
+"wallpaper":"https://api.r10086.com/img-api.php?type=风景系列8",
 "sites":[
 
 {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/wzs888/test/raw/master/Bili.json"},
