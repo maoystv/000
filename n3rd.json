@@ -43,6 +43,7 @@
 {"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"FindZY","name":"😺找资源(搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"lezhu","name":"🐷乐猪(PHP)","type":1,"api":"http://pandown.pro/maoys/lezhu.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_AppYsV2","name":"🐹优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
 {"key":"csp_appysv2_9e国语","name":"💪9E国语(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appys_美剧虫","name":"🐛美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key":"csp_xpath_naifeiorg","name":"🀄️奈飞(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"},
