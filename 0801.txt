@@ -37,6 +37,16 @@
 {"key":"csp_xpath_saohuotv","name":"🔥骚火(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XP/saohuotv2.json"},
     {
       "key": "csp_biubiu",
+      "name": "酷我MV",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e9%85%b7%e6%88%91.json"
+    },
+    {
+      "key": "csp_biubiu",
       "name": "听书网",
       "type": 3,
       "api": "csp_XBiubiu",
@@ -44,7 +54,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e5%90%ac%e4%b9%a6%e7%bd%91.json"
-    },
+    },    
    {
       "key": "csp_biubiu_搜狗影院",
       "name": "搜狗影院",
