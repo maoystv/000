@@ -92,7 +92,8 @@
 "caijizhan": [
 // 填采集站接口,
 // 采集站后缀填写到api.php就可以了，后面那些不用填写，一次只可以填写一个。
-{"name":"七七","url":"http://api.kunyu77.com/api.php"},
+{"name":"鲲娱","url":"http://api.kunyu77.com/api.php"},
+{"name":"无尽","url":"https://api.wujinapi.com/api.php"},
 {"name":"苹果采集","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
 {"name":"特狗影视","url":"http://tv.tegouys.com/api.php/iptv/vod/"},
 {"name":"推荐采集","url":"http://101.34.7.151:600/api.php"},
@@ -230,15 +231,15 @@
 "guolvdizhi":
 "player.css#url=#51.la#poster#api.php#file=#cnzz.com#pap.html#baidu.com/s.gif",
 
-
 "Home": [
-{"key":"APP","title":"首页","pic":"https://pic.netbian.com/uploads/allimg/220315/120647-1647317207d3ed.jpg"},
-{"key":"网页","title":"自定","pic":"https://pic.netbian.com/uploads/allimg/220712/232420-16576394601846.jpg"},
-{"key":"采集","title":"采集","pic":"https://pic.netbian.com/uploads/allimg/220330/003346-16485716262167.jpg"},
-{"key":"直播","title":"电视","pic":"https://pic.netbian.com/uploads/allimg/190916/110446-1568603086ff1f.jpg"},
-{"key":"历史","title":"历史","pic":"https://pic.netbian.com/uploads/allimg/220315/120404-1647317044d496.jpg"},
-{"key":"收藏","title":"收藏","pic":"https://pic.3gbizhi.com/2020/0816/20200816070447569.jpg"},
-{"key":"推送","title":"推送","pic":"https://pic.netbian.com/uploads/allimg/220215/233307-164493918726da.jpg"}
+{"key":"APP","title":"影  视","pic":"https://cdn.wallpaperhub.app/cloudcache/d/8/9/2/1/a/d8921a5b9496050ecfd33f2fc3f4ea0131cbef4e.jpg"},
+{"key":"网页","title":"网  页","pic":"https://cdn.wallpaperhub.app/cloudcache/b/7/a/e/1/1/b7ae117b0b752a15cc8b4dac2cedd246ecd0c730.jpg"},
+{"key":"采集","title":"采  集","pic":"https://cdn.wallpaperhub.app/cloudcache/7/a/1/0/b/f/7a10bf99cfc25ca830cc1106d56d16476bf975df.jpg"},
+{"key":"直播","title":"直  播","pic":"https://cdn.wallpaperhub.app/cloudcache/4/6/7/b/c/0/467bc079c0be490ed7d7ae43b4412bc0e3aeecf4.jpg"},
+{"key":"历史","title":"历  史","pic":"https://cdn.wallpaperhub.app/cloudcache/0/1/8/6/d/a/0186dacced530b31cd6beadab37f91cc2ab9a74b.jpg"},
+{"key":"收藏","title":"收  藏","pic":"https://cdn.wallpaperhub.app/cloudcache/6/4/0/7/2/a/64072ac1ee32322ab029cddae5b87876e850fbde.jpg"},
+{"key":"推送","title":"推  送","pic":"https://cdn.wallpaperhub.app/cloudcache/f/7/0/0/c/3/f700c3b0f31480029cddac2dc53165d72abe6e4f.jpg"},
+{"key":"待添加","title":"待 添 加","pic":"https://cdn.wallpaperhub.app/cloudcache/5/8/c/0/1/e/58c01e128d58118bec4aace2ef15566214773cf4.jpg"}
 ],
 // 自定义接口
 "zidingyi":[
