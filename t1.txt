@@ -2,7 +2,7 @@
 
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd2xjbWMxOTcyL3Rlc3QvcmF3L2JyYW5jaC9tYWluL3R2L1RWMDItbGl2ZS50eHQ="]}]}],
-"spider":"https://notabug.org/wzs888/test/raw/master/jar/ggtv0804.jar;md5;BCB446AB2B4B1A9BDC28F23DC2508560",
+"spider":"https://notabug.org/wzs888/test/raw/master/jar-1/00test.jar;md5;5D4EE61D7F03CA12EEC4C2A3683EB6D4",
 
 
 
@@ -76,7 +76,7 @@
 
 
 
-{"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://notabug.org/wzs888/test/raw/master/jar/juhuang.jar;md5;076E2157530714A37606E1599C01A19A"},
 
 
 
