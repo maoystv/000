@@ -81,7 +81,7 @@
 {"key":"csp_appysv2_9e国语","name":"💪9E国语(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appys_美剧虫","name":"🐛美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key":"csp_xpath_naifeiorg","name":"🀄️奈飞(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"},
-{"key":"csp_xpath_bdcl","name":"🥈哔滴(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/Bdys.json"},
+{"key":"csp_xpath_bdcl","name":"🥈哔滴(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/wzs888/test/raw/master/XP/哔嘀磁力.json"},
 {"key":"csp_xpath_saohuotv","name":"🔥骚火(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XP/saohuotv2.json"},
 {
  "key": "csp_biubiu_搜狗影院",
