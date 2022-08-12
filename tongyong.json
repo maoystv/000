@@ -1,9 +1,9 @@
 {
   "sites": [
 {"key":"csp_77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_QQ"    ,"name":"腾讯视频(SP)","api":"csp_QQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://notabug.org/wzs888/test/raw/master/jar/ggtv0804.jar;md5;BCB446AB2B4B1A9BDC28F23DC2508560"},
-{"key":"csp_MGTV"  ,"name":"芒果TV(SP)","api":"csp_MGTV","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://notabug.org/wzs888/test/raw/master/jar/ggtv0804.jar;md5;BCB446AB2B4B1A9BDC28F23DC2508560"},
-{"key":"csp_IQIYI" ,"name":"爱奇艺(SP)","api":"csp_IQIYI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://notabug.org/wzs888/test/raw/master/jar/ggtv0804.jar;md5;BCB446AB2B4B1A9BDC28F23DC2508560"},
+{"key":"csp_QQ"    ,"name":"腾讯视频(SP)","api":"csp_QQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"spider":"https://notabug.org/wzs888/test/raw/master/jar/ggtv0804.jar;md5;BCB446AB2B4B1A9BDC28F23DC2508560"},
+{"key":"csp_MGTV"  ,"name":"芒果TV(SP)","api":"csp_MGTV","type":3,"filterable":1,"quickSearch":1,"searchable":1,"spider":"https://notabug.org/wzs888/test/raw/master/jar/ggtv0804.jar;md5;BCB446AB2B4B1A9BDC28F23DC2508560"},
+{"key":"csp_IQIYI" ,"name":"爱奇艺(SP)","api":"csp_IQIYI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"spider":"https://notabug.org/wzs888/test/raw/master/jar/ggtv0804.jar;md5;BCB446AB2B4B1A9BDC28F23DC2508560"},
 {"key":"360_spider","name":"360影视(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Buka","name":"真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"低端影视(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
