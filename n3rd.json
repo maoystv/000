@@ -4,7 +4,36 @@
 "wallpaper":"https://api.r10086.com/img-api.php?type=风景系列8",
 "sites":[
 {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://notabug.org/wzs888/test/raw/master/xbili.json"},
-{"key":"mtv_pc_演唱专区","name":"🔅️演唱专区","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/wzs888/test/raw/master/jar/资源包2.jar;md5;8A21559775BA9AA84480C3E68956089C"},
+    {
+      "key": "csp_Bliyc",
+      "name": "演唱会(SP)",
+      "type": 3,
+      "api": "csp_Bliyc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde"
+    },
+    {
+      "key": "csp_Blixs",
+      "name": "曲苑杂坛(SP)",
+      "type": 3,
+      "api": "csp_Blixs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde"
+    },
+    {
+      "key": "csp_Blims",
+      "name": "美食(SP)",
+      "type": 3,
+      "api": "csp_Blims",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde"
+    }, 
 {"key":"360_spider","name":"📺360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_QQ"    ,"name":"🐧腾讯(SP)","api":"csp_QQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://notabug.org/wzs888/test/raw/master/jar/ggtv0804.jar;md5;BCB446AB2B4B1A9BDC28F23DC2508560"},
 {"key":"csp_MGTV"  ,"name":"🍋芒果(SP)","api":"csp_MGTV","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://notabug.org/wzs888/test/raw/master/jar/ggtv0804.jar;md5;BCB446AB2B4B1A9BDC28F23DC2508560"},
