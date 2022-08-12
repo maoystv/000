@@ -153,16 +153,36 @@
  "filterable": 1,
  "ext": "https://notabug.org/wzs888/test/raw/master/XB/%e5%a4%a7%e5%9c%b0.json"
 },
-{
- "key": "csp_biubiu_酷我MV",
- "name": "酷我(Biu)",
- "type": 3,
- "api": "csp_XBiubiu",
- "searchable": 1,
- "quickSearch": 1,
- "filterable": 1,
- "ext": "https://notabug.org/wzs888/test/raw/master/XB/酷我.json"
-},
+    {
+      "key":"csp_biubiu_夜空蓝光",
+      "name":"夜空蓝光(Biu)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XB/夜空蓝光.json"
+    }
+    {
+      "key":"csp_xpath_蚂蚁影视",
+      "name":"蚂蚁影视(XP)",
+      "type":3,
+      "api":"csp_XPathFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XP/蚂蚁影视.json"
+    },
+    {
+      "key":"茶杯狐",
+      "name":"茶杯狐(Biu)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XB/茶杯狐.json"
+    },    
 {
  "key": "csp_biubiu_听书网",
  "name": "听书(Biu)",
