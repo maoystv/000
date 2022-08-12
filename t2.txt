@@ -2,7 +2,7 @@
 
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd2xjbWMxOTcyL3Rlc3QvcmF3L2JyYW5jaC9tYWluL3R2L1RWMDItbGl2ZS50eHQ="]}]}],
-"spider":"https://gitea.com/wlcmc1972/test/raw/branch/main/jar/0809.jar",
+"spider":"https://notabug.org/wzs888/test/raw/master/jar/0809.jar;md5;3D7299943C04FC5BAEBFDC8632762EDD",
 
 
 
@@ -30,7 +30,7 @@
     {      "key": "push_agent","name": "🍳推送(SP)","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 
-    {      "key":"csp_BBB","name":"🅱️哔哩套餐(SP)","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
+    {      "key":"csp_BBB","name":"🅱️哔哩套餐(SP)","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
     {      "key": "csp_SP360","name": "🎱360影视(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
     {      "key": "csp_Wmkk","name": "👓完美看看(SP)","type": 3,"api": "csp_Wmkk","searchable": 1,"quickSearch": 1,"filterable": 1},
     {      "key": "zxzj","name": "👪︎在线之家(SP)","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
