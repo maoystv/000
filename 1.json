@@ -11,6 +11,16 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/xbili.json"
     },
     {
+      "key": "棋牌",
+      "name": "棋牌",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/%e6%88%91%e7%88%b1%e6%a3%8b.txt"
+    },    
+    {
       "key": "csp_Kuaikan",
       "name": "快看影视(SP)",
       "type": 3,
