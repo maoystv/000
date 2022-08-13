@@ -80,7 +80,8 @@
       "api": "csp_Kmys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
     },
     {
       "key": "csp_DY1990",
@@ -89,7 +90,8 @@
       "api": "csp_DY1990",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
     },
     {
       "key": "csp_Zxzj",
@@ -143,7 +145,8 @@
       "api": "csp_Tkys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
     },
     {
       "key": "csp_Mjxq",
@@ -152,7 +155,8 @@
       "api": "csp_Mjxq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
     },
     {
       "key": "剧荒TV",
@@ -161,7 +165,8 @@
       "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
     },
     {
       "key": "csp_Qicui",
@@ -170,7 +175,8 @@
       "api": "csp_Qicui",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
     },
     {
       "key": "csp_Smdyy",
@@ -328,7 +334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "spider":"https://notabug.org/wzs888/test/raw/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde"
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/Blizy.jar;md5;404b279a9b5accd5abcdf0764f574fde"
     },
     {
       "key": "csp_Blims",
