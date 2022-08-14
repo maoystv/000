@@ -258,6 +258,15 @@
       "filterable": 1
     },
     {
+      "key": "奈落影院",
+      "name": "奈落影院(SP)",
+      "type": 3,
+      "api": "csp_Newfii",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
       "key": "csp_Bttoo",
       "name": "兩個BT(SP)",
       "type": 3,
