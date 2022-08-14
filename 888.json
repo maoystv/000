@@ -82,7 +82,8 @@
       "api": "csp_Kmys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
     },
     {
       "key": "csp_Lgyy",
