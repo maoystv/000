@@ -299,7 +299,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/xbili.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/Bili.json"
     },
     {
       "key": "棋牌",
@@ -318,7 +318,8 @@
       "api": "csp_Bliyc",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/哔哩资源.jar;md5;404b279a9b5accd5abcdf0764f574fde"
     },
     {
       "key": "csp_Blixs",
@@ -328,6 +329,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/哔哩资源.jar;md5;404b279a9b5accd5abcdf0764f574fde",
       "ext":""
     },
     {
@@ -338,6 +340,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/哔哩资源.jar;md5;404b279a9b5accd5abcdf0764f574fde",
       "ext":""
     },    
     {
