@@ -261,16 +261,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "奈落影院",
-      "name": "奈落影院(SP)",
-      "type": 3,
-      "api": "csp_Newfii",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
     },    
     {
       "key": "csp_Bttoo",
