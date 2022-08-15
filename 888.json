@@ -147,8 +147,7 @@
       "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
+      "filterable": 1      
     },
     {
       "key": "csp_Qicui",
@@ -171,14 +170,14 @@
       "ext": ""
     },
     {
-      "key": "csp_Ikan",
+      "key": "csp_Ekan",
       "name": "影视大全(SP)",
       "type": 3,
-      "api": "csp_IKan",
+      "api": "csp_Ekan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/XC0815.jar;md5;072672E7AAEC69A6467B26BA004BCE75"
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/n3rd0808.jar;md5;16E8AD07CAB6B51DAFD39D1952F7F3B9"
     },
     {
       "key": "csp_Wmkk",
@@ -215,7 +214,8 @@
       "api": "csp_DiDuan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/XC0815.jar;md5;072672E7AAEC69A6467B26BA004BCE75"      
     },
     {
       "key": "厂长影视",
@@ -288,8 +288,7 @@
       "api": "csp_EEEDY",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/XC0815.jar;md5;072672E7AAEC69A6467B26BA004BCE75"      
+      "filterable": 1      
     },
     {
       "key": "Bili",
@@ -313,13 +312,13 @@
     },
     {
       "key": "csp_Bliyc",
-      "name": "歌曲MTV(SP)",
+      "name": "歌曲MV(SP)",
       "type": 3,
-      "api": "csp_Bliyc",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/哔哩资源.jar;md5;404b279a9b5accd5abcdf0764f574fde"
+      "ext":"https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e6%ad%8c%e6%9b%b2MV.json"
     },
     {
       "key": "csp_Blixs",
@@ -336,12 +335,11 @@
       "key": "csp_Blims",
       "name": "美食荟萃(SP)",
       "type": 3,
-      "api": "csp_Blims",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/哔哩资源.jar;md5;404b279a9b5accd5abcdf0764f574fde",
-      "ext":""
+      "ext":"https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e7%be%8e%e9%a3%9f.txt"
     },    
     {
       "key": "csp_GitCafe",
@@ -374,6 +372,16 @@
       "ext":"https://notabug.org/wzs888/test/raw/master/XP/蚂蚁影视.json"
     },
     {
+      "key":"csp_biubiu_2345影视",
+      "name":"2345影视(Biu)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XB/2345影视.json"
+    },    
+    {
       "key":"csp_biubiu_夜空蓝光",
       "name":"夜空蓝光(Biu)",
       "type":3,
@@ -393,6 +401,16 @@
       "filterable":1,
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/江湖.json"
     },
+    {
+      "key":"csp_biubiu_3零相声",
+      "name":"三零相声(Biu)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XB/3零相声.json"
+    },    
     {
       "key":"AB影院",
       "name":"AB影院(Biu)",
