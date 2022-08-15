@@ -97,7 +97,7 @@
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 1,
-          "spider":"tongyong0704.jar"
+          "spider":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
         },
         { 
           "key": "csp_Auete",
@@ -152,7 +152,7 @@
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 1,
-          "spider":"tongyong0704.jar"
+          "spider":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
         },
         {
           "key": "csp_Qicui",
@@ -162,100 +162,100 @@
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 1,
-          "spider":"tongyong0704.jar"
-    },
-    {
-         "key": "csp_Smdyy",
-         "name": "神马影院(SP)",
-      "type": 3,
-      "api": "csp_Smdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "csp_Ekan",
-      "name": "影视大全(SP)",
-      "type": 3,
-      "api": "csp_Ekan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider":"tongyong0704.jar"
-    },
-    {
-      "key": "csp_Wmkk",
-      "name": "完美看看(SP)",
-      "type": 3,
-      "api": "csp_Wmkk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "293视频",
-      "name": "293视频(SP)",
-      "type": 3,
-      "api": "csp_SP293",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_hbys",
-      "name": "简影影院(SP)",
-      "type": 3,
-      "api": "csp_JianYing",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
-    },
-    {
-      "key": "低端影视",
-      "name": "低端影视(SP)",
-      "type": 3,
-      "api": "csp_DiDuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "厂长影视",
-      "name": "廠長資源(SP)",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Zxzj",
-      "name": "在線之家(SP)",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "KanSJ_spider",
-      "name": "看视界(SP)",
-      "type": 3,
-      "api": "csp_KanSJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Lezhu",
-      "name": "乐猪影视(SP)",
-      "type": 3,
-      "api": "csp_Lezhu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+          "spider":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
+        },
+        {
+          "key": "csp_Smdyy",
+          "name": "神马影院(SP)",
+          "type": 3,
+          "api": "csp_Smdyy",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": ""
+        },
+        {
+          "key": "csp_Ekan",
+          "name": "影视大全(SP)",
+          "type": 3,
+          "api": "csp_Ekan",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "spider":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
+        },
+        {
+          "key": "csp_Wmkk",
+          "name": "完美看看(SP)",
+          "type": 3,
+          "api": "csp_Wmkk",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        },
+        {
+          "key": "293视频",
+          "name": "293视频(SP)",
+          "type": 3,
+          "api": "csp_SP293",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        },
+        {
+          "key": "csp_hbys",
+          "name": "简影影院(SP)",
+          "type": 3,
+          "api": "csp_JianYing",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
+        },
+        {
+          "key": "低端影视",
+          "name": "低端影视(SP)",
+          "type": 3,
+          "api": "csp_DiDuan",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        },
+        {
+          "key": "厂长影视",
+          "name": "廠長資源(SP)",
+          "type": 3,
+          "api": "csp_Czsapp",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        },
+        {
+          "key": "csp_Zxzj",
+          "name": "在線之家(SP)",
+          "type": 3,
+          "api": "csp_Zxzj",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        },
+        {
+          "key": "KanSJ_spider",
+          "name": "看视界(SP)",
+          "type": 3,
+          "api": "csp_KanSJ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        },
+        {
+          "key": "csp_Lezhu",
+          "name": "乐猪影视(SP)",
+          "type": 3,
+          "api": "csp_Lezhu",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
     },
     {
       "key": "csp_Xxys",
@@ -283,7 +283,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "spider":"tongyong0704.jar"
+      "spider":"https://notabug.org/wzs888/test/raw/master/jar-1/tongyong0704.jar;md5;79E3D71AD4EA16E33D6445387D3991A2"
     },
     {
       "key": "3EDY",
@@ -316,13 +316,13 @@
     },
     {
       "key": "csp_Bliyc",
-      "name": "歌曲MTV(SP)",
+      "name": "歌曲MV(SP)",
       "type": 3,
-      "api": "csp_Bliyc",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "spider":"哔哩资源.jar"
+      "ext":"https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e6%ad%8c%e6%9b%b2MV.json"
     },
     {
       "key": "csp_Blixs",
@@ -332,21 +332,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "spider":"哔哩资源.jar"
+      "spider":"https://notabug.org/wzs888/test/raw/master/jar/哔哩资源.jar;md5;404b279a9b5accd5abcdf0764f574fde"
     },
     {
       "key": "csp_Blims",
       "name": "美食荟萃(SP)",
       "type": 3,
-      "api": "csp_Blims",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "spider":"哔哩资源.jar"
+      "ext":"https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e7%be%8e%e9%a3%9f.txt"
     },    
     {
       "key": "csp_GitCafe",
-      "name": "纸条📃",
+      "name": "小纸条📃",
       "type": 3,
       "api": "csp_GitCafe",
       "searchable": 1,
@@ -2482,6 +2482,7 @@
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name":"新江湖  ","type":1,"url":"http://150.230.216.174/tvjx.php?url=","ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
     {"name":"江湖云  ","type":1,"url":"http://103.40.240.46/jh/?url="},
+    {"name":"爱豆解析","type":1,"url":"http://id190.tpddns.cn:81/jsonch/?url="},            
     {"name":"诺讯解析","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
     {"name":"盘古解析","type":1,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"]}},
     {"name":"aiku","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
