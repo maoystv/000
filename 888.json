@@ -171,14 +171,14 @@
       "ext": ""
     },
     {
-      "key": "csp_Ekan",
+      "key": "csp_Ikan",
       "name": "影视大全(SP)",
       "type": 3,
-      "api": "csp_Ekan",
+      "api": "csp_IKan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/XC0812.jar;md5;57D0005E92101DA000CFBE977D7D8412"
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/XC0815.jar;md5;072672E7AAEC69A6467B26BA004BCE75"
     },
     {
       "key": "csp_Wmkk",
@@ -279,7 +279,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/XC0812.jar;md5;57D0005E92101DA000CFBE977D7D8412"
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/XC0815.jar;md5;072672E7AAEC69A6467B26BA004BCE75"
     },
     {
       "key": "3EDY",
@@ -289,7 +289,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/XC0812.jar;md5;57D0005E92101DA000CFBE977D7D8412"      
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/XC0815.jar;md5;072672E7AAEC69A6467B26BA004BCE75"      
     },
     {
       "key": "Bili",
@@ -2482,6 +2482,7 @@
     {"name": "aiku","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
     {"name":"新江湖  ","type":1,"url":"http://150.230.216.174/tvjx.php?url=","ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
     {"name":"江湖云  ","type":1,"url":"http://103.40.240.46/jh/?url="},
+    {"name":"爱豆解析","type":1,"url":"http://id190.tpddns.cn:81/jsonch/?url="},    
     {"name":"诺讯解析","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
     {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
     {"name":"盘古解析","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"]}},
