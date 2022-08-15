@@ -1,8 +1,8 @@
 ﻿{
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd2xjbWMxOTcyL3Rlc3QvcmF3L2JyYW5jaC9tYWluL3R2L1RWMDItbGl2ZS50eHQ="]}]}],
-//"spider":"https://gitea.com/wlcmc1972/test/raw/branch/main/jar/00test.jar",
-"spider":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;f390d4835a1076e3651d08a2fd0e31ac",
+
+"spider":"https://notabug.org/wzs888/test/raw/master/jar/index.txt;md5;f390d4835a1076e3651d08a2fd0e31ac",
 
 
 
