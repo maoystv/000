@@ -299,7 +299,7 @@
             "ext": "https://raw.iqiq.io/tvba/x/main/jp"
         },
         {
-            "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0",
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/360.json",
             "filterable": 1,
             "quickSearch": 1,
             "name": "360影院(官源)",
@@ -309,7 +309,7 @@
             "searchable": 1
         },
         {
-            "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078626/0",
+            "ext": "https://notabug.org/wzs888/test/raw/master/XP/2345.json",
             "filterable": 1,
             "quickSearch": 1,
             "name": "2345影院(官源)",
