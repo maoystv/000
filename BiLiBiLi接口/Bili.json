@@ -1,18 +1,6 @@
 {
   "classes": [
     {
-      "type_name": "歌曲MV",
-      "type_id": "歌曲MV"
-    },
-    {
-      "type_name": "影视MV",
-      "type_id": "影视MV"
-    },
-    {
-      "type_name": "抖音",
-      "type_id": "抖音"
-    },
-    {
       "type_name": "搞笑",
       "type_id": "搞笑"
     },
