@@ -41,7 +41,7 @@
 {"key": "酷猫","name": "🐈酷猫〔SP〕","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Nfyun","name":"☁奈菲云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_xp_juhuang","name":"💢剧荒TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XP/juhuang.json"},
 {"key":"ai","name":"🐨爱(解析)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴",,"科技","健康"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
 {"key":"teng","name":"🐧腾(解析)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["少儿","电视剧","电影","动漫","纪录片","知识","学堂","综艺"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
 {"key":"360_spider","name":"📺360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
