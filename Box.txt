@@ -2,7 +2,7 @@
 /*-----------------------壁纸切换接口
 ---------------------*/
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"pwd":"0a113ef6b61820daa5611c870ed8d5ee",
+"pwd":"0a113ef6b61820daa5611c870ed8d5ee",//md5加密
 /*-----------------------JAR包接口-----------------------*/
 "spider":"https://notabug.org/wzs888/test/raw/master/jar/custom_spider.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
 "jars":{"XYQBiu":"https://notabug.org/wzs888/test/raw/master/jar/XYQBiu.jar",
@@ -155,7 +155,6 @@
       "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
       "searchable": 1,
       "quickSearch": 1,
-      "pwd":"0a113ef6b61820daa5611c870ed8d5ee",
       "filterable": 0
     },
     {
@@ -164,7 +163,6 @@
       "type":1,
       "api":"https://hghhh.com/api.php/provide/vod/",
       "searchable":0,
-      "pwd":"0a113ef6b61820daa5611c870ed8d5ee",
       "quickSearch":0
     },
     { 
@@ -173,7 +171,6 @@
       "type":0,
       "api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
       "searchable":0,
-      "pwd":"0a113ef6b61820daa5611c870ed8d5ee",
       "quickSearch":0
     },
 
