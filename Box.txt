@@ -4,7 +4,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "pwd":"0a113ef6b61820daa5611c870ed8d5ee",//md5加密
 /*-----------------------JAR包接口-----------------------*/
-/*"spider": "https://agit.ai/wzs1973/test/raw/branch/master/jar/GG原画.jar;md5;C9D2CCBB18F0A057C1C0DDF6FD149837",    "spider":"https://notabug.org/wzs888/test/raw/master/jar/custom_spider.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
+    "spider":"https://notabug.org/wzs888/test/raw/master/jar/custom_spider.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
 "jars  ":{"XYQBiu":"https://notabug.org/wzs888/test/raw/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",
         "name":"jar2地址",
         "name":"jar3地址"
