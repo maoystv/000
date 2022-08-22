@@ -55,7 +55,7 @@
 {"key":"mang","name":"🍋芒果(解析)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"OriginPush"},
 //{"key": "csp_xpath_cls","name": "🍭磁力搜索(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/wzs888/test/raw/master/XP/cls.json"},
-{"key": "csp_Yisou","name":"💗🐯🈶易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"28801b1dbaf4418fb7bc221a575703dd","jar":"OriginPush"},
+{"key": "csp_AliPS","name":"📚盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"28801b1dbaf4418fb7bc221a575703dd","jar":"OriginPush"},
 {"key":"Yisou","name":"😺易搜+原画(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"Zhaozy","name":"😺找资源+原画(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key": "csp_XYQBiu_好恐怖磁力","name":"好恐怖(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/好恐怖磁力.json","jar":"XYQBiu"},
