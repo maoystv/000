@@ -58,7 +58,7 @@
 {"key": "csp_AliPS","name":"📚盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"28801b1dbaf4418fb7bc221a575703dd","jar":"OriginPush"},
 {"key":"Yisou","name":"😺易搜+原画(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"Zhaozy","name":"😺找资源+原画(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key": "csp_XYQBiu_好恐怖磁力","name":"好恐怖(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/好恐怖磁力.json","jar":"XYQBiu"},
+//
 {"key": "csp_XYQBiu_电影港磁力","name":"电影港(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/电影港磁力.json","jar":"XYQBiu"},
 {"key": "csp_XYQBiu_影视工厂","name":"影视工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/影视工厂.json","jar":"XYQBiu"},
 {"key": "csp_XYQBiu_555影视","name":"555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/555影视.json","jar":"XYQBiu"},
@@ -71,7 +71,7 @@
 {"key":"csp_xpath_dyn","name":"🤗电影牛(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1, "ext": "https://notabug.org/wzs888/test/raw/master/XP/dyn.json"},
 {"key":"csp_xpath_Grab4K","name":"🤗Grab4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0, "ext": "https://notabug.org/wzs888/test/raw/master/XP/Grab4K.json"},
 {"key": "bdys","name": "📺哔嘀影视","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ygyzy.github.io/api/XPbd/Bdys.json","jar": "https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"},
-{"key":"csp_biubiu_tingshuxb","name":"🎧听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XB/听书网.json"},
+
 {"key": "csp_xpath_音范丝磁力","name": "🐛音范丝(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/wzs888/test/raw/master/XP/yinfans.json"},
 {"key":"csp_xpath_wmkk","name":"👓完美看看〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XP/wanmeikk.json"},
 {"key":"csp_biubiu_2345影视", "name":"🐞2345影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/wzs888/test/raw/master/XB/2345影视.json"},
@@ -93,7 +93,6 @@
 {"key":"小七影视","name":" ⛄小七影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
 {"key":"星辰TV","name":" 💈星辰TV","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod"},
 {"key":"悟空影院","name":" 🐒悟空影院","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
-{"key":"天诚影视","name":" 👨‍🚀天诚影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://yingshidaquan.live/api.php/v1.vod"},
 {"key":"莎士比亚","name":" 🎒莎士比亚","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ys.xk4k.cn/ssby_api.php/v1.vod"},
 {"key":"csp_appysv2_M2_暖光影视","name":"✨暖光影视","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"独优影视","name":"🦄独优影视","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"}, 
