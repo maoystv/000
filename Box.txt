@@ -8,7 +8,7 @@
 "jars":{
              "XYQBiu":"https://notabug.org/wzs888/test/raw/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",
         
-        "OriginPush":"https://notabug.org/wzs888/test/raw/master/jar/OriginPush.jar;md5; 6EBE9E6BDCED846CCA3421CDD09D58D3"
+"OriginPush":"https://notabug.org/wzs888/test/raw/master/jar/OriginPush.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3" 
         },
 /*-----------------------直播-----------------------*/
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2JveC90di9saXZlLnR4dA=="]}]}],
