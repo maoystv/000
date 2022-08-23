@@ -1190,10 +1190,40 @@
       "url": "Sequence"
     },
     {
-      "name": "GGTV快速",
+      "name": "GGTV",
       "type": 1,
       "url": "https://play.fuqizhishi.com/gang0818/API.php?appkey=QQ172598364&url="
     },
+    {
+      "name": "AIKU",
+      "type": 1,
+      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
+    },
+    {
+      "name": "KEYU",
+      "type": 1,
+      "url": "http://newjiexi.gotka.top/keyu3.php?url="
+    },
+    {
+      "name": "瓜皮",
+      "type": 1,
+      "url": "https://json.lihaoyun.top/dd/rxvr.php?url="
+    },
+    {
+      "name": "爱豆",
+      "type": 1,
+      "url": "http://id190.tpddns.cn:81/jsonch/?url="
+    },
+    {
+      "name": "油果",
+      "type": 1,
+      "url": "http://json.youguo520.top/fufeng/?url="
+    },
+    {
+      "name": "江湖",
+      "type": 1,
+      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+    },    
     {
       "name": "m3u8tv高清",
       "type": 0,
