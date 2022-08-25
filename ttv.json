@@ -19,15 +19,6 @@
   ],
   "sites": [
     {
-      "key": "",
-      "name": "点击首页切换数据源, 定期维护更新",
-      "type": 3,
-      "api": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_77",
       "name": "🌤酷云七七",
       "type": 3,
@@ -111,7 +102,7 @@
     },
     {
       "key": "csp_dd5555",
-      "name": "🍅555 影视",
+      "name": "🍅555影视",
       "api": "csp_Dy555",
       "type": 3,
       "filterable": 1,
@@ -120,7 +111,7 @@
     },
     {
       "key": "293视频",
-      "name": "🥕293 视频",
+      "name": "🥕293视频",
       "type": 3,
       "api": "csp_SP293",
       "searchable": 1,
@@ -202,7 +193,7 @@
     },
     {
       "key": "csp_Jianying",
-      "name": "🌟简影",
+      "name": "🌟简影影视",
       "api": "csp_JianYing",
       "type": 3,
       "searchable": 1,
@@ -213,7 +204,7 @@
     },
     {
       "key": "csp_剧荒",
-      "name": "👿剧荒",
+      "name": "👿剧荒影院",
       "type": 3,
       "api": "csp_Juhuang",
       "searchable": 1,
@@ -222,7 +213,7 @@
     },
     {
       "key": "spider_IKan",
-      "name": "❤️爱看",
+      "name": "❤️爱看影视",
       "type": 3,
       "api": "csp_IKan",
       "searchable": 1,
@@ -241,7 +232,7 @@
     },
     {
       "key": "快看",
-      "name": "👀快看",
+      "name": "👀快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -557,14 +548,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/厂长蓝光.json"
     },
     {
-      "key": "csp_biubiu_555电影",
-      "name": "🍅555 电影",
+      "key": "csp_biubiu_VF影院",
+      "name": "☃️AB影院",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%8E%82%E9%95%BF%E8%93%9D%E5%85%89.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/AB影院.json"
     },
     {
       "key": "csp_xp_jLgyy",
@@ -667,24 +658,24 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/夜空蓝光.json"
     },
     {
-      "key": "csp_biubiu_风车动漫",
-      "name": "🪁风车动漫",
+      "key": "csp_xpath_音范丝磁力",
+      "name": "🐛音范丝",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/yinfans.json"
     },
     {
-      "key": "csp_biubiu_森屋新番",
-      "name": "🎍森屋新番",
+      "key": "csp_xpath_蚂蚁影视",
+      "name": "🐜蚂蚁影视",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/蚂蚁影视.json"
     },
     {
       "key": "csp_XYQBiu_影视工厂",
@@ -758,15 +749,7 @@
       "filterable": 1,
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
     },
-    {
-      "key": "快车资源",
-      "name": "快车资源",
-      "type": 1,
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },    
+   
 {"key":"csp_AppYsV2_美剧范","name":"🦙美剧范","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"哆啦咪影视","name":" 🎊哆啦咪影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"},
 {"key":"QC影视","name":" 🤠QC影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
@@ -929,12 +912,13 @@
 {"key":"网民电影","name":" 🎏网民电影(聚)","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MBO影视","name":" 🎏MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 {"key":"兔子窝","name":" 🎏兔子窝(聚)","type":1,"api":"http://cj.huimaojia.com:12345/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"哇可可影视","name":" 🎏哇可可影视(聚)","type":1,"api":"https://www.zwcoco.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"哇可可影视","name":"🎏哇可可(聚)","type":1,"api":"https://www.zwcoco.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"共青春","name":" 🎏共青春(聚)","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"酷猫影视","name":" 🎏酷猫影视(聚)","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"胖猫影视","name":" 🎏胖猫影视(聚)","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"嘛哩嘛哩","name":" 🎏嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"海外电影","name":" 🎏海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"酷猫影视","name":"🎏酷猫影视(聚)","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"胖猫影视","name":"🎏胖猫影视(聚)","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"嘛哩嘛哩","name":"🎏嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"海外电影","name":"🎏海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"快车资源","name":"🐝快车资源(切)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪资源","name":"🐝新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"🐝红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"百度资源","name":"🐝百度资源(切)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
