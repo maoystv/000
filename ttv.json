@@ -578,7 +578,7 @@
     },
     {
       "key": "csp_xpath_dianyingn",
-      "name": "🐂电影牛XP",
+      "name": "🐂电影牛",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -588,7 +588,7 @@
     },
     {
       "key": "csp_biubiu_2345影视",
-      "name": "2345影视",
+      "name": "🕸2345影视",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -608,7 +608,7 @@
     },
     {
       "key": "csp_biubiu_真不卡cerrd",
-      "name": " 🏅不卡影院",
+      "name": " 🕷不卡影院",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -687,16 +687,6 @@
       "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json"
     },
     {
-      "key": "csp_QXBiubiu_蚂蚁4K",
-      "name": "蚂蚁4K",
-      "type": 3,
-      "api": "csp_QXBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/DxiKEQul_蚂蚁4K.json"
-    },
-    {
       "key": "csp_XYQBiu_影视工厂",
       "name": "📺影视工厂(XYQ)",
       "type": 3,
@@ -709,7 +699,7 @@
     },
     {
       "key": "csp_XYQBiu_剧荒",
-      "name": "💿剧荒影院(XYQ)",
+      "name": "📽剧荒影院(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -750,7 +740,7 @@
     },
     {
       "key": "csp_appys_美剧虫",
-      "name": "🐞美剧虫",
+      "name": "🦗美剧虫",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
