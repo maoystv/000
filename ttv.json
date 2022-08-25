@@ -688,18 +688,18 @@
       "jar":"XYQBiu"
     },
     {
-      "key": "csp_xpath_yanetflix",
-      "name": "🦆奈非鸭",
+      "key": "csp_xpath_so2",
+      "name": "🦆淘剧鸭",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/奈非鸭.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/淘剧鸭.json"
     },
     {
       "key": "csp_biubiu_voflix",
-      "name": "🌀voflix HD",
+      "name": "🌀voflix",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
