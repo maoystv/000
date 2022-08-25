@@ -258,24 +258,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Nbys",
-      "name": "⛰泥巴(墙外)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "If101",
-      "name": "🗾If101(墙外)",
-      "type": 3,
-      "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "学堂",
       "name": "📚学习园地",
       "type": 3,
@@ -571,7 +553,7 @@
       "key": "csp_xpath_dianyingn",
       "name": "🐂电影牛",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -658,14 +640,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/夜空蓝光.json"
     },
     {
-      "key": "csp_xpath_音范丝磁力",
-      "name": "🐛音范丝",
+      "key": "csp_XBiubiu哔滴",
+      "name": "🎥哔滴影视",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/yinfans.json"
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/哔滴.json"
     },
     {
       "key": "csp_xpath_蚂蚁影视",
