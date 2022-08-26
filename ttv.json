@@ -1,8 +1,8 @@
 {
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/custom_spider.jar;md5;834FF6AF57D036546C75F64AADCDB5FF",
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/ZYB.jar;md5;BD05DF7AFF8664BCDB7097B7D04A7FA9",
   "jars":{"XYQBiu":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",
              "cili":"https://notabug.org/wzs888/test/raw/master/jar/cili.jar;md5;226DB2FC833312B73B0BF57C7DD41484",
-             "B站.jar":"https://notabug.org/wzs888/test/raw/master/jar/B站.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+             "B站":"https://notabug.org/wzs888/test/raw/master/jar/B站.jar;md5;C5C337BB2793598E9AA5953898FBB087"
             },
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
@@ -266,7 +266,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/xuexi.txt"      
+      "ext":"https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/xuexi.txt",
+      "jar": "B站"
     },
     {
       "key": "csp_BBB",
@@ -276,7 +277,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%E6%8E%A5%E5%8F%A3/哔哩.json"     
+      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%E6%8E%A5%E5%8F%A3/哔哩.json",
+      "jar": "B站"
     },
     {
       "key": "演唱会",
@@ -286,7 +288,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e6%ad%8c%e6%9b%b2MV.json"      
+      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e6%ad%8c%e6%9b%b2MV.json",
+      "jar": "B站"
     },
     {
       "key": "美食",
@@ -296,7 +299,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e7%be%8e%e9%a3%9f.txt"      
+      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e7%be%8e%e9%a3%9f.txt",
+      "jar": "B站"
     },
     {
       "key": "棋牌",
@@ -306,7 +310,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e6%a3%8b%e7%89%8c%e5%a4%a9%e5%9c%b0.txt"      
+      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e6%a3%8b%e7%89%8c%e5%a4%a9%e5%9c%b0.txt",
+      "jar": "B站"
     },
     {
       "key": "csp_xpath_yinfans",
@@ -326,7 +331,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/哔滴磁力.json"      
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/哔滴磁力.json",
+      "jar": "cili"
     },
     {
       "key": "AliPS",
@@ -647,7 +653,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/影视工厂.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/影视工厂.json",
+      "jar": "XYQBiu"
     },
     {
       "key": "csp_XYQBiu_剧荒",
@@ -657,7 +664,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json",
+      "jar": "XYQBiu"
     },
     {
       "key": "csp_XYQBiu_歪片星球",
@@ -667,7 +675,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/歪片星球.json" 
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/歪片星球.json",
+      "jar": "XYQBiu"
     },   
     {
       "key": "csp_xpath_so2",
