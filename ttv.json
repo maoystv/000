@@ -649,7 +649,7 @@
     },
     {
       "key": "csp_XYQBiu_剧荒",
-      "name": "📽剧荒影院(XYQ)",
+      "name": "📺剧荒影院(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -660,9 +660,9 @@
     },
     {
       "key":"csp_QXBiubiu_歪片星球",
-      "name":"歪片星球(QXB)️",
+      "name":"📺歪片星球(QXB)️",
       "type":3,
-      "api":"csp_QXBiubiu",
+      "api":"csp_XYQBiu,
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
