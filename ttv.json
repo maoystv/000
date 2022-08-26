@@ -1,8 +1,9 @@
 {
   "spider": "https://notabug.org/wzs888/test/raw/master/jar/0823.jar;md5;CBC93A336E9CCD4C40613219DB850D0E",
   "jars":{"XYQBiu":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",
-          "QXB":"https://notabug.org/wzs888/test/raw/master/jar/custom_spider.jar;md5;834FF6AF57D036546C75F64AADCDB5FF",
+          
              "cili":"https://notabug.org/wzs888/test/raw/master/jar/cili.jar;md5;226DB2FC833312B73B0BF57C7DD41484",
+             
              "B站":"https://notabug.org/wzs888/test/raw/master/jar/B站.jar;md5;C5C337BB2793598E9AA5953898FBB087"
             },
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
@@ -658,39 +659,6 @@
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json",
       "jar": "XYQBiu"
-    },
-    {
-      "key":"csp_QXBiubiu_歪片星球",
-      "name":"📺歪片星球(QXB)️",
-      "type":3,
-      "api":"csp_QXBiubiu,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/歪片星球.json",
-      "jar": "QXB"
-    },
-    {
-      "key":"csp_QXBiubiu_蚂蚁4K",
-      "name":"蚂蚁4K(QXB)️",
-      "type":3,
-      "api":"csp_QXBiubiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/蚂蚁4K.json",
-      "jar": "QXB"
-    },
-    {
-      "key":"csp_QXBiubiu_小强迷",
-      "name":"小强迷(QXB)",
-      "type":3,
-      "api":"csp_QXBiubiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/小强迷.json",
-      "jar": "QXB"
     },
     {
       "key": "csp_xpath_so2",
