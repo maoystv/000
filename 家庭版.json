@@ -5,7 +5,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vemhhbmdob25nL1RWQk9YWlkvcmF3L2JyYW5jaC9tYWluL1RWL1RWLnR4dA=="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
-{"key": "T4","name": "T4网页〔SP〕","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -40,9 +40,9 @@
 {"key": "剧荒TV〔SP〕","name": "剧荒TV〔SP〕","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Nfyun","name":"Nf云〔SP〕","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "bdys","name": "哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/bdys.json"},
-{"key": "Gitcafe","name":"小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
-{"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
-{"key":"csp_PushAgent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
+{"key": "Gitcafe","name":"小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"csp_PushAgent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 
 
 {"key":"APP影视〔官源指引〕","name":"↓APP影视〔官源指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
