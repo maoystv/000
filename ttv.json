@@ -1,9 +1,7 @@
 {
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/0823.jar;md5;CBC93A336E9CCD4C40613219DB850D0E",
-  "jars":{"XYQBiu":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",
-          
-             "cili":"https://notabug.org/wzs888/test/raw/master/jar/cili.jar;md5;226DB2FC833312B73B0BF57C7DD41484",
-             
+  "spider":"https://notabug.org/wzs888/test/raw/master/jar/0823.jar;md5;CBC93A336E9CCD4C40613219DB850D0E",
+  "jars":{"XYQBiu":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",          
+            "cili":"https://notabug.org/wzs888/test/raw/master/jar/cili.jar;md5;226DB2FC833312B73B0BF57C7DD41484",             
              "B站":"https://notabug.org/wzs888/test/raw/master/jar/B站.jar;md5;C5C337BB2793598E9AA5953898FBB087"
             },
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
