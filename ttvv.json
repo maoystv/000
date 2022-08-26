@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0822.jar;md5;BD05DF7AFF8664BCDB7097B7D04A7FA9",
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/0823.jar;md5;CBC93A336E9CCD4C40613219DB850D0E",
   "jars":{"XYQBiu":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",
              "cili":"https://notabug.org/wzs888/test/raw/master/jar/cili.jar;md5;226DB2FC833312B73B0BF57C7DD41484",
              "B站":"https://notabug.org/wzs888/test/raw/master/jar/B站.jar;md5;C5C337BB2793598E9AA5953898FBB087"
@@ -259,24 +259,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Nbys",
-      "name": "⛰泥巴(墙外)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "If101",
-      "name": "🗾If101(墙外)",
-      "type": 3,
-      "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "学堂",
       "name": "📚学习园地",
       "type": 3,
@@ -360,7 +342,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
     {
       "key": "Gitcafe",
@@ -370,7 +352,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
     {
       "key": "FindZY",
@@ -380,7 +362,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
     {
       "key": "csp_Yiso",
@@ -390,7 +372,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
     {
       "key": "push_agent",
@@ -400,7 +382,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
     {
       "key": "csp_Yj1211",
@@ -684,10 +666,10 @@
       "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json"
     },
     {
-      "key": "csp_QXBiubiu_蚂蚁4K",
+      "key": "csp_XYQBiu_蚂蚁4K",
       "name": "蚂蚁4K",
       "type": 3,
-      "api": "csp_QXBiubiu",
+      "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
