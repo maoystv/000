@@ -93,15 +93,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Tkys",
-      "name": "🌝天空影院",
-      "type": 3,
-      "api": "csp_Tkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_dd5555",
       "name": "🍅555影视",
       "api": "csp_Dy555",
@@ -668,16 +659,16 @@
       "jar": "XYQBiu"
     },
     {
-      "key": "csp_XYQBiu_歪片星球",
-      "name": "📽歪片星球(XYQ)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/歪片星球.json",
+      "key":"csp_QXBiubiu_歪片星球",
+      "name":"歪片星球(QXB)️",
+      "type":3,
+      "api":"csp_QXBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/歪片星球.json",
       "jar": "XYQBiu"
-    },   
+    },
     {
       "key": "csp_xpath_so2",
       "name": "🦆淘剧鸭",
