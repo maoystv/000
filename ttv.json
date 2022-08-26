@@ -671,6 +671,28 @@
       "jar": "QXB"
     },
     {
+      "key":"csp_QXBiubiu_蚂蚁4K",
+      "name":"蚂蚁4K(QXB)️",
+      "type":3,
+      "api":"csp_QXBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/蚂蚁4K.json",
+      "jar": "QXB"
+    },
+    {
+      "key":"csp_QXBiubiu_小强迷",
+      "name":"小强迷(QXB)",
+      "type":3,
+      "api":"csp_QXBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/小强迷.json",
+      "jar": "QXB"
+    },
+    {
       "key": "csp_xpath_so2",
       "name": "🦆淘剧鸭",
       "type": 3,
