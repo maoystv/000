@@ -313,7 +313,7 @@
       "key": "T4",
       "name": "🔮T4爬虫阿里搜索",
       "type": 4,
-      "api": "https://notabug.org/wzs888/test/raw/master/vod.json",
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
