@@ -1,6 +1,6 @@
 {
   "spider":"https://notabug.org/wzs888/test/raw/master/jar/jar0828.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
-  "jars":{"新biubiu.jar":"https://notabug.org/wzs888/test/raw/master/jar/新biubiu.jar;md5;3B42E09F152DB76F768F68F4727F9E90",                                 
+  "jars":{"新biubiu.jar":"https://notabug.org/wzs888/test/raw/master/jar/custom_spider.jar;md5;834FF6AF57D036546C75F64AADCDB5FF",                                 
           ""
          },
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
@@ -308,6 +308,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/XP/哔滴磁力.json"
+    },
+    {
+      "key": "T4",
+      "name": "🔮T4爬虫阿里搜索",
+      "type": 4,
+      "api": "https://notabug.org/wzs888/test/raw/master/vod.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "AliPS",
