@@ -1,7 +1,7 @@
 {
   "spider":"https://notabug.org/wzs888/test/raw/master/jar/jar0828.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
-  "jars":{"XYQBiu":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",                                 
-          "QXBiubiu":"https://notabug.org/wzs888/test/raw/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C"
+  "jars":{"新biubiu.jar":"https://notabug.org/wzs888/test/raw/master/jar/新biubiu.jar;md5;3B42E09F152DB76F768F68F4727F9E90",                                 
+          ""
          },
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
@@ -639,7 +639,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/影视工厂.json",
-      "jar": "XYQBiu"
+      "jar": "新biubiu.jar"
     },
     {
       "key": "csp_XYQBiu_剧荒",
@@ -650,7 +650,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json",
-      "jar": "XYQBiu"
+      "jar": "新biubiu.jar"
+    },
+    {
+      "key":"csp_QXBiubiu_歪片星球",
+      "name":"歪片星球(QXB)️",
+      "type":3,
+      "api":"csp_QXBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"新biubiu.jar",
+      "ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/歪片星球.json"
     },
     {
       "key": "csp_xpath_so2",
