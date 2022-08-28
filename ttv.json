@@ -1,9 +1,8 @@
 {
   "spider":"https://notabug.org/wzs888/test/raw/master/jar/jar0828.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
-  "jars":{"XYQBiu":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",          
-            "cili":"https://notabug.org/wzs888/test/raw/master/jar/cili.jar;md5;226DB2FC833312B73B0BF57C7DD41484",             
-             "QXBiubiu":"https://notabug.org/wzs888/test/raw/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C"
-            },
+  "jars":{"XYQBiu":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",                                 
+          "QXBiubiu":"https://notabug.org/wzs888/test/raw/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C"
+         },
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -45,16 +44,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "csp_Tkys",
-      "name": "🎆天空影视",
-      "type": 3,
-      "api": "csp_Tkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },    
+    },   
     {
       "key": "csp_DiDuan",
       "name": "📺低端影视",
