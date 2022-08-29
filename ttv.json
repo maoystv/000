@@ -3,8 +3,8 @@
   "jars":
   {
   "QXBiubiu":"https://notabug.org/wzs888/test/raw/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C",                                 
-  "XYQBiu":"https://notabug.org/wzs888/test/raw/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",
-  "ali":"https://notabug.org/wzs888/test/raw/master/jar/ali.jar;md5;67B9F4D21004D6B188831D4CDA1872E6"
+  "XYQBiu":"https://notabug.org/wzs888/test/raw/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3"
+
   },
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
@@ -204,17 +204,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Alist",
-      "name": "Alist2(SP)",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "ali",
-      "ext": "https://drive.9t.ee"
     },    
     {
       "key": "Nfyun",
@@ -726,8 +715,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar":"QXBiubiu",
-      "ext":"https://notabug.org/wzs888/test/raw/master/XYQBiu/歪片星球.json"
+      "jar": "QXBiubiu",
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/歪片星球.json"
     },
     {
       "key": "csp_xpath_so2",
