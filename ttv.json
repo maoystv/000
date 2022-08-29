@@ -1,7 +1,8 @@
 {
   "spider":"https://notabug.org/wzs888/test/raw/master/jar/jar0828.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
   "jars":{"QXBiubiu":"https://notabug.org/wzs888/test/raw/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C",                                 
-          "XYQBiu":"https://notabug.org/wzs888/test/raw/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3"
+          "XYQBiu":"https://notabug.org/wzs888/test/raw/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",
+          "ali":"https://notabug.org/wzs888/test/raw/master/jar/ali.jar;md5;67B9F4D21004D6B188831D4CDA1872E6"
          },
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
@@ -203,6 +204,17 @@
       "filterable": 1
     },
     {
+      "key": "csp_Alist",
+      "name": "Alist2(SP)",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "ali",
+      "ext": "https://drive.9t.ee"
+    },    
+    {
       "key": "Nfyun",
       "name": "🌦奈菲云",
       "type": 3,
@@ -249,6 +261,16 @@
       "filterable": 1,
       "ext":"https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/xuexi.txt"
     },
+    {
+      "key": "解说",
+      "name": "⚽️电影解说",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%E6%8E%A5%E5%8F%A3/影视解说.json"
+    }    
     {
       "key": "csp_BBB",
       "name": "🅱️哔哩哔哩",
@@ -641,7 +663,7 @@
     },
     {
       "key": "csp_XYQBiu_影视工厂",
-      "name": "📺影视工厂(XYQ)",
+      "name": "🍀影视工厂(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -652,7 +674,7 @@
     },
     {
       "key": "csp_XYQBiu_剧荒",
-      "name": "📺剧荒影院(XYQ)",
+      "name": "🍀剧荒影院(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -663,7 +685,7 @@
     },
     {
       "key": "csp_XYQBiu_凌云影视",
-      "name": "📺凌云影视(XYQ)",
+      "name": "🍀凌云影视(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -674,7 +696,7 @@
     },
     {
       "key": "csp_XYQBiu_短视频",
-      "name": "📺短视频(XYQ)",
+      "name": "🍀聚合短视频(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -685,7 +707,7 @@
     },
     {
       "key": "csp_XYQBiu_万能影院",
-      "name": "📺万能影院(XYQ)",
+      "name": "🍀万能影院(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -696,7 +718,7 @@
     },    
     {
       "key":"csp_QXBiubiu_歪片星球",
-      "name":"歪片星球(QXB)️",
+      "name":"🍀歪片星球(QXB)️",
       "type":3,
       "api":"csp_QXBiubiu",
       "searchable":1,
