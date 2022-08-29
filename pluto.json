@@ -519,17 +519,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0828gg/tvjs/qiyouxp.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/奇优影院(ns).json"
     },
     {
       "key": "csp_biubiu_voflix",
-      "name": "voflix",
+      "name": "voflix HD",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0828gg/tvjs/voflix.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/voflix.json"
     },
     {
       "key": "csp_biubiu_cupfox",
