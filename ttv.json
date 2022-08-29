@@ -662,6 +662,39 @@
       "jar": "XYQBiu"
     },
     {
+      "key": "csp_XYQBiu_凌云影视",
+      "name": "📺凌云影视(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/凌云影视.json",
+      "jar": "XYQBiu"
+    },
+    {
+      "key": "csp_XYQBiu_短视频",
+      "name": "📺短视频(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/短视频.json",
+      "jar": "XYQBiu"
+    },
+    {
+      "key": "csp_XYQBiu_万能影院",
+      "name": "📺万能影院(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/万能影院.json",
+      "jar": "XYQBiu"
+    },    
+    {
       "key":"csp_QXBiubiu_歪片星球",
       "name":"歪片星球(QXB)️",
       "type":3,
