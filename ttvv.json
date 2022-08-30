@@ -1,9 +1,6 @@
 {
   "spider": "https://notabug.org/wzs888/test/raw/master/jar/gg0828.jar;md5;cc896a941cf183400411f708a109e839",
-  "jars":{"XYQBiu":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XYQBiu.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3",
-             "cili":"https://notabug.org/wzs888/test/raw/master/jar/cili.jar;md5;226DB2FC833312B73B0BF57C7DD41484",
-             "B站":"https://notabug.org/wzs888/test/raw/master/jar/B站.jar;md5;C5C337BB2793598E9AA5953898FBB087"
-            },
+
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -259,24 +256,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Nbys",
-      "name": "⛰泥巴(墙外)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "If101",
-      "name": "🗾If101(墙外)",
-      "type": 3,
-      "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "学堂",
       "name": "📚学习园地",
       "type": 3,
@@ -284,8 +263,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/xuexi.txt",
-      "jar": "B站"
+      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/xuexi.txt"
     },
     {
       "key": "csp_BBB",
@@ -295,19 +273,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%E6%8E%A5%E5%8F%A3/哔哩.json",
-      "jar": "B站"
+      "ext": "https://notabug.org/wzs888/test/raw/master/Bili.json"
     },
     {
-      "key": "演唱会",
-      "name": "🅱️歌曲(B站)",
+      "key": "电影解说",
+      "name": "🅱️电影解说",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e6%ad%8c%e6%9b%b2MV.json",
-      "jar": "B站"
+      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e5%bd%b1%e8%a7%86%e8%a7%a3%e8%af%b4.json"
     },
     {
       "key": "美食",
@@ -317,8 +293,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e7%be%8e%e9%a3%9f.txt",
-      "jar": "B站"
+      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e7%be%8e%e9%a3%9f.txt"
     },
     {
       "key": "棋牌",
@@ -328,8 +303,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e6%a3%8b%e7%89%8c%e5%a4%a9%e5%9c%b0.txt",
-      "jar": "B站"
+      "ext": "https://notabug.org/wzs888/test/raw/master/BiLiBiLi%e6%8e%a5%e5%8f%a3/%e6%a3%8b%e7%89%8c%e5%a4%a9%e5%9c%b0.txt"
     },
     {
       "key": "csp_xpath_yinfans",
@@ -370,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "3781469b13074e4cac1e0e7113e4fa20"
     },
     {
       "key": "FindZY",
@@ -380,7 +354,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "3781469b13074e4cac1e0e7113e4fa20"
     },
     {
       "key": "csp_Yiso",
@@ -390,7 +364,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "3781469b13074e4cac1e0e7113e4fa20"
     },
     {
       "key": "push_agent",
@@ -400,7 +374,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "3781469b13074e4cac1e0e7113e4fa20"
     },
     {
       "key": "csp_Yj1211",
@@ -575,9 +549,9 @@
     },
     {
       "key": "csp_xpath_dianyingn",
-      "name": "🐂电影牛XP",
+      "name": "🐂电影牛",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -664,24 +638,24 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/夜空蓝光.json"
     },
     {
-      "key": "csp_biubiu_风车动漫",
-      "name": "🪁风车动漫",
+      "key": "csp_Yisou",
+      "name": "💗🐯🈶易搜盘",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
+      "ext": "28801b1dbaf4418fb7bc221a575703dd"
     },
     {
-      "key": "csp_biubiu_森屋新番",
-      "name": "🎍森屋新番",
+      "key": "csp_xpath_naifeiorg",
+      "name": "🀄️奈飞中文",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json"
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"
     },
     {
       "key": "csp_QXBiubiu_蚂蚁4K",
@@ -701,8 +675,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/影视工厂.json",
-      "jar":"XYQBiu"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/影视工厂.json"
     },
     {
       "key": "csp_XYQBiu_剧荒",
@@ -712,8 +685,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json",
-      "jar":"XYQBiu"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json"
     },
     {
       "key": "csp_xpath_yanetflix",
