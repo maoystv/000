@@ -636,6 +636,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json"
     },
     {
+      "key":"快车*资源",
+      "name":"快车*资源",
+      "type":1,
+      "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
       "key":"csp_xml___红牛资源",
       "name":"红牛资源"   ,
       "type":1,
