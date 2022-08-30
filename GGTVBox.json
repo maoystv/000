@@ -27,7 +27,7 @@
     },
     {
       "key": "360_spider",
-      "name":"360影视 ",
+      "name":"360影视（SP）",
       "api": "csp_SP360",
       "type": 3,
       "filterable": 1,
