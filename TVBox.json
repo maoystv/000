@@ -434,7 +434,7 @@
     },
     {
       "key": "推送",
-      "name": "🍭推送",
+      "name": "🛒推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
