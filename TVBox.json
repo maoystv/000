@@ -276,7 +276,7 @@
     },
     {
       "key":"北雁资源",
-      "name":"🦢北燕资源(聚)",
+      "name":"北燕资源(聚)",
       "type":1,
       "api":"https://zy.beiyan.cc:4433/api.php/provide/vod/",
       "searchable":1,
