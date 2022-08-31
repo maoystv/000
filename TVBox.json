@@ -275,6 +275,41 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
     },
     {
+      "key":"csp_AppYsV2",
+      "name":"优众影视(优)",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://121.205.88.178:8090/xgapp.php/v2/"
+    },
+    {
+      "key": "多多",
+      "name": "多多影视(优)",
+      "type": 1,
+      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+         "国产剧",
+         "港台剧",
+         "日韩剧",
+         "欧美剧",
+         "综艺",
+         "动漫",
+         "动作片",
+         "喜剧片",
+         "爱情片",
+         "科幻片",
+         "恐怖片",
+         "剧情片",
+         "战争片"
+      ]
+    },    
+    {
       "key":"北雁资源",
       "name":"北燕资源(聚)",
       "type":1,
@@ -287,7 +322,7 @@
     },
     {
       "key": "影图影视",
-      "name": "影图影视(聚)",
+      "name": "影图影视(切)",
       "type": 1,
       "api": "https://cj.vodimg.top/api.php/provide/vod/",
       "searchable": 1,
@@ -320,7 +355,7 @@
     },
     {
       "key":"红牛资源",
-      "name":"红牛资源(采)",
+      "name":"红牛资源(切)",
       "type":1,
       "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
       "playUrl":"",
@@ -409,7 +444,7 @@
     },
     {
       "key": "推送",
-      "name": "推送",
+      "name": "🍭推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
@@ -448,9 +483,14 @@
       "url": "Sequence"
     },
     {
-      "name": "GGTV快速",
+      "name": "GGTV自用",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/gang0828/API.php?appkey=QQ172598364&url="
+      "url": "https://play.fuqizhishi.com/gang0830/API.php?appkey=duibuqi0829&url="
+    },
+    {
+      "name": "GGTV聚合",
+      "type": 1,
+      "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe&url="
     },    
     {
       "name": "油果",
