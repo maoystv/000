@@ -174,7 +174,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/Alist.json",
-      "jar":"https://gitea.com/wjj415/wjj/raw/branch/main/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
     }, 
     {
       "key": "Gitcafe",
@@ -364,7 +364,8 @@
        "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
        "searchable": 1,
        "quickSearch": 1,
-       "filterable": 0
+       "filterable": 0,
+       "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
     },
     {
       "key": "T4爬虫",
@@ -373,7 +374,8 @@
       "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
     },
     {
       "key": "T4备用",
@@ -382,7 +384,8 @@
       "api": "https://t4.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
     },
     {
       "key": "自建",
@@ -391,7 +394,8 @@
       "api": "https://t-secan-jcesy.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
     },
     {
       "key": "推送",
@@ -433,6 +437,11 @@
       "type": 2,
       "url": "Sequence"
     },
+    {
+      "name": "GGTV快速",
+      "type": 1,
+      "url": "https://play.fuqizhishi.com/gang0828/API.php?appkey=QQ172598364&url="
+    },    
     {
       "name": "油果",
       "type": 1,
