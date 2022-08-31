@@ -275,16 +275,6 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
     },
     {
-      "key":"csp_AppYsV2",
-      "name":"优众影视(优)",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://121.205.88.178:8090/xgapp.php/v2/"
-    },
-    {
       "key": "多多",
       "name": "多多影视(优)",
       "type": 1,
