@@ -782,6 +782,11 @@
       }
     },
     {
+      "name":"秒播",
+      "type":1,
+      "url":"https://jx.hfyrw.com/mao.go?url="
+    },
+    {
       "name": "yemu",
       "type": 0,
       "url": "https://www.yemu.xyz/?url="
