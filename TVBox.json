@@ -312,6 +312,26 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
     },
     {
+      "key": "9E03",
+      "name": "9️⃣9E03",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
+    },
+    {
+      "key": "csp_AppYsV2",
+      "name": "优众影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://121.205.88.178:8090/xgapp.php/v2/"
+    },    
+    {
       "key": "多多",
       "name": "多多影视(优)",
       "type": 1,
@@ -531,7 +551,7 @@
     {
       "name": "aiku",
       "type": 1,
-      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
+      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
     },
     {
       "name": "龙虾",
