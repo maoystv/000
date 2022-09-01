@@ -318,31 +318,7 @@
          "剧情片",
          "战争片"
       ]
-    },
-    {
-      "key": "NETFLIXMI",
-      "name": "奈飞高清(优)",
-      "type": 1,
-      "api": "http://shdmv.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "欧美剧",
-        "国产剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "港台剧",
-        "日韩剧",
-        "综艺",
-        "动漫"
-      ]
-    },    
+    },   
     {
       "key":"北雁资源",
       "name":"北燕资源(聚)",
