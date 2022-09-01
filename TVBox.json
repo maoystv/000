@@ -182,8 +182,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/Alist.json",
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
+      "ext": "https://notabug.org/wzs888/test/raw/master/Alist.json"
     }, 
     {
       "key": "Gitcafe",
@@ -658,11 +657,6 @@
       }
     },
     {
-      "name": "aiku",
-      "type": 1,
-      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
-    },
-    {
       "name": "yemu",
       "type": 0,
       "url": "https://www.yemu.xyz/?url="
@@ -900,5 +894,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/gg0828.jar;md5;cc896a941cf183400411f708a109e839"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/gg.jar;md5;10D966993001BA97F7EF232033CF9CD4"
 }
