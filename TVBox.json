@@ -175,13 +175,40 @@
     },
     {
       "key": "360",
-      "name": "360(爬虫)",
+      "name": "360(解析)",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "csp_QQ",
+      "name": "腾讯(解析)",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_MGTV",
+      "name": "芒果(解析)",
+      "type": 3,
+      "api": "csp_MGTV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_IQIYI",
+      "name": "爱奇异(解析)",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
     {
       "key": "棋牌",
       "name": "棋牌(B站)",
@@ -280,6 +307,26 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/凌云影视.json"
+    },
+    {
+      "key": "csp_XYQBiu_23yy",
+      "name": "二三影视",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/23ys.json"
+    },
+    {
+      "key": "csp_XYQBiu_wanneng",
+      "name": "万能影院",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/万能影院.json"
     },    
     {
       "key": "蓝光影院",
@@ -330,6 +377,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://121.205.88.178:8090/xgapp.php/v2/"
+    },
+    {
+      "key": "xincheng",
+      "name": "新城蓝光（有广告）",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod"
     },    
     {
       "key": "多多",
@@ -449,6 +506,26 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"
     },
     {
+      "key": "csp_xpath_6d",
+      "name": "六度TV",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/6d.json"
+    },    
+    {
+      "key": "csp_xpath_007",
+      "name": "玲玲七（有广告）",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/007.json"
+    },    
+    {
       "key": "美剧虫",
       "name": "美剧虫(XPF)",
       "type": 3,
@@ -468,6 +545,16 @@
       "filterable": 1,
       "ext": "{\r\n\"ua\": \"\",\r\n\"dtUrl\": \"https://1024bt25.xyz{vid}\",\r\n\"dtNode\": \"//div[@id='content']\",\r\n\"dtName\": \"//h2/text()\",\r\n\"dtNameR\": \"\",\r\n\"dtImg\": \"/@null\",\r\n\"dtCate\": \"concat(//tbody/td[1]//text())\",\r\n\"dtCateR\": \"\",\r\n\"dtYear\": \"concat(//tbody/td[2]//text())\",\r\n\"dtYearR\": \"\",\r\n\"dtDesc\": \"concat(//ol//text(),'')\",\r\n\"dtDescR\": \"\",\r\n\"dtFromNode\": \"//div[@id='wall']\",\r\n\"dtFromName\": \"concat('磁力链接','')\",\r\n\"dtFromNameR\": \"\",\r\n\"dtUrlNode\": \"//div[@id='magnet']\",\r\n\"dtUrlSubNode\": \"//a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"{playUrl}\",\r\n\"playUa\": \"\",\r\n\"searchUrl\": \"https://1024bt25.xyz/main-search-kw-{wd}-length-1.html\",\r\n\"scVodNode\": \"//div[@class='item-title']/h3/a\",\r\n\"scVodName\": \"/@title\",\r\n\"scVodId\": \"/@href\",\r\n\"scVodIdR\": \"\",\r\n\"scVodImg\": \"/@null\",\r\n\"scVodImgR\": \"\",\r\n  \"scVodMark\": \"\"\r\n}"
     },
+    {
+      "key": "csp_bendi",
+      "name": "本地文件（仅能播放视频）",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "type_flag": 1
+    },    
     { 
        "key": "t4public",
        "name":"T4公共(不支持bdys)",
@@ -497,6 +584,32 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
+    },
+    {
+      "key":"pwd_影库资源-伦理",
+      "name":"🐾影库",
+      "type":1,
+      "api":"https://api.ykapi.net/api.php/provide/vod/?ac=list",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },
+    {
+      "key":"pwd_工厂资源",
+      "name":"🐾工厂",
+      "type":0,
+      "api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
+      "searchable":0,
+      "quickSearch":0
+    },
+    { 
+      "key":"pwd_博天堂",
+      "name":"🐾天堂",
+      "type":0,
+      "api":"http://bttcj.com/inc/sapi.php",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
     },
     {
       "key": "推送",
@@ -1024,5 +1137,6 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/gg.jar;md5;10D966993001BA97F7EF232033CF9CD4"
+  "pwd":"99e7e6ce097324aceb45f98299ceb621",
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/0901.jar;md5;37CD198BD599765CB1452D3A33E48768"
 }
