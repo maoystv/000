@@ -604,30 +604,6 @@
       "quickSearch":1,
       "filterable":0
     },
-    {
-      "key":"pwd_*三级片资源",
-      "name":"🐾片库",
-      "type":1,
-      "api":"https://caiji.jjjzy.cc/inc/apijson_vod.php",
-      "searchable":0,
-      "quickSearch":0
-    },
-    {
-      "key":"pwd_工厂资源",
-      "name":"🐾工厂",
-      "type":0,
-      "api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
-      "searchable":0,
-      "quickSearch":0
-    },
-    {
-      "key":"pwd_点点娱乐",
-      "name":"🐾点点",
-      "type":0,
-      "api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
-      "searchable":0,
-      "quickSearch":0
-    },
     { 
       "key":"pwd_博天堂",
       "name":"🐾天堂",
