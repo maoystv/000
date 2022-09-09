@@ -327,6 +327,26 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/万能影院.json"
+    },
+    {
+      "key": "csp_XYQBiu_e9视频",
+      "name": "e9视频",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/e9视频.json"
+    },
+    {
+      "key": "csp_XYQBiu_小猫咪",
+      "name": "小猫咪",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/小猫咪.json"
     },    
     {
       "key": "蓝光影院",
@@ -576,16 +596,6 @@
       "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
     },
     {
-      "key": "T4备用",
-      "name": "备用(不支持bdys,cokemv）",
-      "type": 4,
-      "api": "https://t4.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
-    },
-    {
       "key":"pwd_影库资源-伦理",
       "name":"🐾影库",
       "type":1,
@@ -595,10 +605,26 @@
       "filterable":0
     },
     {
+      "key":"pwd_*三级片资源",
+      "name":"🐾片库",
+      "type":1,
+      "api":"https://caiji.jjjzy.cc/inc/apijson_vod.php",
+      "searchable":0,
+      "quickSearch":0
+    },
+    {
       "key":"pwd_工厂资源",
       "name":"🐾工厂",
       "type":0,
       "api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
+      "searchable":0,
+      "quickSearch":0
+    },
+    {
+      "key":"pwd_点点娱乐",
+      "name":"🐾点点",
+      "type":0,
+      "api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
       "searchable":0,
       "quickSearch":0
     },
