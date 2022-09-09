@@ -2,6 +2,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://notabug.org/wzs888/test/raw/master/jar/0907.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8",
 "sites": [
+{"key":"py_cctv","name":"🇨🇳央视","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://notabug.org/wzs888/test/raw/master/py/py_cctv.py.txt"},
 {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
