@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/Bili.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/B站.txt"
     },  
     {
       "key": "Kuaikan",
@@ -202,7 +202,7 @@
     },
     {
       "key": "csp_IQIYI",
-      "name": "爱奇异(解析)",
+      "name": "爱奇艺(解析)",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -574,102 +574,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "type_flag": 1
-    },
-    {
-      "key": "secan_T4",
-      "name": "🐞T4爬虫(搜索)",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "tangsan_dd",
-      "name": "🐞vip2",
-      "type": 4,
-      "api": "http://vod.kooo.eu.org/t4/vip110002",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "tangsan_80S",
-      "name": "🐞vip8",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11cx08",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "tangsan_jy",
-      "name": "🐞vip16",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11b016",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "tangsan_nm",
-      "name": "🐞vip64",
-      "type": 4,
-      "api": "https://vod.kooo.eu.org/t4/vip11fx64",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_biubiu_测试",
-      "name": "🔥测试(QXB)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/xmm.json"
-    },
-    {
-      "key": "csp_biubiu_测试1",
-      "name": "🔥测试1(QXB)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/xjzy.json"
-    },
-    {
-      "key": "csp_biubiu_测试2",
-      "name": "🔥测试2(QXB)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/zb.json"
-    },
-    {
-      "key": "csp_biubiu_测试3",
-      "name": "🔥测试3(QXB)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/cqzy.json"
-    },
-    {
-      "key": "csp_biubiu_测试4",
-      "name": "🔥测试4(QXB)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/nsss.json"
-    },    
+    },   
     {
       "key": "t4test",
       "name": "T4测试(搜索)",
