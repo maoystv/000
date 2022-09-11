@@ -708,34 +708,24 @@
       "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe&url="
     },
     {
-      "name":"爱酷",
+      "name":"懒人",
       "type":1,
-      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
+      "url": "http://120.53.102.254/jx1/jx75.php?url="
     },
     {
-      "name":"293①",
+      "name":"yunyou",
       "type":1,
-      "url":"http://47.98.234.2:7768/api.php?url=",
-      "ext":{
-        "flag":[
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header":{
-          "User-Agent":"Dart/2.14 (dart:io)"
-        }
-      }
+      "url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="
     },
     {
-      "name":"293②",
+      "name":"aiku",
       "type":1,
-      "url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
+      "url":"https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="
+    },
+    {
+      "name":"293",
+      "type":1,
+      "url":"http://81.71.48.249:4456/jsonc/longxia.php?url=",
       "ext":{
         "flag":[
           "qq",
