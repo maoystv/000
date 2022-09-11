@@ -348,14 +348,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/万能影院.json"
     },
     {
-      "key": "csp_XYQBiu_e9视频",
-      "name": "e9视频",
+      "key": "csp_XYQBiu_cctv6",
+      "name": "cctv6",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/e9视频.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/cctv6.json"
     },
     {
       "key": "csp_XYQBiu_小猫咪",
@@ -419,7 +419,7 @@
     },
     {
       "key": "xincheng",
-      "name": "新城蓝光（有广告）",
+      "name": "新城蓝光",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 0,
