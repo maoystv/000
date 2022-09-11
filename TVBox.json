@@ -47,6 +47,15 @@
       "filterable":1
     },
     {
+      "key": "csp_AppTT",
+      "name": "图图(爬虫)",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
       "key": "Coke",
       "name": "Cokemv(爬虫)",
       "type": 3,
@@ -208,7 +217,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },    
+    },
+    {
+      "key":"csp_Bili",
+      "name":"哔哩套餐",
+      "type": 3,
+      "api":"csp_Bili",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://notabug.org/wzs888/test/raw/master/哔哩哔哩.json"
+    },
     {
       "key": "棋牌",
       "name": "棋牌(B站)",
@@ -1165,5 +1184,5 @@
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "pwd":"99e7e6ce097324aceb45f98299ceb621",
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/0901.jar;md5;37CD198BD599765CB1452D3A33E48768"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/0906.jar;md5;7B40B0CB92D728F1F2386EB8B3D2F09F"
 }
