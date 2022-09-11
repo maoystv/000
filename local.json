@@ -1,5 +1,6 @@
 {
-	"sites": [{
+	"sites": [
+    {
 		"key": "py_bilibili",
 		"name": "哔哩",
 		"type": 3,
@@ -8,7 +9,8 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_bilibili.py"
-	}, {
+	},
+    {
 		"key": "py_douyu",
 		"name": "斗鱼",
 		"type": 3,
@@ -17,7 +19,8 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_douyu.py"
-	},{
+	},
+    {
 		"key": "py_huya",
 		"name": "虎牙",
 		"type": 3,
@@ -26,7 +29,8 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_huya.py"
-	}, {
+	},
+    {
 		"key": "py_cctv",
 		"name": "央视",
 		"type": 3,
@@ -35,7 +39,8 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_cctv.py"
-	}, {
+	},
+    {
 		"key": "py_czspp",
 		"name": "厂长",
 		"type": 3,
@@ -44,7 +49,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_czspp.py"
-	}, {
+	},
+    {
 		"key": "py_zxzj",
 		"name": "在线之家",
 		"type": 3,
@@ -53,7 +59,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_zxzj.py"
-	}, {
+	},
+    {
 		"key": "py_voflix",
 		"name": "Voflix",
 		"type": 3,
@@ -62,7 +69,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_voflix.py"
-	}, {
+	},
+    {
 		"key": "py_gimytv",
 		"name": "剧迷",
 		"type": 3,
@@ -71,7 +79,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_gimytv.py"
-	}, {
+	},
+    {
 		"key": "py_genmov",
 		"name": "跟剧",
 		"type": 3,
@@ -80,7 +89,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_genmov.py"
-	}, {
+	},
+    {
 		"key": "py_cokemv",
 		"name": "COKE",
 		"type": 3,
@@ -89,7 +99,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_cokemv.py"
-	}, {
+	},
+    {
 		"key": "py_xmaomi",
 		"name": "猫咪",
 		"type": 3,
@@ -98,7 +109,8 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_xmaomi.py"
-	}, {
+	},
+    {
 		"key": "py_zhaozy",
 		"name": "找资源",
 		"type": 3,
@@ -107,7 +119,8 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "file:///storage/emulated/0/plugin/py_zhaozy.py"
-	}, {
+	},
+    {
 		"key": "py_pansou",
 		"name": "盘搜",
 		"type": 3,
@@ -116,7 +129,8 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "file:///storage/emulated/0/plugin/py_pansou.py"
-	}, {
+	},
+    {
 		"key": "push_agent",
 		"name": "阿里",
 		"type": 3,
@@ -125,7 +139,8 @@
 		"quickSearch": 0,
 		"filterable": 0,
 		"ext": "file:///storage/emulated/0/plugin/py_ali.py"
-	}],
+	}
+    ],
 	"parses": [{
 		"name": "默认选项",
 		"type": 3,
