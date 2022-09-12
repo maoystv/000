@@ -54,7 +54,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },    
+    },
+    { 
+      "key":"csp_Bd",
+      "name":"哔嘀(爬虫)",
+      "type":3,
+      "api":"csp_Bdys01",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
     {
       "key": "Coke",
       "name": "Cokemv(爬虫)",
@@ -329,7 +338,7 @@
     },
     {
       "key": "csp_XYQBiu_23yy",
-      "name": "二三影视",
+      "name": "二三影视(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -338,24 +347,34 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/23ys.json"
     },
     {
+      "key": "csp_XYQBiu_酷蚂蚁",
+      "name": "酷蚂蚁(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/酷蚂蚁.json"
+    },    
+    {
+      "key": "csp_XYQBiu_17kan",
+      "name": "17kan(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/17kan.json"
+    },
+    {
       "key": "csp_XYQBiu_wanneng",
-      "name": "万能影院",
+      "name": "万能影院(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/万能影院.json"
-    },
-    {
-      "key": "csp_XYQBiu_cctv6",
-      "name": "cctv6",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/cctv6.json"
     },
     {
       "key": "csp_XYQBiu_小猫咪",
@@ -396,6 +415,26 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
+    },
+    {
+      "key":"csp_xpath_dianyingn",
+      "name":"电影牛(XP)",
+      "type":3,
+      "api":"csp_XPath",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XP/电影牛.json"
+    },
+    {
+      "key":"csp_xpath_yinfans",
+      "name":"音范丝(XP)",
+      "type":3,
+      "api":"csp_XPath",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XP/音范丝.json"
     },
     {
       "key": "9E03",
@@ -1174,5 +1213,5 @@
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "pwd":"99e7e6ce097324aceb45f98299ceb621",
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/0906.jar;md5;7B40B0CB92D728F1F2386EB8B3D2F09F"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/888.png;md5;7BF81EB29F54645E289066EF7071A76C"
 }
