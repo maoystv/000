@@ -387,14 +387,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/橘猫资源.json"
     },    
     {
-      "key": "csp_XYQBiu_小猫咪",
-      "name": "小猫咪(XYQ)",
+      "key": "csp_XYQBiu_小强迷",
+      "name": "新小强迷(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/小猫咪.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/xinxqm.json"
     },    
     {
       "key": "蓝光影院",
@@ -1251,6 +1251,6 @@
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "pwd":"99e7e6ce097324aceb45f98299ceb621",
-  //"spider": "https://notabug.org/wzs888/test/raw/master/jar/911.jar;md5;64B0A0BB8060617B7C10BB0A8B89E2A3"
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/888.png;md5;7BF81EB29F54645E289066EF7071A76C"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/0909.jar;md5;79913EBD9F5D3C2C1255140E9BFECBB8"
+  //"spider": "https://notabug.org/wzs888/test/raw/master/jar/888.png;md5;7BF81EB29F54645E289066EF7071A76C"
 }
