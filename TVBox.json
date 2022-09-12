@@ -2,13 +2,13 @@
   "sites": [
     {
       "key": "Bili",
-      "name": "Bili(爬虫)",
+      "name": "🅱️哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/B站.txt"
+      "ext": "https://notabug.org/wzs888/test/raw/master/Bili.json"
     },  
     {
       "key": "Kuaikan",
