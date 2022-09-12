@@ -378,7 +378,7 @@
     },
     {
       "key": "csp_XYQBiu_小猫咪",
-      "name": "小猫咪",
+      "name": "小猫咪(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -451,20 +451,20 @@
       "name": "哔哩",
       "type": 3,
       "api": "py_bilibili",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_bilibili.py"
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilibili.py"
     },
     {
       "key": "py_cctv",
       "name": "央视",
       "type": 3,
       "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_cctv.py"
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_cctv.py"
     },
     {
       "key": "csp_AppYsV2",
