@@ -684,16 +684,6 @@
        "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
     },
     {
-      "key": "T4爬虫",
-      "name": "T4爬虫",
-      "type": 4,
-      "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
-    },
-    {
       "key":"pwd_影库资源-伦理",
       "name":"🐾影库",
       "type":1,
