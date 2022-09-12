@@ -377,6 +377,16 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/万能影院.json"
     },
     {
+      "key": "csp_XYQBiu_橘猫影视",
+      "name": "橘猫影视(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/橘猫资源.json"
+    },    
+    {
       "key": "csp_XYQBiu_小猫咪",
       "name": "小猫咪(XYQ)",
       "type": 3,
@@ -420,7 +430,7 @@
       "key":"csp_xpath_dianyingn",
       "name":"电影牛(XP)",
       "type":3,
-      "api":"csp_XPath",
+      "api":"csp_XPathMacFilter",
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
