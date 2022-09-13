@@ -397,6 +397,46 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
     },
     {
+      "key": "csp_XPath_bidiys",
+      "name": "哔嘀影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/bidiys2.json"
+    },
+     {
+      "key": "csp_xpath_6d",
+      "name": "六度TV(XPM)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/6d.json"
+    },    
+    {
+      "key": "csp_xpath_007",
+      "name": "玲玲七(XPM)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/007.json"
+    },    
+    {
+      "key": "美剧虫",
+      "name": "美剧虫(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XP/mjc.json"
+    },   
+    {
       "key":"csp_xpath_dianyingn",
       "name":"电影牛(XP)",
       "type":3,
@@ -563,56 +603,6 @@
       "quickSearch": 1,
       "filterable": 0
     },    
-    {
-      "key": "csp_XPath_bidiys",
-      "name": "哔嘀影视",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/bidiys2.json"
-    },
-    {
-      "key": "csp_xpath_naifeiorg",
-      "name": "奈飞中文(XPM)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/naifeiorg.json"
-    },
-    {
-      "key": "csp_xpath_6d",
-      "name": "六度TV(XPM)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/6d.json"
-    },    
-    {
-      "key": "csp_xpath_007",
-      "name": "玲玲七(XPM)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/007.json"
-    },    
-    {
-      "key": "美剧虫",
-      "name": "美剧虫(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/mjc.json"
-    },
     {
       "key": "csp_bendi",
       "name": "本地文件(仅能播放视频)",
