@@ -255,8 +255,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://notabug.org/wzs888/test/raw/master/Alist.json",
-      "jar":"https://notabug.org/wzs888/test/raw/master/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"
+      "ext":"https://notabug.org/wzs888/test/raw/master/Alist2.json"
     }, 
     {
       "key": "Gitcafe",
@@ -1256,6 +1255,5 @@
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "pwd":"99e7e6ce097324aceb45f98299ceb621",
-  //"spider": "https://notabug.org/wzs888/test/raw/master/jar/0909.jar;md5;79913EBD9F5D3C2C1255140E9BFECBB8"
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/888.png;md5;7BF81EB29F54645E289066EF7071A76C"
+  "spider":"https://notabug.org/wzs888/test/raw/master/jar/888.jar;md5;7BF81EB29F54645E289066EF7071A76C"
 }
