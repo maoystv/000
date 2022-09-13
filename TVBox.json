@@ -431,8 +431,8 @@
       "name": "哔哩",
       "type": 3,
       "api": "py_bilibili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilibili.py"
     },
@@ -441,10 +441,10 @@
       "name": "央视",
       "type": 3,
       "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_cctv.py"
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/央视.txt"
     },
     {
       "key": "csp_AppYsV2",
