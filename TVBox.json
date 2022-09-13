@@ -377,14 +377,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/万能影院.json"
     },
     {
-      "key": "csp_XYQBiu_橘猫影视",
-      "name": "橘猫影视(XYQ)",
+      "key": "csp_XYQBiu_饭团N",
+      "name": "饭团HD(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/橘猫资源.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/饭团N.json"
     },    
     {
       "key": "小强迷",
