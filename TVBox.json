@@ -10,16 +10,9 @@
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/lib-new.json"
     },
-   "drives": [
-    {
-      "name": "BBC纪录片",
-      "server": "https://al.chirmyram.com/",
-      "type": "alist"
-    } 
-             ],
     {
       "key": "py_cctv",
-      "name": "央视(py)",
+      "name":"央视(py)",
       "api": "py_cctv",
       "type": 3,
       "filterable": 0,
