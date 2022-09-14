@@ -269,7 +269,7 @@
     },
     {
       "key":"我的豆瓣",
-      "name":"导航┃我的豆瓣",
+      "name":"豆瓣导航",
       "type":4,
       "api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036",
       "searchable":1,
@@ -426,16 +426,6 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
     },
     {
-      "key": "csp_XPath_bidiys",
-      "name": "哔嘀影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/bidiys2.json"
-    },
-     {
       "key": "csp_xpath_6d",
       "name": "六度TV(XPM)",
       "type": 3,
@@ -621,26 +611,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "type_flag": 1
-    },   
-    {
-      "key": "t4test",
-      "name": "T4测试(搜索)",
-      "type": 4,
-      "api": "http://catvod.fun:8002/vod?sites=all&timeout=3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },    
-    { 
-       "key": "t4public",
-       "name":"T4公共(不支持bdys)",
-       "type": 4,
-       "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-       "jar":"https://notabug.org/wzs888/test/raw/master/jar/ts.jar;md5;3ff273adc74924748c820b8f15fb8c49"
-    },
+    },       
     {
       "key":"pwd_影库资源",
       "name":"🐾影库",
