@@ -9,27 +9,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/lib-new.json"
-    },
-    {
-      "key": "py_cctv",
-      "name":"央视(py)",
-      "api": "py_cctv",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_cctv.py"
-    },
-    {
-	  "key": "py_bilibili",
-	  "name": "哔哩(py)",
-	  "type": 3,
-	  "api": "py_bilibili",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilibili.py"
-	},   
+    },  
     {
       "key": "Kuaikan",
       "name": "快看(爬虫)",
@@ -357,7 +337,7 @@
     },    
     {
       "key": "csp_XYQBiu_酷狗mv",
-      "name": "酷狗mv(XYQ)",
+      "name":"酷狗mv(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -384,17 +364,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/万能影院.json"
-    },
-    {
-      "key": "csp_XYQBiu_好恐怖",
-      "name": "好恐怖(XYQ)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/好恐怖磁力.json"
-    },    
+    },   
     {
       "key": "csp_XYQBiu_饭团N",
       "name": "饭团HD(XYQ)",
