@@ -8,7 +8,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilibili.py"
 	},
     {
 		"key": "py_cctv",
@@ -18,7 +18,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_cctv.py"
 	},
     {
 		"key": "py_czspp",
@@ -28,7 +28,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_czspp.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/czspp.py"
 	},
     {
 		"key": "py_zxzj",
@@ -38,7 +38,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zxzj.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_zxzj.py"
 	},
     {
 		"key": "py_voflix",
@@ -48,7 +48,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_voflix.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/voflix.py"
 	},
     {
 		"key": "py_bilimd",
@@ -58,7 +58,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilimd.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilimd.py"
 	},
     {
 		"key": "py_gimytv",
@@ -68,7 +68,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gimytv.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_gimytv.py"
 	},
     {
 		"key": "py_genmov",
@@ -78,7 +78,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_genmov.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_genmov.py"
 	},
     {
 		"key": "py_huya",
@@ -88,7 +88,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_huya.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_huya.py"
 	},
     {
 		"key": "py_douyu",
@@ -98,7 +98,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_douyu.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_douyu.py"
 	},
     {
 		"key": "py_cokemv",
@@ -108,7 +108,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cokemv.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_cokemv.py"
 	},
     {
 		"key": "py_xmaomi",
@@ -118,7 +118,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_xmaomi.py"
+		"ext": "https://notabug.org/wzs888/test/raw/master/py/py_xmaomi.py"
 	},
     {
       "key": "py_onelist.py",
