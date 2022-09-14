@@ -62,7 +62,7 @@
     },
     {
       "key": "py_bilivd.py",
-      "name": "影视",
+      "name": "视频",
       "type": 3,
       "api": "py_bilivd.py",
       "searchable": 0,
@@ -198,7 +198,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/Alist.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_douyu.py"
     }, 
     {
       "key": "py_smdyy.py",
@@ -847,5 +847,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://notabug.org/wzs888/test/raw/master/jar/gg0828.jar;md5;cc896a941cf183400411f708a109e839"
+  "spider": "https://notabug.org/wzs888/test/raw/master/jar/999.jar;md5;12730AC72524422555A034DC8DEE8B57"
 }
