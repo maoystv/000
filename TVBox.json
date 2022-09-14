@@ -86,7 +86,7 @@
     },
     {
       "key": "Coke",
-      "name": "Cokemv(爬虫)",
+      "name": "焦炭(爬虫)",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
