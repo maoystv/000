@@ -602,7 +602,15 @@
       "quickSearch": 0,
       "filterable": 1,
       "type_flag": 1
-    },       
+    },
+    {
+      "key":"MBO 影视",
+      "name":"🍹MBO 影视",
+      "type":0,
+      "api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/",
+      "searchable":0,
+      "quickSearch":0
+    },
     {
       "key":"pwd_影库资源",
       "name":"🐾影库",
