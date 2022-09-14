@@ -12,7 +12,7 @@
     },
     {
 	  "key": "py_cctv",
-	  "name": "央视(py)",
+	  "name": "🇨🇳央视(py)",
 	  "type": 3,
 	  "api": "py_cctv",
 	  "searchable": 0,
@@ -22,7 +22,7 @@
 	},
     {
 	  "key": "py_bilibili",
-	  "name": "哔哩(py)",
+	  "name": "哔哩哔哩(py)",
 	  "type": 3,
 	  "api": "py_bilibili",
 	  "searchable": 0,
