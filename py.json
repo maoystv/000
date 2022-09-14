@@ -27,7 +27,7 @@
       "api": "py_czspp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1.
+      "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/py/czspp.py"
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "key": "py_dy555.py",
-      "name": "555",
+      "name": "三五",
       "type": 3,
       "api": "py_dy555.py",
       "searchable": 1,
