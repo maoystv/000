@@ -355,17 +355,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/饭团N.json"
-    },    
-    {
-      "key": "小强迷",
-      "name": "新小强迷(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/xinxqm.json"
-    },    
+    },       
     {
       "key": "蓝光影院",
       "name": "蓝光影院(XB)",
@@ -458,7 +448,7 @@
     },
     {
       "key": "9E03",
-      "name": "9️⃣9E03",
+      "name": "9️⃣9E03(V1)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -467,28 +457,8 @@
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
     },
     {
-      "key": "py_bilibili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "py_bilibili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilibili.py"
-    },
-    {
-      "key": "py_cctv",
-      "name": "央视",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/py/央视.txt"
-    },
-    {
       "key": "csp_AppYsV2",
-      "name": "优众影视",
+      "name": "优众影视(V2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -498,7 +468,7 @@
     },
     {
       "key": "xincheng",
-      "name": "新城蓝光",
+      "name": "新城蓝光(V1)",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 0,
