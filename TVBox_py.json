@@ -35,8 +35,8 @@
       "name": "B站影视(py)",
       "type": 3,
       "api": "py_bilimd.py",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilimd.py"
     },
