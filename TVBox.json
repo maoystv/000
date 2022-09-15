@@ -417,6 +417,16 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
     },
     {
+      "key":"csp_biubiu_旧梦影视",
+      "name":"旧梦影视(XB)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://notabug.org/wzs888/test/raw/master/XB/旧梦影视.json"
+    },
+    {
       "key": "csp_xpath_6d",
       "name": "六度TV(XPM)",
       "type": 3,
