@@ -604,6 +604,33 @@
       "type_flag": 1
     },
     {
+      "key":"youku",
+      "name":"T4-优酷",
+      "type":4,
+      "api":"http://home.jundie.top:666/psp/youku.php?key=signAYT",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"qq",
+      "name":"T4-腾讯",
+      "type":4,
+      "api":"http://home.jundie.top:666/psp/qq.php?key=signAYT",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"iqiyi",
+      "name":"T4-爱奇艺",
+      "type":4,
+      "api":"http://home.jundie.top:666/psp/iqiyi.php?key=signAYT",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },    
+    {
       "key":"MBO 影视",
       "name":"🍹MBO 影视",
       "type":0,
@@ -616,31 +643,6 @@
       "name":"🐾影库",
       "type":1,
       "api":"https://api.ykapi.net/api.php/provide/vod/?ac=list",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0
-    },
-    {
-      "key":"pwd_wmcj8",
-      "name":"🐾wmcj8",
-      "type":0,
-      "api":"http://wmcj8.com/inc/sapi.php",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
-      "key":"pwd_袜子",
-      "name":"🐾袜子",
-      "type":0,
-      "api":"https://www.msnii.com/api/xml.php",
-      "searchable":0,
-      "quickSearch":0
-    },
-    { 
-      "key":"pwd_博天堂",
-      "name":"🐾天堂",
-      "type":0,
-      "api":"http://bttcj.com/inc/sapi.php",
       "searchable":1,
       "quickSearch":1,
       "filterable":0
