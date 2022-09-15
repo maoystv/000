@@ -51,7 +51,7 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_cyys.py"
     },
     {
-      "key": "sp360.py",
+      "key": "py_sp360.py",
       "name": "360(py)",
       "type": 3,
       "api": "py_sp360.py",
