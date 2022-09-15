@@ -22,7 +22,7 @@
     },
     {
       "key": "py_bilibili",
-      "name": "哔哩(py)",
+      "name": "哔哩哔哩(py)",
       "type": 3,
       "api": "py_bilibili",
       "searchable": 0,
@@ -49,7 +49,17 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_cyys.py"
-    },     
+    },
+    {
+      "key": "sp360.py",
+      "name": "360(py)",
+      "type": 3,
+      "api": "py_sp360.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/sp360.py"
+    },    
     {
       "key": "Kuaikan",
       "name": "快看(爬虫)",
@@ -160,7 +170,7 @@
     },
     {
       "key": "看视界",
-      "name": "看视界(爬虫)",
+      "name": "视界(爬虫)",
       "type": 3,
       "api": "csp_KanSJ",
       "searchable": 1,
@@ -169,7 +179,7 @@
     },
     {
       "key": "追剧喵",
-      "name": "追剧喵(爬虫)",
+      "name": "追剧(爬虫)",
       "type": 3,
       "api": "csp_ZJMiao",
       "searchable": 1,
