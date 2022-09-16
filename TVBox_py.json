@@ -51,14 +51,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_cyys.py"
     },
     {
-      "key": "py_bdys01.py",
-      "name": "哔滴(py)",
+      "key": "py_jubaibai.py",
+      "name": "剧白白(py)",
       "type": 3,
-      "api": "py_bdys01.py",
+      "api": "py_jubaibai.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/py/bdys01.py"
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_jubaibai.py"
     },    
     {
       "key": "Kuaikan",
