@@ -95,7 +95,7 @@
     },
     {
       "key": "Lib",
-      "name": "Libvio(爬虫)",
+      "name": "利奥(爬虫)",
       "type": 3,
       "api": "csp_Lib",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
     {
       "key": "看视界",
-      "name": "看视界(爬虫)",
+      "name": "视界(爬虫)",
       "type": 3,
       "api": "csp_KanSJ",
       "searchable": 1,
@@ -149,7 +149,7 @@
     },
     {
       "key": "追剧喵",
-      "name": "追剧喵(爬虫)",
+      "name": "追剧(爬虫)",
       "type": 3,
       "api": "csp_ZJMiao",
       "searchable": 1,
@@ -168,7 +168,7 @@
     },
     {
       "key": "Dy555",
-      "name":"五五五(爬虫)",
+      "name":"三五(爬虫)",
       "type": 3,
       "api": "csp_Dy555",
       "searchable": 1,
