@@ -45,8 +45,8 @@
       "name": "B站(带搜索)",
       "type": 3,
       "api": "py_bilivd",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilivd.py"
     },
