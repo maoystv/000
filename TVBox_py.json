@@ -12,7 +12,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "🇨🇳央视(py)",
+      "name": "央视CCTV(py)",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
