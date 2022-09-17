@@ -41,15 +41,25 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilimd.py"
     },
     {
-      "key": "py_bilibili_hj",
-      "name": "音乐合集",
+      "key": "py_bilivd",
+      "name": "B站(带搜索)",
       "type": 3,
-      "api": "py_bilibili",
+      "api": "py_bilivd",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilibili_hj.py"
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilivd"
     },
+    {
+      "key": "py_3qu",
+      "name": "快播",
+      "type": 3,
+      "api": "py_3qu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_3qu.py"
+    },    
     {
       "key": "py_czspp",
       "name": "厂长",
@@ -62,7 +72,7 @@
     },    
     {
       "key": "py_cyys.py",
-      "name": "创艺影视(py)",
+      "name": "创艺(py)",
       "type": 3,
       "api": "py_cyys.py",
       "searchable": 0,
@@ -79,6 +89,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_jubaibai.py"
+    },
+      "key": "py_gitcafe",
+      "name": "小纸条(py)",
+      "type": 3,
+      "api": "py_gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_gitcafe"
     },    
     {
       "key": "七七",
