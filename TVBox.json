@@ -277,14 +277,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/聚合短视频.js"
     },
     {
-      "key": "csp_XYQBiu_剧荒",
-      "name": "剧荒影院(XYQ)",
+      "key": "csp_XYQBiu_云雀视频",
+      "name": "云雀视频(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/云雀视频.json"
     },
     {
       "key": "csp_XYQBiu_影视工厂",
@@ -295,6 +295,26 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/影视工厂.json"
+    },
+    {
+      "key": "csp_XYQBiu_87影视",
+      "name": "霸气影院(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/87影视N.json"
+    },
+    {
+      "key": "csp_XYQBiu_vofix",
+      "name": "VOFIX(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/vofix.json"
     },    
     {
       "key": "csp_XYQBiu_酷狗mv",
@@ -367,6 +387,16 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/人人影视.json"
     },
     {
+      "key": "歪片星球",
+      "name": "歪片星球(XB)️",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/歪片星球.json"
+    },    
+    {
       "key": "csp_xpath_6d",
       "name": "六度影院(XPM)",
       "type": 3,
@@ -385,33 +415,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/XP/007.json"
-    },
-    {
-      "key":"dr_菜狗",
-      "name":"🕋菜狗",
-      "type":1,
-      "api":"https://drpy.aqingyuan.repl.co/vod?rule=菜狗",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0
-    },
-    {
-      "key":"dr_奇珍异兽",
-      "name":"🕋奇珍异兽",
-      "type":1,
-      "api":"https://drpy.aqingyuan.repl.co/vod?rule=奇珍异兽",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0
-    },
-    {
-      "key":"dr_腾云驾雾",
-      "name":"🕋腾云驾雾",
-      "type":1,
-      "api":"https://drpy.aqingyuan.repl.co/vod?rule=腾云驾雾",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0
     },
     {
       "key": "美剧虫",
@@ -542,6 +545,14 @@
       "quickSearch":1
     },
     {
+      "key": "樱花资源",
+      "name": "樱花资源(切)",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },    
+    {
       "key": "番茄资源",
       "name": "番茄资源(切)",
       "type": 1,
@@ -559,6 +570,70 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "酷点资源",
+      "name": "酷点资源(切)",
+      "type": 1,
+      "api": "https://kudianzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "量子资源",
+      "name": "量子资源(切)",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },    
+    {
+      "key": "速更资源",
+      "name": "速更资源(切)",
+      "type": 1,
+      "api": "https://sugengzy.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "闪电资源",
+      "name": "闪电资源(切)",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "飞速资源",
+      "name": "飞速资源(切)",
+      "type": 1,
+      "api": "https://www.feisuzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "光速资源",
+      "name": "光速资源(切)",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "新浪资源",
+      "name": "新浪资源(切)",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "快播资源",
+      "name": "快播资源(切)",
+      "type": 1,
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
     },    
     {
       "key":"pwd_影库资源",
