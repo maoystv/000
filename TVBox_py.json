@@ -12,7 +12,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "央视CCTV(py)",
+      "name": "CN央视",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -89,17 +89,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_alist.py"
-    },     
-    {
-      "key": "py_LA.py",
-      "name": "小红鸟(py)",
-      "type": 3,
-      "api": "py_LA.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/py/LA.py"
-    },    
+    },        
     {
       "key": "Kuaikan",
       "name": "快看(爬虫)",
@@ -377,44 +367,34 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/聚合短视频.js"
     },
     {
-      "key": "csp_XYQBiu_剧荒",
-      "name": "剧荒影院(XYQ)",
+      "key": "csp_XYQBiu_特狗影视",
+      "name": "特狗影视(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/特狗影视.json"
     },
     {
-      "key": "csp_XYQBiu_凌云影视",
-      "name": "凌云影视(XYQ)",
+      "key": "csp_XYQBiu_87影视",
+      "name": "霸气影院(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/凌云影视.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/87影视N.json"
     },
     {
-      "key": "csp_XYQBiu_23yy",
-      "name": "二三影视(XYQ)",
+      "key": "csp_XYQBiu_vofix",
+      "name": "VOFIX(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/23ys.json"
-    },
-    {
-      "key": "csp_XYQBiu_酷蚂蚁",
-      "name": "酷蚂蚁(XYQ)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/酷蚂蚁.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/vofix.json"
     },    
     {
       "key": "csp_XYQBiu_酷狗mv",
