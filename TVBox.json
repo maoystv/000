@@ -570,7 +570,23 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },    
+    },
+    {
+      "key":"*乐播资源",
+      "name":"🐾乐播资源",
+      "type":1,
+      "api":"https://lbapi9.com/api.php/provide/vod/",
+      "searchable":0,
+      "quickSearch":0
+    },
+    {
+      "key":"*秀色资源",
+      "name":"🐾秀色资源",
+      "type":1,
+      "api":"https://api.xiuseapi.com/api.php/provide/vod/",
+      "searchable":0,
+      "quickSearch":0
+    },
     {
       "key": "csp_xpath_cls",
       "name": "🍭磁力搜索(XP)",
