@@ -12,7 +12,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "CN央视",
+      "name": "cn央视",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -42,7 +42,7 @@
     },
     {
       "key": "py_3qu",
-      "name": "快播",
+      "name": "快播影院",
       "type": 3,
       "api": "py_3qu",
       "searchable": 1,
@@ -52,7 +52,7 @@
     },    
     {
       "key": "py_czspp",
-      "name": "厂长",
+      "name": "厂长资源",
       "type": 3,
       "api": "py_czspp",
       "searchable": 1,
@@ -62,7 +62,7 @@
     },    
     {
       "key": "py_cyys",
-      "name": "创艺",
+      "name": "创艺影视",
       "type": 3,
       "api": "py_cyys",
       "searchable": 0,
@@ -349,7 +349,7 @@
     },
     {
       "key": "在线直播",
-      "name": "在线直播(爬虫)",
+      "name": "直播合集(爬虫)",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -367,14 +367,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/聚合短视频.js"
     },
     {
-      "key": "csp_XYQBiu_特狗影视",
-      "name": "特狗影视(XYQ)",
+      "key": "csp_XYQBiu_云雀视频",
+      "name": "云雀视频(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/特狗影视.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/云雀视频.json"
     },
     {
       "key": "csp_XYQBiu_87影视",
@@ -467,14 +467,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
     },
     {
-      "key": "csp_xpath_旧梦影视",
-      "name": "旧梦影视(XPF)️",
+      "key": "歪片星球",
+      "name": "歪片星球(XB)️",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XP/旧梦影视.json"
+      "filterable": 0,
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/歪片星球.json"
     },
     {
       "key": "csp_xpath_6d",
