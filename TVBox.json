@@ -9,27 +9,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/Bili.json"
-    },
-    {
-	  "key": "py_cctv",
-	  "name": "🇨🇳央视(py)",
-	  "type": 3,
-	  "api": "py_cctv",
-	  "searchable": 0,
-	  "quickSearch": 0,
-	  "filterable": 1,
-	  "ext": "https://notabug.org/wzs888/test/raw/master/py/py_cctv.py"
-	},
-    {
-	  "key": "py_bilibili",
-	  "name": "哔哩哔哩(py)",
-	  "type": 3,
-	  "api": "py_bilibili",
-	  "searchable": 0,
-	  "quickSearch": 0,
-	  "filterable": 1,
-	  "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilibili.py"
-	},    
+    },   
     {
       "key": "Kuaikan",
       "name": "快看(爬虫)",
@@ -269,7 +249,7 @@
     },
     {
       "key":"csp_Alist3",
-      "name":"Alist_合集网盘",
+      "name":"Alist_网盘",
       "type": 3,
       "api":"csp_Alist",
       "searchable": 1,
@@ -288,8 +268,8 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/ali.txt"
     },
     {
-      "key": "在线直播",
-      "name": "在线直播(爬虫)",
+      "key": "直播合集",
+      "name": "直播合集(爬虫)",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -298,7 +278,7 @@
     },    
     {
       "key":"csp_XYQBiu_短视频",
-      "name":"短视频(YXQ)",
+      "name":"视频分享(YXQ)",
       "type":3,
       "api":"csp_XYQBiu",
       "searchable":0,
@@ -317,38 +297,28 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/剧荒.json"
     },
     {
-      "key": "csp_XYQBiu_凌云影视",
-      "name": "凌云影视(XYQ)",
+      "key": "csp_XYQBiu_冷曦影视",
+      "name": "冷曦影视(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/凌云影视.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/冷曦影视.json"
     },
     {
-      "key": "csp_XYQBiu_23yy",
-      "name": "二三影视(XYQ)",
+      "key": "csp_XYQBiu_影视工厂",
+      "name": "影视工厂(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/23ys.json"
-    },
-    {
-      "key": "csp_XYQBiu_酷蚂蚁",
-      "name": "酷蚂蚁(XYQ)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/酷蚂蚁.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XYQBiu/影视工厂.json"
     },    
     {
       "key": "csp_XYQBiu_酷狗mv",
-      "name":"酷狗mv(XYQ)",
+      "name":"酷狗MV(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -407,28 +377,18 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/XB/2345影视.json"
     },
     {
-      "key": "ysgc",
-      "name": "影视工厂(XB)",
+      "key": "rrys",
+      "name": "人人影视(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/XB/影视工厂.json"
-    },
-    {
-      "key":"csp_biubiu_旧梦影视",
-      "name":"旧梦影视(XB)",
-      "type":3,
-      "api":"csp_XBiubiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://notabug.org/wzs888/test/raw/master/XB/旧梦影视.json"
+      "ext": "https://notabug.org/wzs888/test/raw/master/XB/人人影视.json"
     },
     {
       "key": "csp_xpath_6d",
-      "name": "六度TV(XPM)",
+      "name": "六度影院(XPM)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -465,16 +425,6 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"https://notabug.org/wzs888/test/raw/master/XP/电影牛.json"
-    },
-    {
-      "key":"csp_xpath_lenxi",
-      "name":"冷曦影视(XPM)",
-      "type":3,
-      "api":"csp_XPathMacFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://notabug.org/wzs888/test/raw/master/XP/lenxi.json"
     },
     {
       "key": "9E03",
@@ -612,6 +562,15 @@
       "quickSearch":1,
       "filterable":0
     },
+    {
+      "key": "酷伦理",
+      "name": "🐾酷伦理",
+      "type": 1,
+      "api": "https://api.kudian70.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
     {
       "key": "csp_xpath_cls",
       "name": "🍭磁力搜索(XP)",
