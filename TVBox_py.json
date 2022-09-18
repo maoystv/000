@@ -21,18 +21,8 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_cctv.py"
     },
     {
-      "key": "py_bilibili",
-      "name": "哔哩哔哩(py)",
-      "type": 3,
-      "api": "py_bilibili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_bilibili.py"
-    },
-    {
       "key": "py_bilimd.py",
-      "name": "B站影视(py)",
+      "name": "B站影视",
       "type": 3,
       "api": "py_bilimd.py",
       "searchable": 1,
@@ -42,7 +32,7 @@
     },
     {
       "key": "py_bilivd",
-      "name": "B站(带搜索)",
+      "name": "哔哩哔哩",
       "type": 3,
       "api": "py_bilivd",
       "searchable": 1,
@@ -71,25 +61,35 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_czspp.py"
     },    
     {
-      "key": "py_cyys.py",
-      "name": "创艺(py)",
+      "key": "py_cyys",
+      "name": "创艺",
       "type": 3,
-      "api": "py_cyys.py",
+      "api": "py_cyys",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_cyys.py"
     },
     {
-      "key": "py_jubaibai.py",
-      "name": "剧白白(py)",
+      "key": "py_jubaibai",
+      "name": "剧白白",
       "type": 3,
-      "api": "py_jubaibai.py",
+      "api": "py_jubaibai",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_jubaibai.py"
     },
+    {
+      "key": "py_alist",
+      "name": "Alist_网盘",
+      "type": 3,
+      "api": "py_alist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_alist.py"
+    },     
     {
       "key": "py_gitcafe",
       "name": "小纸条(py)",
