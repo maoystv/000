@@ -91,14 +91,14 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/py/py_alist.py"
     },     
     {
-      "key": "py_gitcafe",
-      "name": "小纸条(py)",
+      "key": "py_LA.py",
+      "name": "小红鸟(py)",
       "type": 3,
-      "api": "py_gitcafe",
+      "api": "py_LA.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://notabug.org/wzs888/test/raw/master/py/py_gitcafe.py"
+      "ext": "https://notabug.org/wzs888/test/raw/master/py/LA.py"
     },    
     {
       "key": "Kuaikan",
