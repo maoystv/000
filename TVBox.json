@@ -156,7 +156,7 @@
         },
         {
             "key": "csp_Wmkk",
-            "name": "💯完美(爬虫)",
+            "name": "完美(爬虫)",
             "api": "csp_Wmkk",
             "type": 3,
             "searchable": 1,
@@ -343,7 +343,7 @@
         },
         {
             "key": "多多",
-            "name": "多多资源",
+            "name": "多多资源(优)",
             "type": 1,
             "api": "https://www.ddzyz1.com/api.php/provide/vod/",
             "searchable": 1,
@@ -668,17 +668,26 @@
             "api":"https://api.ykapi.net/api.php/provide/vod/at/json",
             "searchable":1,
             "quickSearch":1
-        },
-        {
-            "key":"myg",
-            "name":"Myg资源",
+         },
+         {
+            "key":"sm",
+            "name":"猫资源",
             "type":0,
-            "api":"http://mygzycj.com/api.php?ac=videolist",
+            "api":"https://api.maozyapi.com/inc/apijson_vod.php",
             "searchable":1,
             "quickSearch":1,
             "filterable":0
-        },
-        {
+         },
+         {
+            "key":"lebo",
+            "name":"乐播资源",
+            "type":0,
+            "api":"https://lbapi9.com/api.php/provide/vod/at/json/",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+         },         
+         {
             "key": "T4a",
             "name": "📡T4聚合",
             "type": 4,
@@ -686,8 +695,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {    
+         },
+         {    
             "key": "csp_xpath_cls",
             "name": "🧲磁力搜索",
             "type": 3,
@@ -696,8 +705,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "{\r\n\"ua\": \"\",\r\n\"dtUrl\": \"https://1024bt25.xyz{vid}\",\r\n\"dtNode\": \"//div[@id='content']\",\r\n\"dtName\": \"//h2/text()\",\r\n\"dtNameR\": \"\",\r\n\"dtImg\": \"/@null\",\r\n\"dtCate\": \"concat(//tbody/td[1]//text())\",\r\n\"dtCateR\": \"\",\r\n\"dtYear\": \"concat(//tbody/td[2]//text())\",\r\n\"dtYearR\": \"\",\r\n\"dtDesc\": \"concat(//ol//text(),'')\",\r\n\"dtDescR\": \"\",\r\n\"dtFromNode\": \"//div[@id='wall']\",\r\n\"dtFromName\": \"concat('磁力链接','')\",\r\n\"dtFromNameR\": \"\",\r\n\"dtUrlNode\": \"//div[@id='magnet']\",\r\n\"dtUrlSubNode\": \"//a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"{playUrl}\",\r\n\"playUa\": \"\",\r\n\"searchUrl\": \"https://1024bt25.xyz/main-search-kw-{wd}-length-1.html\",\r\n\"scVodNode\": \"//div[@class='item-title']/h3/a\",\r\n\"scVodName\": \"/@title\",\r\n\"scVodId\": \"/@href\",\r\n\"scVodIdR\": \"\",\r\n\"scVodImg\": \"/@null\",\r\n\"scVodImgR\": \"\",                        \r\n  \"scVodMark\": \"\"\r\n}"
-        },
-        {
+         },
+         {
             "key": "zhaozy",
             "name": "🔍找资源",
             "type": 3,
@@ -706,8 +715,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
-        },
-        {
+         },
+         {
             "key": "AliPS",
             "name": "📀盘搜",
             "type":3,
@@ -716,8 +725,8 @@
             "quickSearch":1,
             "filterable":1,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
-        },
-        {
+         },
+         {
             "key": "Yiso",
             "name": "🎯易搜",
             "type": 3,
@@ -726,8 +735,8 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
-        },
-        {
+         },
+         {
             "key": "推送",
             "name": "🛒推送",
             "type":3,
@@ -736,7 +745,7 @@
             "quickSearch":0,
             "filterable":0,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
-        }
+         }
     ],
        "lives":[
     {"group":"redirect","channels":[
