@@ -54,16 +54,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1
-        },
-        {
-            "key": "csp_Kmys",
-            "name": "酷猫(爬虫)",
-            "type": 3,
-            "api": "csp_Kmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },     
+        },    
         {
             "key": "神马影院",
             "name": "神马(爬虫)",
@@ -153,24 +144,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "csp_Tkys",
-            "name": "天空(爬虫)",
-            "type": 3,
-            "api": "csp_Tkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Wmkk",
-            "name": "完美(爬虫)",
-            "api": "csp_Wmkk",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "555",
@@ -672,7 +645,7 @@
          },
          {
             "key":"影库资源",
-            "name":"影库资源(切)",
+            "name":"※影库资源",
             "type":1,
             "api":"https://api.ykapi.net/api.php/provide/vod/at/json",
             "searchable":1,
@@ -680,7 +653,7 @@
          },
          {
             "key":"秀色资源",
-            "name":"秀色资源",
+            "name":"※秀色资源",
             "type":0,
             "api":"https://api.xiuseapi.com/api.php/provide/vod/",
             "searchable":1,
@@ -689,7 +662,7 @@
          },
          {
             "key":"环亚",
-            "name":"环亚资源",
+            "name":"※环亚资源",
             "type":0,
             "api":"http://wmcj8.com/inc/sapi.php",
             "searchable":1,
