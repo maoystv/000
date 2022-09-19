@@ -683,9 +683,9 @@
             "name":"秀色资源",
             "type":0,
             "api":"https://api.xiuseapi.com/api.php/provide/vod/",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
          },
          {
             "key":"环亚",
@@ -1074,6 +1074,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-       "spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/0917.jar;md5;A20D905572096E70FE12FDB3B5BAFAFA"
-       //"spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/999.jar;md5;12730AC72524422555A034DC8DEE8B57"
+       "spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/999.jar;md5;12730AC72524422555A034DC8DEE8B57"
 }
