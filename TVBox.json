@@ -277,7 +277,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/QXB/小强迷.json",
-            "jar": ""
+            "jar": "https://agit.ai/wzs1973/test/raw/branch/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C"
         },
         {
             "key":"csp_QXBiubiu_歪片星球",
@@ -288,7 +288,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://agit.ai/wzs1973/test/raw/branch/master/QXB/歪片星球.json",
-            "jar": ""
+            "jar": "https://agit.ai/wzs1973/test/raw/branch/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C"
         }, 
         {
             "key": "饭团影视",
@@ -679,19 +679,19 @@
             "quickSearch":1
          },
          {
-            "key":"sm",
-            "name":"猫资源",
+            "key":"秀色资源",
+            "name":"秀色资源",
             "type":0,
-            "api":"https://api.maozyapi.com/inc/apijson_vod.php",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
+            "api":"https://api.xiuseapi.com/api.php/provide/vod/",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1
          },
          {
-            "key":"lebo",
-            "name":"乐播资源",
+            "key":"环亚",
+            "name":"环亚资源",
             "type":0,
-            "api":"https://lbapi9.com/api.php/provide/vod/at/json/",
+            "api":"http://wmcj8.com/inc/sapi.php",
             "searchable":1,
             "quickSearch":1,
             "filterable":0
