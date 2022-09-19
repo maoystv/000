@@ -227,7 +227,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
         },
         {
             "key":"csp_bendi",
@@ -240,24 +240,24 @@
             "type_flag":1
         },
         {
-           "key": "csp_XYQBiu_酷狗mv",
-           "name":"酷狗MV(XYQ)",
-           "type": 3,
-           "api": "csp_XYQBiu",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 0,
-           "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XYQ/酷狗mv.json"
+            "key": "csp_XYQBiu_酷狗mv",
+            "name":"酷狗MV(XYQ)",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XYQ/酷狗mv.json"
         },
         {
-           "key": "csp_XYQBiu_87影视",
-           "name": "霸气影院(XYQ)",
-           "type": 3,
-           "api": "csp_XYQBiu",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 0,
-           "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XYQ/87影视N.json"
+            "key": "csp_XYQBiu_87影视",
+            "name": "霸气影院(XYQ)",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XYQ/87影视N.json"
         },
         {
             "key": "csp_QXBiubiu_小强影迷",
@@ -705,7 +705,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
         },
         {
             "key": "AliPS",
@@ -715,7 +715,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
         },
         {
             "key": "Yiso",
@@ -725,7 +725,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
         },
         {
             "key": "推送",
@@ -735,7 +735,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
         }
     ],
        "lives":[
