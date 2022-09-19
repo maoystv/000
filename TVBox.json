@@ -56,6 +56,15 @@
             "searchable": 1
         },
         {
+            "key": "csp_Kmys",
+            "name": "酷猫(爬虫)",
+            "type": 3,
+            "api": "csp_Kmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },     
+        {
             "key": "神马影院",
             "name": "神马(爬虫)",
             "type": 3,
@@ -268,7 +277,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/QXB/小强迷.json",
-            "jar": "https://agit.ai/wzs1973/test/raw/branch/master/jar/QXBiubiu.jar"
+            "jar": ""
         },
         {
             "key":"csp_QXBiubiu_歪片星球",
@@ -279,7 +288,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://agit.ai/wzs1973/test/raw/branch/master/QXB/歪片星球.json",
-            "jar": "https://agit.ai/wzs1973/test/raw/branch/master/jar/QXBiubiu.jar"
+            "jar": ""
         }, 
         {
             "key": "饭团影视",
@@ -1065,5 +1074,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-       "spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/999.jar;md5;12730AC72524422555A034DC8DEE8B57"
+       "spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/0917.jar;md5;A20D905572096E70FE12FDB3B5BAFAFA"
+       //"spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/999.jar;md5;12730AC72524422555A034DC8DEE8B57"
 }
