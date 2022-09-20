@@ -284,7 +284,7 @@
         }, 
         {
             "key": "饭团影视",
-            "name": "饭团影视(XB)",
+            "name": "饭团影视",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -294,7 +294,7 @@
         },
         {
             "key": "蓝光影院",
-            "name": "蓝光影院(XB)",
+            "name": "蓝光影院",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -304,7 +304,7 @@
         },
         {
             "key": "ysgc",
-            "name": "影视工厂(XB)",
+            "name": "影视工厂",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -314,7 +314,7 @@
         },
         {
             "key": "人人影视",
-            "name": "人人影视(XB)",
+            "name": "人人影视",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -324,7 +324,7 @@
         },
         {
             "key": "搜狗影院",
-            "name": "搜狗影院(XB)",
+            "name": "搜狗影院",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -334,7 +334,7 @@
         },
         {
             "key": "酷云影院",
-            "name": "酷云影院(XB)",
+            "name": "酷云影院",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -344,7 +344,7 @@
         },       
         {
             "key": "0855影视",
-            "name": "0855影视(XB)",
+            "name": "0855影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -353,18 +353,28 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/0855影视.json"
         },
         {
-            "key": "多多",
-            "name": "多多资源(优)",
-            "type": 1,
-            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+            "key": "voflix",
+            "name": "voflix HD",
+            "type": 3,
+            "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
+            "filterable": 0,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/voflix.json"
         },
         {
+            "key": "茶杯狐",
+            "name": "茶杯狐",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/茶杯狐.json"
+        },      
+        {
             "key":"csp_xpath_naifeiorg",
-            "name":"奈飞中文(XP)",
+            "name":"奈飞中文",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -374,7 +384,7 @@
         },
         {
             "key":"冷曦影视",
-            "name": "冷曦影视(XP)",
+            "name":"冷曦影视",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -384,7 +394,7 @@
         },       
         {
             "key":"美剧网",
-            "name": "美剧网(XP)",
+            "name": "美剧网",
             "type":3,
             "api":"csp_XPathFilter",
             "searchable":1,
@@ -394,7 +404,7 @@
         },        
         {
             "key":"csp_xpath_dianyingn",
-            "name": "电影牛(XP)",
+            "name": "电影牛",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -404,7 +414,7 @@
         },
         {
             "key":"csp_xpath_dandanzan",
-            "name": "蛋蛋赞(XP)",
+            "name": "蛋蛋赞",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -414,7 +424,7 @@
         },
         {
             "key": "csp_xpath_6d",
-            "name": "六度影视(XP)",
+            "name": "六度TV",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -529,13 +539,23 @@
         {
             "key": "9E03",
             "name": "9️⃣9E03",
-              "type": 3,
-              "api": "csp_AppYsV2",
-              "searchable": 1,
-              "quickSearch": 1,
-              "filterable": 1,
-              "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
          },
+         {
+            "key": "多多",
+            "name": "多多资源(优)",
+            "type": 1,
+            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
+         },        
          {
              "key": "量子资源",
              "name": "量子资源(切)",
