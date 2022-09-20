@@ -65,6 +65,15 @@
             "filterable": 1
         },
         {
+            "key": "小熊影院",
+            "name": "小熊(爬虫)",
+            "type": 3,
+            "api": "csp_Xxys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },       
+        {
             "key": "剧荒",
             "name": "剧荒(爬虫)",
             "type": 3,
@@ -93,7 +102,7 @@
         },
         {
             "key": "Bttoo",
-            "name": "Bttoo(爬虫)",
+            "name": "BTtwo(爬虫)",
             "api":"csp_Bttoo",
             "type":3,
             "filterable":1,
@@ -232,6 +241,16 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XYQ/酷狗mv.json"
         },
         {
+            "key": "csp_XYQBiu_凌云影视",
+            "name": "凌云影视(XYQ)",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XYQ/凌云影视.json"
+        },        
+        {
             "key": "csp_XYQBiu_87影视",
             "name": "霸气影院(XYQ)",
             "type": 3,
@@ -345,7 +364,7 @@
         },
         {
             "key":"csp_xpath_naifeiorg",
-            "name":"🀄️奈飞中文(XP)",
+            "name":"奈飞中文(XP)",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -353,6 +372,26 @@
             "filterable":1,
             "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/naifeiorg.json"
         },
+        {
+            "key":"冷曦影视",
+            "name": "冷曦影视(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/lenxi.json"
+        },       
+        {
+            "key":"美剧网",
+            "name": "美剧网(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/meiju56.json"
+        },        
         {
             "key":"csp_xpath_dianyingn",
             "name": "电影牛(XP)",
