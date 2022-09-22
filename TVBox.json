@@ -62,7 +62,8 @@
             "api":"csp_NianYing",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":1,
+            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/sn5gxhq9.jar;md5;c29c1ee624fc82de3432cc78825209b4"
         },
         {
             "key":"csp_Xifanys",
