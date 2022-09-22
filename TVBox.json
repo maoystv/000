@@ -56,16 +56,6 @@
             "searchable": 1
         },
         {
-            "key":"csp_NianYing",
-            "name":"NianYing(爬虫)",
-            "type":3,
-            "api":"csp_NianYing",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/sn5gxhq9.jar;md5;c29c1ee624fc82de3432cc78825209b4"
-        },
-        {
             "key":"csp_Xifanys",
             "name":"稀饭(爬虫)",
             "type":3,
@@ -384,7 +374,7 @@
         },
         {
             "key": "voflix",
-            "name": "voflix HD",
+            "name": "voflixHD",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
