@@ -304,6 +304,16 @@
             "filterable": 1
         },
         {
+            "key":"csp_Xifanys",
+            "name":"稀饭影视",
+            "type":3,
+            "api":"csp_Xifanys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"
+        },
+        {
             "key": "日漫",
             "name": "日本動漫",
             "type": 3,
@@ -414,16 +424,6 @@
             ]
         },
         {
-            "key": "csp_xpath_clss",
-            "name": "🧲磁力搜索",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/cls.json"
-        },
-        {
             "key":"美剧网",
             "name":"美剧天堂",
             "type":3,
@@ -484,7 +484,7 @@
         },
         {
             "key":"csp_xpath_qiumi",
-            "name": "⚽球迷",
+            "name": "⚽🏀球迷",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -503,44 +503,14 @@
             "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XYQ/酷狗mv.json"
         },
         {
-            "key": "py_zhaozy",
-            "name": "找资源",
-            "type": 3,
-            "api": "py_zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_zhaozy.py"
-        },
-        {
-            "key": "py_pansou",
-            "name": "盘搜",
-            "type":3,
-            "api":"py_pansou",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_pansou.py"
-        },
-        {
-            "key": "py_yiso",
-            "name": "易搜",
-            "type": 3,
-            "api": "py_yiso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_yiso.py"
-        },
-        {
-            "key": "csp_xpath_dm84",
+            "key": "csp_Dm84",
             "name": "动漫巴士",
             "type":3,
-            "api":"csp_XPathFilter",
+            "api":"csp_Dm84",
             "searchable":1,
             "quickSearch":1,
-            "filterable":0,
-            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/dm84.json"
+            "filterable":1,
+            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"
         }, 
         {
             "key": "饭团影视",
@@ -563,14 +533,14 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/蓝光影院.json"
         },
         {
-            "key": "ysgc",
+            "key": "csp_Ysgc",
             "name": "影视工厂",
             "type": 3,
-            "api": "csp_XBiubiu",
+            "api": "csp_Ysgc",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/影视工厂.json"
+            "filterable": 1,
+            "jar": "https://agit.ai/wzs1973/test/raw/branch/master/jar/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"
         },
         {
             "key": "人人影视",
@@ -595,22 +565,22 @@
         {
             "key": "9E03",
             "name": "9️⃣9E03",
-              "type": 3,
-              "api": "csp_AppYsV2",
-              "searchable": 1,
-              "quickSearch": 1,
-              "filterable": 1,
-              "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
-             "key": "多多",
-             "name": "多多资源",
-           "type": 1,
-           "api": "https://www.ddzyz1.com/api.php/provide/vod/",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
+            "key": "多多",
+            "name": "多多资源",
+            "type": 1,
+            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
         },
         {
             "key":"0855影视",
@@ -644,7 +614,7 @@
         },
         {
             "key":"csp_xpath_dianyingn",
-            "name": "电影牛",
+            "name": "🐄电影牛",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -654,7 +624,7 @@
         },
         {
             "key": "csp_xpath_dandanzan",
-            "name": "蛋蛋赞",
+            "name": "🥚蛋蛋赞",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -702,6 +672,46 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/九亿国语.json"
         },
         {
+            "key": "py_zhaozy",
+            "name": "找资源",
+            "type": 3,
+            "api": "py_zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_zhaozy.py"
+        },
+        {
+            "key": "py_pansou",
+            "name": "盘搜",
+            "type":3,
+            "api":"py_pansou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_pansou.py"
+        },
+        {
+            "key": "py_yiso",
+            "name": "易搜",
+            "type": 3,
+            "api": "py_yiso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_yiso.py"
+        },
+        {
+            "key": "csp_xpath_clss",
+            "name": "磁力搜索",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/cls.json"
+        },      
+        {
             "key": "push_agent",
             "name": "阿里推送",
             "type":3,
@@ -720,17 +730,7 @@
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
-    {"name":"Json轮询","type":2,"url":"Sequence"},
-    { 
-      "name":"TV293",
-      "type":1,
-      "url": "http://home.jundie.top:666/tv293.php?url="
-    },
-    {
-      "name":"泡沫",
-      "type":1,
-      "url": "https://jx.paoomo.com/jiami.php?url="
-    },    
+    {"name":"Json轮询","type":2,"url":"Sequence"},    
     {
       "name":"HF影视",
       "type":1,
@@ -753,7 +753,12 @@
         "wuduzy"
        ]
       }
-    },   
+    },
+    {
+      "name":"泡沫",
+      "type":1,
+      "url": "https://jx.paoomo.com/jiami.php?url="
+    },    
     {
       "name": "江湖",
       "type": 1,
