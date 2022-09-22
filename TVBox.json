@@ -486,8 +486,8 @@
             "name": "📝学习园地",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/B站课堂.json"
         },
@@ -815,11 +815,6 @@
         "wuduzy"
        ]
       }
-    },
-    {
-      "name":"爱豆",
-      "type":1,
-      "url":"http://id190.tpddns.cn:81/jsonch/?url="
     },  
     {
       "name": "江湖",
