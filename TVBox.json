@@ -323,14 +323,14 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/蓝光影院.json"
         },
         {
-            "key": "ysgc",
-            "name": "影视工厂",
+            "key": "骚火电影",
+            "name": "骚火电影",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/影视工厂.json"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/骚火电影.json"
         },
         {
             "key": "人人影视",
