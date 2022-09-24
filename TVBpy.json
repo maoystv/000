@@ -132,24 +132,24 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_cokemv.py"
         },
         {
-            "key": "py_gitcafe",
+            "key": "Gitcafe",
             "name": "🔖小纸条",
             "type": 3,
-            "api": "py_gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_gitcafe.py"
-        },
-        {
-            "key": "py_alist",
-            "name": "🗂Alist",
-            "type": 3,
-            "api": "py_alist",
+            "api": "csp_Gitcafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_alist.py"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
+        },
+        {
+            "key": "Alist",
+            "name": "🗂Alist",
+            "type": 3,
+            "api": "csp_Alist",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/Alist.json"
         },
         {
             "key": "77",
@@ -342,33 +342,6 @@
             "filterable": 1
         },
         {
-            "key":"csp_QQ",
-            "name":"🐧腾讯视频",
-            "type":3,
-            "api":"csp_QQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"csp_MGTV",
-            "name":"🥭芒果TV",
-            "type":3,
-            "api":"csp_MGTV",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"csp_IQIYI",
-            "name":"🥝爱奇艺",
-            "type":3,
-            "api":"csp_IQIYI",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key": "youku",
             "name": "👑优酷",
             "type": 0,
@@ -521,7 +494,27 @@
             "quickSearch":1,
             "filterable":1,
             "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"
-        }, 
+        },
+        {
+            "key":"凌云影视",
+            "name":"凌云影视",
+            "type":3,
+            "api":"csp_XYQBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XYQ/凌云影视.json"
+        },        
+        {
+            "key": "小强影迷",
+            "name": "小强影迷",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XB/小强影迷.json"
+        },
         {
             "key": "饭团影视",
             "name": "饭团影视",
@@ -531,7 +524,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XB/饭团影视.json"
-        },
+        },        
         {
             "key": "蓝光影院",
             "name": "蓝光影院",
@@ -543,15 +536,35 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/蓝光影院.json"
         },
         {
-            "key": "csp_Ysgc",
+            "key": "影视工厂",
             "name": "影视工厂",
             "type": 3,
-            "api": "csp_Ysgc",
+            "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://agit.ai/wzs1973/test/raw/branch/master/jar/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"
+            "filterable": 0,
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/影视工厂.json"
         },
+        {
+            "key": "骚火电影",
+            "name": "骚火电影",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XB/骚火电影.json"
+        }, 
+        {
+            "key": "酷云影院",
+            "name": "酷云影院",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XB/酷云影院.json"
+        },         
         {
             "key": "人人影视",
             "name": "人人影视",
@@ -673,7 +686,7 @@
         },
         {
             "key": "csp_xpath_9eguoyu",
-            "name": "9亿国语",
+            "name": "👸9亿国语",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -682,34 +695,43 @@
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XP/九亿国语.json"
         },
         {
-            "key": "py_zhaozy",
-            "name": "找资源",
+            "key":"影库资源",
+            "name":"影库资源",
+            "type":1,
+            "api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },       
+        {
+            "key": "zhaozy",
+            "name": "🔍找资源",
             "type": 3,
-            "api": "py_zhaozy",
+            "api": "csp_FindZY",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_zhaozy.py"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
         },
         {
-            "key": "py_pansou",
-            "name": "盘搜",
+            "key": "AliPS",
+            "name": "📀盘搜",
             "type":3,
-            "api":"py_pansou",
+            "api":"csp_AliPS",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_pansou.py"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
         },
         {
-            "key": "py_yiso",
-            "name": "易搜",
+            "key": "Yiso",
+            "name": "🎯易搜",
             "type": 3,
-            "api": "py_yiso",
+            "api": "csp_Yiso",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/plugin/py_yiso.py"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
         },
         {
             "key": "csp_xpath_clss",
