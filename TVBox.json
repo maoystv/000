@@ -74,16 +74,6 @@
             "quickSearch":1,
             "filterable":1,
             "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/xifan.jar;md5;447aeb4bff648a8090225dd29bc225af"
-        },
-        {
-            "key":"csp_NianYing",
-            "name":"NianYing(爬虫)",
-            "type":3,
-            "api":"csp_NianYing",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/0910.jar;md5;bf399b7093d34261f759be43e04232ed"
         },        
         {
             "key": "神马影院",
@@ -248,7 +238,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
+            "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
         },
         {
             "key":"csp_bendi",
@@ -298,8 +288,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/QXB/小强迷.json",
-            "jar": "https://agit.ai/wzs1973/test/raw/branch/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C"
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/QXB/小强迷.json"           
         },
         {
             "key":"csp_QXBiubiu_歪片星球",
@@ -309,8 +298,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/QXB/歪片星球.json",
-            "jar": "https://agit.ai/wzs1973/test/raw/branch/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C"
+            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/QXB/歪片星球.json"           
         }, 
         {
             "key": "饭团影视",
@@ -402,16 +390,6 @@
             "filterable": 0,
             "ext": "https://agit.ai/wzs1973/test/raw/branch/master/XB/茶杯狐.json"
         },      
-        {
-            "key":"csp_xpath_naifeiorg",
-            "name":"奈飞中文",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XP/naifeiorg.json"
-        },
         {
             "key":"冷曦影视",
             "name":"冷曦影视",
@@ -751,7 +729,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
+            "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
          },
          {
             "key": "AliPS",
@@ -761,7 +739,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
+            "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
          },
          {
             "key": "Yiso",
@@ -771,7 +749,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
+            "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
          },
          {
             "key": "推送",
@@ -781,7 +759,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/ali.txt"
+            "ext": "7b78e7a5aa8a4a8bb722ec7e171d9438"
          }
     ],
        "lives":[
@@ -1102,5 +1080,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-       "spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/999.jar;md5;12730AC72524422555A034DC8DEE8B57"
+       "spider":"https://agit.ai/wzs1973/test/raw/branch/master/jar/0922.jar;md5;D10443E6765D1630624FFECA9AE3B179"
 }
