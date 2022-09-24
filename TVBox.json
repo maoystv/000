@@ -73,8 +73,18 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"
+            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/xifan.jar;md5;447aeb4bff648a8090225dd29bc225af"
         },
+        {
+            "key":"csp_NianYing",
+            "name":"NianYing(爬虫)",
+            "type":3,
+            "api":"csp_NianYing",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/0910.jar;md5;bf399b7093d34261f759be43e04232ed"
+        },        
         {
             "key": "神马影院",
             "name": "神马(爬虫)",
