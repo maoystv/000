@@ -288,7 +288,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/QXB/小强迷.json"           
+            "ext": "https://agit.ai/wzs1973/test/raw/branch/master/QXB/小强迷.json",
+            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C"
         },
         {
             "key":"csp_QXBiubiu_歪片星球",
@@ -298,7 +299,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/QXB/歪片星球.json"           
+            "ext":"https://agit.ai/wzs1973/test/raw/branch/master/QXB/歪片星球.json",
+            "jar": "https://agit.ai/wzs1973/test/raw/branch/master/jar/QXBiubiu.jar;md5;381F3DE719515C74821274EB2D12877C"
         }, 
         {
             "key": "饭团影视",
