@@ -678,7 +678,7 @@
             "searchable": 1,
             "quickSearch": 1
          },
-    {"key":"csp_XBPQ极品影视","name":"极品影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/XBPQ/极品影视.json","jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XBPQ.jar;md5;FC05EA9C2A8EFCF4C18C6AFCE51AC406"},
+  
     {"key":"csp_xBPQ_极品","name":"极品","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放标题\":\"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html\",\"年份\":\"2000-2022\",\"筛选\":\"1\"}"},	
     {"key":"csp_xBPQ_荐片","name":"荐片","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},	
     {"key":"csp_xBPQ_cs","name":"️FREE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$4#动漫$3#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}/\"}"},	
@@ -715,7 +715,7 @@
             "key":"影库资源",
             "name":"※影库资源",
             "type":1,
-            "api":"https://api.ykapi.net/api.php/provide/vod/at/json",
+            "api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
             "searchable":1,
             "quickSearch":1
          },         
