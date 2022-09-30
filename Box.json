@@ -32,7 +32,7 @@
 {"key":"美食","name":"🍔美食合集 B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/美食合集.json"},
 {"key":"音乐","name":"🎤音乐现场 B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/音乐现场.json"},
 {"key":"热舞","name":"💃女团热舞 B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/女团热舞.json"},
-{"key":"棋牌","name":"♟️棋牌天地 B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/女团热舞.json"},
+{"key":"棋牌","name":"♟️棋牌天地 B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/棋牌天地.txt"},
 {"key":"戏曲","name":"👘戏曲合集 B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/戏曲合集.json"},
 {"key":"短视频聚合","name":"📱短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/XYQ/聚合短视频.js"},
 {"key":"csp_Yj1211","name":"📸直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":0},
