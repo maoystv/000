@@ -122,6 +122,17 @@
  "ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---",
  "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XBiu.jar;md5;F5F56C383336AB7CC88311A04CEE9755"
 },
+{
+ "key":"csp_xb_xkyy",
+ "name":"💠星空影院",
+ "type":3,
+ "api":"csp_XBiu",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":0,
+ "ext":"https://m.7caa.com/list/{cateId}-{catePg}.html",
+ "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/XBiu.jar;md5;F5F56C383336AB7CC88311A04CEE9755"
+},
 {"key":"csp_xp_jLgyy","name":"💎蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/XB/蓝光影院.json"},
 {"key":"干饭影视","name":"🍚干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/XB/干饭影视.json"},
 {"key":"口袋影院","name":"👝口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/wzs1973/test/raw/branch/master/XB/口袋影院.json"},
