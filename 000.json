@@ -170,7 +170,7 @@
             "searchable": 1,
             "quickSearch": 2,
             "filterable": 1,
-            "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+            "ext": "http://103.197.25.136:3836/api.php/app/"
         },
         {"key":"csp_xml_小蚂蚁","name":"💖分享麻衣","type":1,"api":"http://zy.91by.top/api.php/provide/vod/","playUrl":"json:http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=","searchable":1,"quickSearch":1},
       
@@ -548,7 +548,7 @@
       "ext":"hjju123@qq.com$$$123456"
     },
 
-    {"key":"csp_www","name":"💥来来往往","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/往往影视.json"},
+    {"key":"csp_ww","name":"💥来来往往","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/往往影视.json"},
 
         {
       "key": "csp_低调",
