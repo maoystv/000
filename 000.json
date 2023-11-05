@@ -151,7 +151,6 @@
       ]
     },
    {"key":"七月","name":"💖分享专线","type":3,"api":"csp_XBPQ","ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/七月影视.json"},
-   
         {
             "key": "2聚合",
             "name": "💖分享遇见",
@@ -738,8 +737,6 @@
 			"ext": "https://www.qqtv.vip/icciu_api.php/v1.vod"
 		},
 {"key": "鑫鑫影视","name": "🏡影视之家", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
-   
-        {"key":"大豆影视","name":"🌳大豆影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dadou.cm/api.php/app/"},
 
      {"key": "lang", "name": "🗳蓝光官釆", "type": 1,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"},
 
@@ -780,17 +777,7 @@
                 "分类数组":"swiper-wrapper\"*&&</ul>",
                 "分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"
             }},
-           {"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""}, 
-           {
-			"key": "落落",
-			"name": "⭐️落落晨星",
-			"type": 3,
-			"api": "csp_AppYs",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://1080dyw.com/icciu_api.php/v1.vod"
-		},
+           {"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
         {"key":"Cokemv","name":"🥤可口可乐","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
         
             {"key":"aqy","name":"💗奇艺php","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi",playUrl":"1","searchable":1,"quickSearch":1},
