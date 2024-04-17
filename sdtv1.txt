@@ -1,6 +1,6 @@
 [
 
-{"name":"💕分享者💕直播","url":"https://notabug.org/ygfxz/mao/raw/master/live20220813.txt&https://tuapi.eees.cc/api.php?category=meinv&type=302"}
+{"name":"💕分享者💕直播","url":"https://notabug.org/ygfxz/mao/raw/master/live20220813.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"}
 
 
 
