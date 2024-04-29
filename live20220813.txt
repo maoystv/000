@@ -60,103 +60,6 @@
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 中国天气,http://[2409:8087:1e03:21::35]:6610/cms001/ch00000090990000001102/index.m3u8?IASHttpSessionId=RR1550020231201050336120465&ispcode=12#http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 
-💖｜分享糖豆,#genre#
-
-杨丽萍 负我不负她,https://aqiniutv.tangdou.com/202404/20000007592508_H720P.mp4?sign=c2fac8a094ebe8597cdd25fc2cee0c70&t=662911e9
-慧慧 我把来生许给了你,https://aqiniutv.tangdou.com/202308/20000005900410-1080p.mp4?sign=ddaae559ba2503404fb7bb120ea3a51f&t=66291390
-燕子 来生再去拥抱你,https://aqiniutv.tangdou.com/wz/202312/20000006812224_H720P.mp4?sign=e7eba1e50dfc84cc04253cf942bc54ee&t=66294524
-安徽金社 为你等待,https://aqiniutv.tangdou.com/202011/14F8B05E43983A731DB7CE10D8AE6EA2-1080p.mp4?sign=15ae6d34e004b1809622d97aa05748e2&t=66294603
-惠汝 站着等你三千年,https://aqiniutv.tangdou.com/201904/18F1B8D6B8B5FF0526E950E4555B59AC1-20.mp4?sign=5f72d446b1228130fba9e6dc36151b0c&t=662946bb
-雪妹舞 如果爱还,在https://aqiniutv.tangdou.com/202106/3E495EFC7FCFCB66C52D2339BBE1EE8E-1080p.mp4?sign=84e98fc3312e3c396cb8b3063b6f13bd&t=6629486d
-灿灿 听闻远方有你,https://aqiniutv.tangdou.com/202111/20000000906513-1080p.mp4?sign=968de3128fc87fad072677747610efa3&t=66295e3b
-子青 心上的罗加,https://aqiniutv.tangdou.com/202206/20000002851190-1080p.mp4?sign=253ccb0055dba069916a519c3ac10fc7&t=66295fb0
-白衣天使 你从草原走来,https://aqiniutv.tangdou.com/202111/20000000765049-1080p.mp4?sign=e517f718545f5fedf4189bbbde7b56c2&t=66296032
-银河湾 山谷里的思念,https://aqiniutv.tangdou.com/201907/116FA5744CA14063DEBCC0A96C0C83EF1-1080p.mp4?sign=718b617877bc37b8347915337bd0d6bf&t=6629611e
-燕子 阿爸阿妈,https://aqiniutv.tangdou.com/wz/202403/20000007504677_H720P.mp4?sign=199c182cc9ff7f44203f1296b4000238&t=662961a7
-茉莉 旧梦,https://aqiniutv.tangdou.com/202205/20000002477574-1080p.mp4?sign=5174dfe3c99bf8a4857107c9ae28c1ce&t=66296269
-灿灿 相思的债,https://aqiniutv.tangdou.com/202210/20000003804437-1080p.mp4?sign=64bc8bf95124a649ca23ffeadfbd91eb&t=6629630e
-雪妹舞翩翩 藕断丝连https://aqiniutv.tangdou.com/202009/DB242FDCFCA7B033B4181EC159949254-1080p.mp4?sign=83a42239c05e5b48e80b9cc522637a65&t=6629639e
-云裳 一曲红尘,https://aqiniutv.tangdou.com/202003/50D22F54DF5F3F29F74597E4876A1E401-1080p.mp4?sign=b5644741b5df3a87448e44c326f3a005&t=66296451
-蝶依 一剪梅,https://aqiniutv.tangdou.com/202001/058671A8CE138F7BC3ED23F45445F65D-1080p.mp4?sign=5e8f9786d8dc2f95af0255048ed9f034&t=662964f6
-金灿灿 拥抱你离去,https://aqiniutv.tangdou.com/06BB6A22D57AB8819C33DC5901307461-20.mp4?sign=9864364f59d8749ae49230b8ccc463fc&t=66296578
-云裳 你莫走,https://aqiniutv.tangdou.com/202006/47964561A5C4A34E7CEACE49C1796722-1080p.mp4?sign=3a176474a7d2f7a74b20f010b23821d6&t=66296601
-青儿 想你的时候问月亮,https://aqiniutv.tangdou.com/202108/20000000023067-1080p.mp4?sign=135e8dd73cf8e49a25b654022ec411ee&t=662a0ec6
-小龙女 红颜知己,https://aqiniutv.tangdou.com/202106/D37B696551268B44CBF0B061BDABAA42-20.mp4?sign=fd09b15f7994ce2f7142039e1e5bbb0f&t=662a1219
-安徽金社 默默的等,https://aqiniutv.tangdou.com/202402/20000007321957-1080p.mp4?sign=b89ca235d91edf3688cff8899548c0b8&t=662a06a9
-金鼓微笑 美丽的相遇,https://aqiniutv.tangdou.com/202402/20000007309276-1080p.mp4?sign=90e07d19f483d8107945f1e6f54f6956&t=662a075b
-松松 满天雪花相思泪,https://aqiniutv.tangdou.com/202402/20000007262405-1080p.mp4?sign=26fe79629bd46b5116c66fc0ba9a16b4&t=662a085c
-阿珠 走天涯,https://aqiniutv.tangdou.com/202208/20000003500396_H720P.mp4?sign=952c622777312d85472cd7b7d4bb9c0a&t=662a0984
-淼淼 思念天边的你,https://aqiniutv.tangdou.com/202308/20000005948995-1080p.mp4?sign=f11039ff6fbace76c89f5e596bf53363&t=662a0c05
-青青 .没有你陪伴我真的好孤单,https://aqiniutv.tangdou.com/wz/202404/20000007622338_H720P.mp4?sign=794d62fbaf70d0b93a1f40488b94512c&t=662a0d35
-雪妹舞 万爱千恩,https://aqiniutv.tangdou.com/201906/811EB6AAA509B4EE059E373E26E87BF61-1080p.mp4?sign=c1702a5f016e01fdb0feb63ead2ce82e&t=662a0e2d
-映容雪 你把爱情给了谁,https://aqiniutv.tangdou.com/201912/BBD9551B5DC0213DA2F590EE8DEF6196-1080p.mp4?sign=f64ead25b4ce4fdf4cb75c4550719a43&t=662a1168
-问花问风又问雨优美多彈跳步子舞,https://aqiniutv.tangdou.com/202402/20000007281406-1080p.mp4?sign=f7c66929724afcec66b61fc628ad733a&t=662906ef
-慧慧《又见山里红》简单好看步子舞附教学,https://aqiniutv.tangdou.com/202401/20000007139429-1080p.mp4?sign=8093eed5e9391698de1ab5ed05755394&t=662914bc
-清蓉《青山哥哥绿水妹—淡然豆芽》正面超美民族风一看就爱上,https://aqiniutv.tangdou.com/202404/20000007605607_H720P.mp4?sign=58db033e837b55e35d55606ac25edba5&t=6629156a
-重庆叶子《画你》云裳加编优美大气藏族舞附分解,https://aqiniutv.tangdou.com/202201/20000001437457-1080p.mp4?sign=9e5bab83478c4137157c53ae1976cdb4&t=6629163d
-妃儿舞蹈《无憾》简单爵士风爆火流行舞附教学,https://aqiniutv.tangdou.com/wz/202403/20000007404907_H720P.mp4?sign=ded230c896c4e6a18a29b06da407aa8e&t=662916c4
-鸿霞广场舞《偷了黄昏的酒》原创流行舞附教学,https://aqiniutv.tangdou.com/wz/202403/20000007404907_H720P.mp4?sign=ded230c896c4e6a18a29b06da407aa8e&t=662916c4
-花与影《负我不负她》正背演示完整版,https://aqiniutv.tangdou.com/202312/20000006740516-1080p.mp4?sign=73429a09e33c04947b4a538ac06493fc&t=6629183a
-舞倾心《科目三》流行舞附教学,https://aqiniutv.tangdou.com/202401/20000007155064-1080p.mp4?sign=582247aeaaf63cedc13b5342eef48999&t=662918aa
-安徽金社《等你回来》16步恰恰，欢快的节奏，送给你,https://aqiniutv.tangdou.com/202010/FCC4AC8A84BE6C190A52B7B218505E24-1080p.mp4?sign=174cc34eef39ad0b639fa5b2a69df2b9&t=6629191a
-青儿广场舞《负我不负她》火爆流行，超美动感时尚弹跳舞,https://aqiniutv.tangdou.com/202310/20000006314016-1080p.mp4?sign=2f337f738f623b02805ec8ecd269833b&t=6629197f
-杨丽萍《酒杯太浅思念太满》火爆网络32步步子舞加8步间奏,https://aqiniutv.tangdou.com/202403/20000007431280-1080p.mp4?sign=1297b48aafe532730be2b54c24450ac2&t=662919ce
-
-雨葵广场舞《月亮月亮你别睡》超火爆32步摆胯舞,https://aqiniutv.tangdou.com/202009/E0F55DB57C834C876EC0C4EE238B6338-1080p.mp4?sign=6cbedb33ff93a76c929ee45789f38699&t=66291a53
-紫罗舞蹈《春风何时来》最火的流行舞附教学,https://aqiniutv.tangdou.com/202402/20000007323967-1080p.mp4?sign=7a5011e1c251637e1e0a5cd1b25af027&t=66291aad
-芝麻爱跳舞《满眼相思寄清风》时尚弹跳舞,https://aqiniutv.tangdou.com/wz/202403/20000007371384_H720P.mp4?sign=2ab47791e6e0e375ae9e0166ac5545ff&t=66291b13
-梁萍《草原骏马飞》最新爆火超美民族草原水兵舞混搭风,https://aqiniutv.tangdou.com/202307/20000005795475-1080p.mp4?sign=1f769519b7ff572e2e77513df5f29bbe&t=66291b94
-原创流行《欢迎小土豆》简单好看音乐好听，附教学,https://aqiniutv.tangdou.com/wz/202401/20000007198535_H720P.mp4?sign=8d1d2e5f122a96effa85682a7d8f5637&t=66291c1f
-菲菲8广场舞《今夜舞起来》动感欢快，简单32步附分解,https://aqiniutv.tangdou.com/wz/202401/20000007235398_H720P.mp4?sign=d00ce2a95492b21491b97e4bc7de816e&t=66291c66
-广场舞《负我不负她》正背面演示，学跳更简单,https://aqiniutv.tangdou.com/202310/20000006285194-1080p.mp4?sign=19eb55aa2445142d01982d5c43d746f3&t=66291cfd
-金灿灿《走过咖啡屋》爆火经典金曲欢快六十四步附教学,https://aqiniutv.tangdou.com/202105/DCB05236BD4C24FB15B12BE5B05A3AC6-20.mp4?sign=22a194d80a7fc49bb7cb186d3ecf3782&t=66291d82
-广场舞《借点情借点爱》火爆情歌，背面32步,https://aqiniutv.tangdou.com/202305/20000005095459_H720P.mp4?sign=1bc3cadaba007299fa7ee3b984ae235e&t=66291e06
-
-《八十一难七十二变》超美混搭水兵舞附分解教学,https://aqiniutv.tangdou.com/202311/20000006550406-1080p.mp4?sign=58dfadb665eed5ebdb22f2efe7a37438&t=66291e99
-《红颜知己》好听好看大众步子舞，简单易学,https://aqiniutv.tangdou.com/202305/20000005272595-1080p.mp4?sign=3579090a26dc81242979bcfa3016765e&t=66291f1b
-《山坡坡》背面演示完整版,https://aqiniutv.tangdou.com/202209/20000003645848-1080p.mp4?sign=55c0d2380392ffd3c1d2778e2dedfcc4&t=66291f72
-花雨黯《三二一走》时尚64步，老少都能学会,https://aqiniutv.tangdou.com/202402/20000007257528-1080p.mp4?sign=7a62b237a2739ce3242627edef63bec7&t=66291fe7
-安徽金社《2024年下扬州》爆火情歌对唱俏皮欢快步子舞,https://aqiniutv.tangdou.com/202401/20000007114079-1080p.mp4?sign=39c56c6a138f412f39ed89d9f7449b11&t=66292080
-雨葵《天生一对》全网热搜原创时尚步子舞火爆了,https://aqiniutv.tangdou.com/202009/2B255F5275FF5FDD98E97F590DDB9E61-1080p.mp4?sign=1d22b679bb76a4c3206005330d5cb3e8&t=662920f2
-蝶衣《云上情歌》正背面完整演示及口令教学（格格）,https://aqiniutv.tangdou.com/202111/20000000708328-1080p.mp4?sign=e12574b35042bcc9baa61d5d327486bd&t=6629219d
-雪妹舞翩翩《可可托海的牧羊人》简单爆火网红舞附教学,https://aqiniutv.tangdou.com/202011/1BCAFABB45C49870A65E73EFD47A334B1-1080p.mp4?sign=a9755309289dd30bda8d68ba7bdfaf7e&t=66292203
-
-《又见山里红》经典步子舞附教学!简单又好看,https://aqiniutv.tangdou.com/201811/FEB2949866366D372208B661CAD8AA521-1080p.mp4?sign=4108bab6ff512395e5043eebe045b190&t=662922e5
-安徽金社《难忘的茶树园》2024爆火优美抒情情歌对唱,https://aqiniutv.tangdou.com/202403/20000007430462-1080p.mp4?sign=2553555ce7b73a6465f60717559fa2a9&t=6629232b
-济南朵朵《莫相离》新歌新舞全网首发，音乐太嗨了,https://aqiniutv.tangdou.com/202111/20000000900549-1080p.mp4?sign=f6e10a1b9e68e4484d84258ccdc8231e&t=6629239f
-《我们不再是从前》超嗨节奏，太好听,https://aqiniutv.tangdou.com/202112/20000001009313-1080p.mp4?sign=bbe94c60cdeecaff2295d004ed541bf9&t=6629240e
-叶梦《云中的鄂尔多斯》完整版，简单大气附教学,https://aqiniutv.tangdou.com/202403/20000007430574-1080p.mp4?sign=f155ed3606e7bb25771b7f89fcf80402&t=66292456
-蝶舞阿玉《还没有爱够》32步肯面演绎,https://aqiniutv.tangdou.com/202205/20000002595278_H720P.mp4?sign=bc1e629be4258bd651fe111bf6662022&t=66292800
-雪妹舞翩翩广场舞《天边的情哥哥》原创优美抒情舞蹈附教学,https://aqiniutv.tangdou.com/201905/1136E457D81E6092212790C72298D9571-1080p.mp4?sign=5ac263bde9b3c42e3ea81e916cbad274&t=6629286c
-《天山放歌》动感弹跳混搭风附分解,https://aqiniutv.tangdou.com/202402/20000007362276-1080p.mp4?sign=0af7a67a9e0e34f79d768b67d8d978a0&t=662928ad
-《九妹》经典老歌,https://aqiniutv.tangdou.com/202309/20000005996607-1080p.mp4?sign=d12558d8f898b5d09c1173e511531fa5&t=6629295b
-子青舞队《叫一声二奶奶》这舞又火了、喜欢就一跳起来,https://aqiniutv.tangdou.com/202403/20000007450603-1080p.mp4?sign=017379e5f7ed9ee1fdceb85b9628d5f5&t=662929d8
-蝶依《带你潇洒带你嗨》16步走步舞,https://aqiniutv.tangdou.com/202106/9FB46759DEE2B1BC6FE4D736FA76D880-1080p.mp4?sign=9b24f547abfbcb5a7f960e3c8f3e6b49&t=66292a21
-霞子《背叛情歌》跳时尚流行舞 做潇洒女人 附教学,https://aqiniutv.tangdou.com/202403/20000007447122_H720P.mp4?sign=930170b8da7e8ef7334431fc9c1bcfac&t=66292ab0
-杨丽萍《落单的鸳鸯》最火版网络弹跳混搭风,https://aqiniutv.tangdou.com/202312/20000006770149-1080p.mp4?sign=eb8724beb5252beeca621df7abc57e43&t=66292b1d
-妃儿《情歌悠悠爱飞扬》好听好看现代舞附教学,https://aqiniutv.tangdou.com/wz/202310/20000006263143_H720P.mp4?sign=fe1a99c3cd233e85580f3af182c48ea2&t=66292ba2
-《等你等了那么久》网红32步背面版,https://aqiniutv.tangdou.com/04FB0E0C3BD61EB09C33DC5901307461-20.mp4?sign=01c101b19ddbd7e487cde5d4b27b087b&t=66292c39
-《山沟沟山那边》超火俏美秧歌原创附教学,https://aqiniutv.tangdou.com/202308/20000005854486-1080p.mp4?sign=601e0155c14ea9b7c6cfaad8567d3d32&t=66292cc3
-《梦回拉卜楞》爆火版本，背面演示,https://aqiniutv.tangdou.com/202403/20000007436679-1080p.mp4?sign=215d67eb3b70ec460853fe16c004f1e3&t=66292d6b
-《三月三唱山歌》最新版俏皮民族舞,https://aqiniutv.tangdou.com/202304/20000005012945-1080p.mp4?sign=5ca71a4731ac0a05d65511c76e1457fe&t=66292dcb
-《落单的鸳鸯》火爆网络曲简单好看双人舞附教学,https://aqiniutv.tangdou.com/202312/20000006720346-1080p.mp4?sign=3300e88424a467c364c445038f3776cc&t=66292e17
-《放下执念方能重生》爆火新歌超美舞步原创附教学,https://aqiniutv.tangdou.com/wz/202403/20000007374224_H720P.mp4?sign=780dd2904dde2b062d15aa30681fc92d&t=66292eca
-琴妹广场舞《我把来生许给了你》,https://aqiniutv.tangdou.com/202308/20000005866094-1080p.mp4?sign=86c858e1ddef1162b03b332a00ca68ec&t=66292f38
-岁月《套马杆》+间奏老歌新跳,https://aqiniutv.tangdou.com/201911/0035059D3F4B5454713FA28C92294FD3-20.mp4?sign=af87a8c986cf4a3853e0daa2406b4500&t=66292fc9
-《对面的小姐姐》背面简单32步，一看就会,https://aqiniutv.tangdou.com/202004/79343C10D0A36DAAF9F79EA0F482D6BB-1080p.mp4?sign=44acb9233f6f52723da01fb02e7ce679&t=6629307f
-菲菲8广场舞《今夜风阵阵》流行32步附分解,https://aqiniutv.tangdou.com/wz/202304/20000004959887_H720P.mp4?sign=a626b114903d53b1a8144fd115858b47&t=662930e6
-《许我今世缘赐我一身寒》时尚弹跳舞,https://aqiniutv.tangdou.com/wz/202402/20000007358039_H540P.mp4?sign=ff515b22a4f11d5c35934581656baae8&t=6629315d
-《酒醉的蝴蝶》欢快32步，火爆网红步子舞,https://aqiniutv.tangdou.com/201907/D03C9CE509CA95C9E9ECE4497D011397-1080p.mp4?sign=616aec7a07871dc9615543f57db57bc2&t=66293231
-《情深有几许》火爆恰恰混搭流行步子舞附教学,https://aqiniutv.tangdou.com/202110/20000000516456-1080p.mp4?sign=ac673ffc3851e33c8e0617f417e13874&t=662932ac
-漓江飞舞《还没有爱够》最新女生版，超美动感潮流步子舞,https://aqiniutv.tangdou.com/202203/20000001948504-1080p.mp4?sign=a43aca5c0314c4ea7858afe81f1b495c&t=66293311
-《爱在纳木错》简单好看好学民族风广场舞,https://aqiniutv.tangdou.com/202309/20000005971602-1080p.mp4?sign=2e2f582a95cfc8a6e3a176fb6cc20fe7&t=662933df
-茉莉《来生再续未了情》原创简单时尚弹跳舞附教学,https://aqiniutv.tangdou.com/202305/20000005170578-1080p.mp4?sign=7c61e0f03415dd6e4d21bf3434d059d3&t=6629344c
-《醉红妆》简单优美，好听好看附教学,https://aqiniutv.tangdou.com/202103/C9981A8F1820C6098E1136C348D5D2CD-1080p.mp4?sign=6991495e71e89fac9392f8f8c217492f&t=662934ba
-《阿爸阿妈》最新爆火热歌动感时尚简单易学,https://aqiniutv.tangdou.com/202403/20000007467946-1080p.mp4?sign=c4fdd09a5fc3e8289845fcdfb1b510bc&t=662934f0
-《后海酒吧》简单爆火网络流行舞附教学,https://aqiniutv.tangdou.com/202108/20000000028436-1080p.mp4?sign=3398318b00a7b364a271ce500865889e&t=66293522
-《杏花落》古风形体健身舞附教学口令,https://aqiniutv.tangdou.com/wz/202110/20000000440844_H720P.mp4?sign=f46e5a8b82e3719f4c54defb7182974d&t=662935cd
-入门广场舞《拉萨夜雨》背面演示 适合零基础,https://aqiniutv.tangdou.com/32C26322593CE8F29C33DC5901307461-20.mp4?sign=cf71f5435818d8428f5f6b8d24127c66&t=662936a1
-
 💖丨分享V4,#genre#
 CCTV1-HD,http://60.174.40.117:9901/tsfile/live/0001_1.m3u8
 CCTV2-HD,http://60.174.40.117:9901/tsfile/live/0002_1.m3u8
@@ -5617,6 +5520,120 @@ TVB翡翠频道,http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
 4K「时尚」台,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 4K「自然」台,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 8K北京纪实台,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8 
+中天新闻2,http://154.yfvodcdn.com:8080/live/ztylt02/hls.m3u8
+三立新闻,http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
+三立新闻+,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
+民视新闻,http://154.yfvodcdn.com:8080/live/tymsxw1/hls.m3u8
+台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
+中视频道,http://154.yfvodcdn.com:8080/live/ztylt06/hls.m3u8
+
+中天新闻,http://58.87.99.251:8090/HK/ztxw/hls.m3u8
+中视频道,rtmp://220.130.201.73/sat/tv091
+华视频道,rtmp://220.130.201.73/sat/tv111
+台视频道,rtmp://220.130.201.73/sat/tv071
+民视频道,rtmp://220.130.201.73/sat/tv051
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://220.130.201.73/sat/tv701
+纬来日本,rtmp://220.130.201.73/sat/tv771
+东森超视,rtmp://220.130.201.73/sat/tv331
+
+民视频道,rtmp://f13h.mine.nu/sat/tv051
+台视频道,rtmp://f13h.mine.nu/sat/tv071
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+华视频道,rtmp://f13h.mine.nu/sat/tv111
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+环球IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+中國環球,http://live.cgtn.com/500/prog_index.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+环球频道,http://live.cgtn.com/500/prog_index.m3u8
+NHK日本,http://180.167.104.105:9901/tsfile/live/1025_1.m3u8
+KBS韩国,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8
+CAN亚洲,http://180.167.104.105:9901/tsfile/live/1030_1.m3u8
+CNB亚太,http://180.167.104.105:9901/tsfile/live/1031_1.m3u8
+CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+Job Plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+CTS 基督教기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+Job Plus tv,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+J SPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J SPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J SPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J SPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+東映チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネル銀河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ファミリー劇場,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ホームドラマチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ムービープラス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレNEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレジータス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+時代劇専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+囲碁?将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSテレ東,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+キッズステーション,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スーパー!ドラマTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スカイA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 「中国」CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8 
 「中国」CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8 
 「中国」CGTN西语,http://livees.cgtn.com/500e/prog_index.m3u8 
